@@ -1,0 +1,569 @@
+{
+    "Name": "scrapping_nomor",
+    "CreationDate": "2024-6-4",
+    "Commands": [{
+            "Command": "open",
+            "Target": "https://maps.google.com",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "pause",
+            "Target": "10000",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${!cmd_var1}.split(\"-\");",
+            "Value": "row_data",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${!cmd_var2.split(\"-\");",
+            "Value": "formatedTimestamp",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${row_data[${i}][0]}",
+            "Value": "keyword",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${row_data[${i}][1]}",
+            "Value": "wilayah",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${row_data[${i}][2]}",
+            "Value": "category",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "${keyword}",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "click",
+            "Target": "id=searchboxinput",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "type",
+            "Target": "id=searchboxinput",
+            "Value": "${keyword}",
+            "Description": ""
+        },
+        {
+            "Command": "click",
+            "Target": "xpath=//*[@id='searchbox-searchbutton']/span",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "pause",
+            "Target": "10000",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "fileExists",
+            "Target": "(dewa) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "fileDewaExist",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${fileDewaExist}",
+            "Value": "true",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "ID;Contact;Name;Status;Kategori;Deskripsi;Email;Website",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "(dewa) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "fileExists",
+            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "fileQontaqExist",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${fileQontaqExist}",
+            "Value": "true",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "phone_number;full_name;customer_name;company_name",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "storeXpathCount",
+            "Target": "xpath=//a[@class='hfpxzc']",
+            "Value": "count",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "1",
+            "Value": "index",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${fileQontaqExist}",
+            "Value": "true",
+            "Description": ""
+        },
+        {
+            "Command": "csvRead",
+            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "while",
+            "Target": "${!csvReadStatus}",
+            "Value": "== \"OK\"",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "",
+            "Value": "all_contact",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return String (${all_contact})+('${!COL1}')+'!!!';",
+            "Value": "all_contact",
+            "Description": ""
+        },
+        {
+            "Command": "csvReadNext",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "endWhile",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "else",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "",
+            "Value": "all_contact",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "while",
+            "Target": "${index} < ${count}",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript",
+            "Target": "document.getElementsByClassName('hfpxzc')[${count}-1].scrollIntoView()",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "pause",
+            "Target": "10000",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return Number (${count});",
+            "Value": "index",
+            "Description": ""
+        },
+        {
+            "Command": "storeXpathCount",
+            "Target": "xpath=//a[@class='hfpxzc']",
+            "Value": "count",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "${index} / ${count}",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${fileQontaqExist}",
+            "Value": "false",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "1",
+            "Value": "indexValid",
+            "Description": ""
+        },
+        {
+            "Command": "else",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "1",
+            "Value": "indexValid",
+            "Description": ""
+        },
+        {
+            "Command": "csvRead",
+            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return Number (${!CsvReadMaxRow})+1;",
+            "Value": "indexValid",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "1",
+            "Value": "indexNomor",
+            "Description": ""
+        },
+        {
+            "Command": "while",
+            "Target": "${indexNomor} <= ${count}",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "storeText",
+            "Target": "xpath=(//div[@class='W4Efsd']//span[@class='UsdlK'])[${indexNomor}]",
+            "Value": "contact",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${contact} == '#LNF'",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return '';",
+            "Value": "contact",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return Number (${count})+1;",
+            "Value": "indexNomor",
+            "Description": ""
+        },
+        {
+            "Command": "else",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return Number (${indexNomor})+1;",
+            "Value": "indexNomor",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${contact}.replace(/\\(/g, '');",
+            "Value": "contact",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${contact}.replace(/\\)/g, '');",
+            "Value": "contact",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${contact}.replace(/-/g, '');",
+            "Value": "contact",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${contact}.replace(/\\s/g, '');",
+            "Value": "contact",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "${contact}",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return '${contact}'.substring(1, 3);",
+            "Value": "cek_format",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${all_contact}.split('!!!');",
+            "Value": "split_contact",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "kosong",
+            "Value": "status",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "\"${contact}\"",
+            "Value": "contact_string",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${split_contact}.indexOf(${contact_string}) !== -1;",
+            "Value": "isContactExist",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${status} == 'kosong' && ${isContactExist}",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "ada",
+            "Value": "status",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "${status}",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "${cek_format}",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${status} == 'kosong' && ${cek_format} == '08'",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "XClick",
+            "Target": "xpath=(//div[@class='W4Efsd']//span[@class='UsdlK'])[${indexNomor}-1]",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "pause",
+            "Target": "5000",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "storeText",
+            "Target": "xpath=//h1[contains(@class,'DUwDvf')]",
+            "Value": "nama",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${nama}.replace(/,/g, '');",
+            "Value": "nama",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${nama}.replace(/;/g, '');",
+            "Value": "nama",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${nama}.replace(/\"/g, '');",
+            "Value": "nama",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${nama}.replace(/'/g, '');",
+            "Value": "nama",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "${nama}",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${contact}.replace(/^0/, '62');",
+            "Value": "final_contact",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${indexValid};${final_contact};${nama};;${keyword};${wilayah}",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "(dewa) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${final_contact};${nama};${keyword};${wilayah}",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return String (${all_contact})+('${contact}')+'!!!';",
+            "Value": "all_contact",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return Number (${indexValid})+1;",
+            "Value": "indexValid",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "valid",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "else",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "echo",
+            "Target": "not valid",
+            "Value": "blue",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "click",
+            "Target": "xpath=//*[@id='searchbox']/div[2]/button",
+            "Value": "",
+            "Description": ""
+        }
+    ]
+}
