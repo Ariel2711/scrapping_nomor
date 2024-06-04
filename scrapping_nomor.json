@@ -21,7 +21,7 @@
         },
         {
             "Command": "executeScript_Sandbox",
-            "Target": "return ${!cmd_var2.split(\"-\");",
+            "Target": "return ${!cmd_var2}.split(\"-\");",
             "Value": "formatedTimestamp",
             "Description": ""
         },
