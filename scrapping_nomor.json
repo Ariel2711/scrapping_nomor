@@ -14,32 +14,44 @@
             "Description": ""
         },
         {
+            "Command": "bringBrowserToForeground",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
             "Command": "executeScript_Sandbox",
-            "Target": "return ${!cmd_var1}.split(\"-\");",
+            "Target": "return ${!cmd_var1}.split(\",\");",
             "Value": "row_data",
             "Description": ""
         },
         {
             "Command": "executeScript_Sandbox",
-            "Target": "return ${!cmd_var2}.split(\"-\");",
+            "Target": "return ${!cmd_var2};",
             "Value": "formatedTimestamp",
             "Description": ""
         },
         {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${!cmd_var3};",
+            "Value": "indexKeyword",
+            "Description": ""
+        },
+        {
             "Command": "store",
-            "Target": "${row_data[${i}][0]}",
+            "Target": "${row_data[0]}",
             "Value": "keyword",
             "Description": ""
         },
         {
             "Command": "store",
-            "Target": "${row_data[${i}][1]}",
+            "Target": "${row_data[1]}",
             "Value": "wilayah",
             "Description": ""
         },
         {
             "Command": "store",
-            "Target": "${row_data[${i}][2]}",
+            "Target": "${row_data[2]}",
             "Value": "category",
             "Description": ""
         },
@@ -74,15 +86,9 @@
             "Description": ""
         },
         {
-            "Command": "fileExists",
-            "Target": "(dewa) scrapping nomor ${category} ${formatedTimestamp}.csv",
-            "Value": "fileDewaExist",
-            "Description": ""
-        },
-        {
             "Command": "if",
-            "Target": "${fileDewaExist}",
-            "Value": "true",
+            "Target": "${indexKeyword} < 1",
+            "Value": "",
             "Description": ""
         },
         {
@@ -104,15 +110,9 @@
             "Description": ""
         },
         {
-            "Command": "fileExists",
-            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
-            "Value": "fileQontaqExist",
-            "Description": ""
-        },
-        {
             "Command": "if",
-            "Target": "${fileQontaqExist}",
-            "Value": "true",
+            "Target": "${indexKeyword} < 1",
+            "Value": "",
             "Description": ""
         },
         {
@@ -146,57 +146,57 @@
             "Description": ""
         },
         {
-            "Command": "if",
-            "Target": "${fileQontaqExist}",
-            "Value": "true",
+            "Command": "store",
+            "Target": "",
+            "Value": "all_contact",
             "Description": ""
         },
         {
-            "Command": "csvRead",
-            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Command": "if",
+            "Target": "${indexKeyword} > 0",
             "Value": "",
             "Description": ""
         },
         {
-            "Command": "while",
-            "Target": "${!csvReadStatus}",
-            "Value": "== \"OK\"",
+            "Command": "csvReadArray",
+            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "arr",
             "Description": ""
         },
         {
-            "Command": "store",
-            "Target": "",
-            "Value": "all_contact",
+            "Command": "times",
+            "Target": "${!CsvReadMaxRow}",
+            "Value": "",
             "Description": ""
         },
         {
             "Command": "executeScript_Sandbox",
-            "Target": "return String (${all_contact})+('${!COL1}')+'!!!';",
-            "Value": "all_contact",
-            "Description": ""
-        },
-        {
-            "Command": "csvReadNext",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "endWhile",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "else",
-            "Target": "",
-            "Value": "",
+            "Target": "return ${!times} - 1;",
+            "Value": "i",
             "Description": ""
         },
         {
             "Command": "store",
-            "Target": "",
+            "Target": "${arr[${i}][0]}",
+            "Value": "arrValue",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${arrValue}.split(\";\");",
+            "Value": "splitArr",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return String (${all_contact})+('${splitArr[0]}')+'!!!';",
             "Value": "all_contact",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
             "Description": ""
         },
         {
@@ -236,39 +236,21 @@
             "Description": ""
         },
         {
-            "Command": "echo",
-            "Target": "${index} / ${count}",
-            "Value": "blue",
-            "Description": ""
-        },
-        {
             "Command": "end",
             "Target": "",
             "Value": "",
             "Description": ""
         },
         {
+            "Command": "store",
+            "Target": "1",
+            "Value": "indexValid",
+            "Description": ""
+        },
+        {
             "Command": "if",
-            "Target": "${fileQontaqExist}",
-            "Value": "false",
-            "Description": ""
-        },
-        {
-            "Command": "store",
-            "Target": "1",
-            "Value": "indexValid",
-            "Description": ""
-        },
-        {
-            "Command": "else",
-            "Target": "",
+            "Target": "${indexKeyword} > 0",
             "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "store",
-            "Target": "1",
-            "Value": "indexValid",
             "Description": ""
         },
         {
@@ -279,7 +261,7 @@
         },
         {
             "Command": "executeScript_Sandbox",
-            "Target": "return Number (${!CsvReadMaxRow})+1;",
+            "Target": "return Number (${!CsvReadMaxRow});",
             "Value": "indexValid",
             "Description": ""
         },
@@ -387,7 +369,31 @@
         },
         {
             "Command": "store",
-            "Target": "\"${contact}\"",
+            "Target": "${contact}",
+            "Value": "format_contact",
+            "Description": ""
+        },
+        {
+            "Command": "if",
+            "Target": "${cek_format} == '08'",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return ${contact}.replace(/^0/, '62');",
+            "Value": "format_contact",
+            "Description": ""
+        },
+        {
+            "Command": "end",
+            "Target": "",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "\"${format_contact}\"",
             "Value": "contact_string",
             "Description": ""
         },
@@ -413,18 +419,6 @@
             "Command": "end",
             "Target": "",
             "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "echo",
-            "Target": "${status}",
-            "Value": "blue",
-            "Description": ""
-        },
-        {
-            "Command": "echo",
-            "Target": "${cek_format}",
-            "Value": "blue",
             "Description": ""
         },
         {
@@ -513,7 +507,7 @@
         },
         {
             "Command": "executeScript_Sandbox",
-            "Target": "return String (${all_contact})+('${contact}')+'!!!';",
+            "Target": "return String (${all_contact})+('${final_contact}')+'!!!';",
             "Value": "all_contact",
             "Description": ""
         },
@@ -521,24 +515,6 @@
             "Command": "executeScript_Sandbox",
             "Target": "return Number (${indexValid})+1;",
             "Value": "indexValid",
-            "Description": ""
-        },
-        {
-            "Command": "echo",
-            "Target": "valid",
-            "Value": "blue",
-            "Description": ""
-        },
-        {
-            "Command": "else",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "echo",
-            "Target": "not valid",
-            "Value": "blue",
             "Description": ""
         },
         {

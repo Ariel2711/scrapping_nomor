@@ -8,14 +8,15 @@ async function main() {
         const todayLog = moment();
         const currentDatewithtime = todayLog.format('D_M_YYYY HH_mm_ss');
         const keywords = await readKeywordsFromCSV('list_keyword.csv');
-        for (const keyword of keywords) {
+        for (let i = 0; i < keywords.length; i++) {
+            const keyword = keywords[i];
             console.log(`Running for keyword: ${keyword}`);
 
-            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${keyword}&cmd_var2=${currentDatewithtime}&closeRPA=1&closeBrowser=0&direct=1&storage=xfile`;
+            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${keyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${i}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
 
             await runCommand(`start chrome "${url}"`);
 
-            await sleep(600);
+            await sleep(300000);
         }
     } catch (error) {
         console.error(`Error: ${error.message}`);
@@ -58,7 +59,6 @@ function runCommand(command) {
                 reject(new Error(stderr));
                 return;
             }
-            console.log(`stdout: ${stdout}`);
             resolve(stdout);
         });
     });
