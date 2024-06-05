@@ -12,11 +12,18 @@ async function main() {
             const keyword = keywords[i];
             console.log(`Running for keyword: ${keyword}`);
 
-            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${keyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${i}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
+            await modifyCSV('C:/uivision/datasources/isRunning.csv', 'isRunning', 'false', 'true');
 
+            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${keyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${i}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
             await runCommand(`start chrome "${url}"`);
 
-            await sleep(300000);
+            let isRunning = true;
+            while (isRunning) {
+                await sleep(10000);
+                isRunning = await checkIsRunning('C:/uivision/datasources/isRunning.csv', 'isRunning', 'true');
+            }
+
+            await sleep(5000);
         }
     } catch (error) {
         console.error(`Error: ${error.message}`);
@@ -67,5 +74,61 @@ function runCommand(command) {
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
+
+async function modifyCSV(filePath, columnName, oldValue, newValue) {
+    const rows = [];
+    const headers = [];
+
+    fs.createReadStream(filePath)
+        .pipe(csv())
+        .on('headers', (headerList) => {
+            headers.push(...headerList);
+        })
+        .on('data', (row) => {
+            if (row[columnName] === oldValue) {
+                row[columnName] = newValue;
+            }
+            rows.push(row);
+        })
+        .on('end', () => {
+            const csvContent = [
+                headers.join(','),
+                ...rows.map(row => headers.map(header => row[header]).join(','))
+            ].join('\n');
+
+            fs.writeFile(filePath, csvContent, (err) => {
+                if (err) {
+                    console.error(`Error writing to CSV file: ${err.message}`);
+                } else {
+                    console.log('CSV file updated successfully.');
+                }
+            });
+        })
+        .on('error', (error) => {
+            console.error(`Error reading CSV file: ${error.message}`);
+        });
+}
+
+async function checkIsRunning(filePath, columnName, value) {
+    return new Promise((resolve, reject) => {
+        let lastValue = value;
+        fs.createReadStream(filePath)
+            .pipe(csv())
+            .on('data', (row) => {
+                if (row[columnName] === value) {
+                    lastValue = true;
+                } else {
+                    lastValue = false;
+                }
+            })
+            .on('end', () => {
+                resolve(lastValue);
+            })
+            .on('error', (error) => {
+                reject(error);
+            });
+    });
+}
+
 
 main().catch(error => console.error('Error:', error));

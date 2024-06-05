@@ -1,6 +1,6 @@
 {
     "Name": "scrapping_nomor",
-    "CreationDate": "2024-6-4",
+    "CreationDate": "2024-6-5",
     "Commands": [{
             "Command": "open",
             "Target": "https://maps.google.com",
@@ -9,7 +9,7 @@
         },
         {
             "Command": "pause",
-            "Target": "10000",
+            "Target": "5000",
             "Value": "",
             "Description": ""
         },
@@ -538,6 +538,24 @@
         {
             "Command": "click",
             "Target": "xpath=//*[@id='searchbox']/div[2]/button",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "executeScript_Sandbox",
+            "Target": "return 'false';",
+            "Value": "newStatus",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${newStatus}",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "isRunning.csv",
             "Value": "",
             "Description": ""
         }
