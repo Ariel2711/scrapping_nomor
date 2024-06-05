@@ -8,14 +8,14 @@
             "Description": ""
         },
         {
-            "Command": "pause",
-            "Target": "5000",
+            "Command": "bringBrowserToForeground",
+            "Target": "",
             "Value": "",
             "Description": ""
         },
         {
-            "Command": "bringBrowserToForeground",
-            "Target": "",
+            "Command": "pause",
+            "Target": "5000",
             "Value": "",
             "Description": ""
         },
@@ -34,7 +34,7 @@
         {
             "Command": "executeScript_Sandbox",
             "Target": "return ${!cmd_var3};",
-            "Value": "indexKeyword",
+            "Value": "all_contact",
             "Description": ""
         },
         {
@@ -53,6 +53,12 @@
             "Command": "store",
             "Target": "${row_data[2]}",
             "Value": "category",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${row_data[3]}",
+            "Value": "indexKeyword",
             "Description": ""
         },
         {
@@ -81,7 +87,7 @@
         },
         {
             "Command": "pause",
-            "Target": "10000",
+            "Target": "7000",
             "Value": "",
             "Description": ""
         },
@@ -146,66 +152,6 @@
             "Description": ""
         },
         {
-            "Command": "store",
-            "Target": "",
-            "Value": "all_contact",
-            "Description": ""
-        },
-        {
-            "Command": "if",
-            "Target": "${indexKeyword} > 0",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "csvReadArray",
-            "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
-            "Value": "arr",
-            "Description": ""
-        },
-        {
-            "Command": "times",
-            "Target": "${!CsvReadMaxRow}",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "executeScript_Sandbox",
-            "Target": "return ${!times} - 1;",
-            "Value": "i",
-            "Description": ""
-        },
-        {
-            "Command": "store",
-            "Target": "${arr[${i}][0]}",
-            "Value": "arrValue",
-            "Description": ""
-        },
-        {
-            "Command": "executeScript_Sandbox",
-            "Target": "return ${arrValue}.split(\";\");",
-            "Value": "splitArr",
-            "Description": ""
-        },
-        {
-            "Command": "executeScript_Sandbox",
-            "Target": "return String (${all_contact})+('${splitArr[0]}')+'!!!';",
-            "Value": "all_contact",
-            "Description": ""
-        },
-        {
-            "Command": "end",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "end",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
             "Command": "while",
             "Target": "${index} < ${count}",
             "Value": "",
@@ -219,7 +165,7 @@
         },
         {
             "Command": "pause",
-            "Target": "10000",
+            "Target": "5000",
             "Value": "",
             "Description": ""
         },
@@ -392,14 +338,8 @@
             "Description": ""
         },
         {
-            "Command": "store",
-            "Target": "\"${format_contact}\"",
-            "Value": "contact_string",
-            "Description": ""
-        },
-        {
             "Command": "executeScript_Sandbox",
-            "Target": "return ${split_contact}.indexOf(${contact_string}) !== -1;",
+            "Target": "return ${split_contact}.indexOf(${format_contact}) !== -1;",
             "Value": "isContactExist",
             "Description": ""
         },
@@ -476,14 +416,8 @@
             "Description": ""
         },
         {
-            "Command": "executeScript_Sandbox",
-            "Target": "return ${contact}.replace(/^0/, '62');",
-            "Value": "final_contact",
-            "Description": ""
-        },
-        {
             "Command": "store",
-            "Target": "${indexValid};${final_contact};${nama};;${keyword};${wilayah}",
+            "Target": "${indexValid};${format_contact};${nama};;${keyword};${wilayah}",
             "Value": "!csvLine",
             "Description": ""
         },
@@ -495,7 +429,7 @@
         },
         {
             "Command": "store",
-            "Target": "${final_contact};${nama};${keyword};${wilayah}",
+            "Target": "${format_contact};${nama};${keyword};${wilayah}",
             "Value": "!csvLine",
             "Description": ""
         },
@@ -507,7 +441,7 @@
         },
         {
             "Command": "executeScript_Sandbox",
-            "Target": "return String (${all_contact})+('${final_contact}')+'!!!';",
+            "Target": "return String (${all_contact})+(${format_contact})+'!!!';",
             "Value": "all_contact",
             "Description": ""
         },

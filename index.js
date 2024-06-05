@@ -8,27 +8,72 @@ async function main() {
         const todayLog = moment();
         const currentDatewithtime = todayLog.format('D_M_YYYY HH_mm_ss');
         const keywords = await readKeywordsFromCSV('list_keyword.csv');
+        const timeoutDuration = 10 * 60 * 1000;
+
+        var allNumber = "";
+
         for (let i = 0; i < keywords.length; i++) {
             const keyword = keywords[i];
-            console.log(`Running for keyword: ${keyword}`);
+            const finalKeyword = `${keyword},${i}`;
+            const [part1, part2, part3] = keyword.split(',');
+            console.log(`Running for keyword: ${part1}`);
 
+            const taskStartTime = Date.now();
             await modifyCSV('C:/uivision/datasources/isRunning.csv', 'isRunning', 'false', 'true');
 
-            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${keyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${i}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
+            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${finalKeyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${allNumber}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
             await runCommand(`start chrome "${url}"`);
 
             let isRunning = true;
             while (isRunning) {
                 await sleep(10000);
                 isRunning = await checkIsRunning('C:/uivision/datasources/isRunning.csv', 'isRunning', 'true');
+
+                if (Date.now() - taskStartTime > timeoutDuration) {
+                    console.log(`Timeout reached for keyword: ${part1}`);
+                    isRunning = false;
+                    break;
+                }
             }
 
-            await sleep(5000);
+            await sleep(2500);
+
+            const newNumber = await readNumbersFromCSV(`C:/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
+            allNumber = newNumber;
+
+            await sleep(2500);
         }
+
     } catch (error) {
         console.error(`Error: ${error.message}`);
     }
 }
+
+
+function readNumbersFromCSV(filePath) {
+    return new Promise((resolve, reject) => {
+        let numbers = '';
+        fs.createReadStream(filePath)
+            .pipe(csv())
+            .on('data', (row) => {
+                const columns = Object.values(row);
+                if (columns.length >= 1) {
+                    const [part1, part2, part3, part4] = columns[0].split(';');
+                    const number = `${part1}!!!`;
+                    numbers += number;
+                } else {
+                    console.error('Row does not have enough columns:', row);
+                }
+            })
+            .on('end', () => {
+                resolve(numbers);
+            })
+            .on('error', (error) => {
+                reject(error);
+            });
+    });
+}
+
 
 function readKeywordsFromCSV(filePath) {
     return new Promise((resolve, reject) => {
@@ -111,7 +156,7 @@ async function modifyCSV(filePath, columnName, oldValue, newValue) {
 
 async function checkIsRunning(filePath, columnName, value) {
     return new Promise((resolve, reject) => {
-        let lastValue = value;
+        let lastValue = false;
         fs.createReadStream(filePath)
             .pipe(csv())
             .on('data', (row) => {
