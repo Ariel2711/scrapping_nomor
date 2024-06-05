@@ -62,12 +62,6 @@
             "Description": ""
         },
         {
-            "Command": "echo",
-            "Target": "${keyword}",
-            "Value": "blue",
-            "Description": ""
-        },
-        {
             "Command": "click",
             "Target": "id=searchboxinput",
             "Value": "",
@@ -106,18 +100,6 @@
         {
             "Command": "csvSave",
             "Target": "(dewa) scrapping nomor ${category} ${formatedTimestamp}.csv",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "end",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "if",
-            "Target": "${indexKeyword} < 1",
             "Value": "",
             "Description": ""
         },
@@ -290,12 +272,6 @@
             "Description": ""
         },
         {
-            "Command": "echo",
-            "Target": "${contact}",
-            "Value": "blue",
-            "Description": ""
-        },
-        {
             "Command": "executeScript_Sandbox",
             "Target": "return '${contact}'.substring(1, 3);",
             "Value": "cek_format",
@@ -305,12 +281,6 @@
             "Command": "executeScript_Sandbox",
             "Target": "return ${all_contact}.split('!!!');",
             "Value": "split_contact",
-            "Description": ""
-        },
-        {
-            "Command": "store",
-            "Target": "kosong",
-            "Value": "status",
             "Description": ""
         },
         {
@@ -345,25 +315,7 @@
         },
         {
             "Command": "if",
-            "Target": "${status} == 'kosong' && ${isContactExist}",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "store",
-            "Target": "ada",
-            "Value": "status",
-            "Description": ""
-        },
-        {
-            "Command": "end",
-            "Target": "",
-            "Value": "",
-            "Description": ""
-        },
-        {
-            "Command": "if",
-            "Target": "${status} == 'kosong' && ${cek_format} == '08'",
+            "Target": "${isContactExist} == false && ${cek_format} == '08'",
             "Value": "",
             "Description": ""
         },
@@ -407,12 +359,6 @@
             "Command": "executeScript_Sandbox",
             "Target": "return ${nama}.replace(/'/g, '');",
             "Value": "nama",
-            "Description": ""
-        },
-        {
-            "Command": "echo",
-            "Target": "${nama}",
-            "Value": "blue",
             "Description": ""
         },
         {
