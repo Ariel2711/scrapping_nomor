@@ -30,8 +30,9 @@ async function main() {
                 isRunning = await checkIsRunning('C:/uivision/datasources/isRunning.csv', 'isRunning', 'true');
 
                 if (Date.now() - taskStartTime > timeoutDuration) {
-                    console.log(`Timeout reached for keyword: ${part1}`);
                     isRunning = false;
+                    console.log(`Timeout reached for keyword: ${part1}`);
+                    await closeChromeAndUIVision();
                     break;
                 }
             }
@@ -175,5 +176,13 @@ async function checkIsRunning(filePath, columnName, value) {
     });
 }
 
+async function closeChromeAndUIVision() {
+    try {
+        await runCommand('taskkill /IM chrome.exe /F');
+        console.log('Closed Chrome and UIVision RPA.');
+    } catch (error) {
+        console.error('Error closing Chrome and UIVision RPA:', error.message);
+    }
+}
 
 main().catch(error => console.error('Error:', error));
