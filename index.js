@@ -8,7 +8,7 @@ async function main() {
         const todayLog = moment();
         const currentDatewithtime = todayLog.format('D_M_YYYY HH_mm_ss');
         const keywords = await readKeywordsFromCSV('list_keyword.csv');
-        const timeoutDuration = 10 * 60 * 1000;
+        const timeoutDuration = 20 * 60 * 1000;
 
         var allNumber = "";
 
@@ -19,28 +19,44 @@ async function main() {
             console.log(`Running for keyword: ${part1}`);
 
             const taskStartTime = Date.now();
-            await modifyCSV('C:/uivision/datasources/isRunning.csv', 'isRunning', 'false', 'true');
 
-            const url = `file:///C:/coding/scrapping_nomor_node/uivision.html?macro=scrapping_nomor&cmd_var1=${finalKeyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${allNumber}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
+            try {
+                await modifyCSV('G:/My Drive/uivision/datasources/isRunning.csv', 'isRunning', 'false', 'true');
+            } catch (error) {
+                console.error(`Error modifying CSV: ${error.message}`);
+                continue;
+            }
+
+            const url = `file:///C:/scrapping_nomor/uivision.html?macro=scrapping_nomor&cmd_var1=${finalKeyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${allNumber}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
             await runCommand(`start chrome "${url}"`);
 
             let isRunning = true;
             while (isRunning) {
                 await sleep(10000);
-                isRunning = await checkIsRunning('C:/uivision/datasources/isRunning.csv', 'isRunning', 'true');
-
                 if (Date.now() - taskStartTime > timeoutDuration) {
                     isRunning = false;
                     console.log(`Timeout reached for keyword: ${part1}`);
                     await closeChromeAndUIVision();
                     break;
                 }
+
+                try {
+                    isRunning = await checkIsRunning('G:/My Drive/uivision/datasources/isRunning.csv', 'isRunning', 'true');
+                } catch (error) {
+                    console.error(`Error checking if running: ${error.message}`);
+                    continue;
+                }
             }
 
             await sleep(2500);
 
-            const newNumber = await readNumbersFromCSV(`C:/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
-            allNumber = newNumber;
+            try {
+                const newNumber = await readNumbersFromCSV(`G:/My Drive/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
+                allNumber = newNumber;
+            } catch (error) {
+                console.error(`Error reading numbers from CSV: ${error.message}`);
+                continue;
+            }
 
             await sleep(2500);
         }
@@ -50,9 +66,12 @@ async function main() {
     }
 }
 
-
 function readNumbersFromCSV(filePath) {
     return new Promise((resolve, reject) => {
+        if (!fs.existsSync(filePath)) {
+            return reject(new Error(`File not found: ${filePath}`));
+        }
+
         let numbers = '';
         fs.createReadStream(filePath)
             .pipe(csv())
@@ -74,7 +93,6 @@ function readNumbersFromCSV(filePath) {
             });
     });
 }
-
 
 function readKeywordsFromCSV(filePath) {
     return new Promise((resolve, reject) => {
@@ -122,41 +140,54 @@ function sleep(ms) {
 }
 
 async function modifyCSV(filePath, columnName, oldValue, newValue) {
-    const rows = [];
-    const headers = [];
+    return new Promise((resolve, reject) => {
+        const rows = [];
+        const headers = [];
 
-    fs.createReadStream(filePath)
-        .pipe(csv())
-        .on('headers', (headerList) => {
-            headers.push(...headerList);
-        })
-        .on('data', (row) => {
-            if (row[columnName] === oldValue) {
-                row[columnName] = newValue;
-            }
-            rows.push(row);
-        })
-        .on('end', () => {
-            const csvContent = [
-                headers.join(','),
-                ...rows.map(row => headers.map(header => row[header]).join(','))
-            ].join('\n');
+        if (!fs.existsSync(filePath)) {
+            return reject(new Error(`File not found: ${filePath}`));
+        }
 
-            fs.writeFile(filePath, csvContent, (err) => {
-                if (err) {
-                    console.error(`Error writing to CSV file: ${err.message}`);
-                } else {
-                    console.log('CSV file updated successfully.');
+        fs.createReadStream(filePath)
+            .pipe(csv())
+            .on('headers', (headerList) => {
+                headers.push(...headerList);
+            })
+            .on('data', (row) => {
+                if (row[columnName] === oldValue) {
+                    row[columnName] = newValue;
                 }
+                rows.push(row);
+            })
+            .on('end', () => {
+                const csvContent = [
+                    headers.join(','),
+                    ...rows.map(row => headers.map(header => row[header]).join(','))
+                ].join('\n');
+
+                fs.writeFile(filePath, csvContent, (err) => {
+                    if (err) {
+                        console.error(`Error writing to CSV file: ${err.message}`);
+                        reject(err);
+                    } else {
+                        console.log('CSV file updated successfully.');
+                        resolve();
+                    }
+                });
+            })
+            .on('error', (error) => {
+                console.error(`Error reading CSV file: ${error.message}`);
+                reject(error);
             });
-        })
-        .on('error', (error) => {
-            console.error(`Error reading CSV file: ${error.message}`);
-        });
+    });
 }
 
 async function checkIsRunning(filePath, columnName, value) {
     return new Promise((resolve, reject) => {
+        if (!fs.existsSync(filePath)) {
+            return reject(new Error(`File not found: ${filePath}`));
+        }
+
         let lastValue = false;
         fs.createReadStream(filePath)
             .pipe(csv())
