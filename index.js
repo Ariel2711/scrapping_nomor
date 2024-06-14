@@ -12,10 +12,14 @@ async function main() {
 
         var allNumber = "";
 
+        var previousCategory = "";
+
         for (let i = 0; i < keywords.length; i++) {
             const keyword = keywords[i];
-            const finalKeyword = `${keyword},${i}`;
+            var index = i;
             const [part1, part2, part3] = keyword.split(',');
+            if (part3 !== previousCategory) { index = 0; }
+            const finalKeyword = `${keyword},${index}`;
             console.log(`Running for keyword: ${part1}`);
 
             const taskStartTime = Date.now();
@@ -59,6 +63,8 @@ async function main() {
             }
 
             await sleep(2500);
+
+            previousCategory = part3;
         }
 
     } catch (error) {

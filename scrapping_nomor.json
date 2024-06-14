@@ -15,7 +15,7 @@
         },
         {
             "Command": "pause",
-            "Target": "5000",
+            "Target": "10000",
             "Value": "",
             "Description": ""
         },
@@ -81,7 +81,7 @@
         },
         {
             "Command": "pause",
-            "Target": "7000",
+            "Target": "10000",
             "Value": "",
             "Description": ""
         },
