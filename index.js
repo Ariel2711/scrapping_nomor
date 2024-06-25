@@ -2,6 +2,7 @@ const { exec } = require('child_process');
 const fs = require('fs');
 const csv = require('csv-parser');
 const moment = require('moment');
+const readline = require('readline');
 
 async function main() {
     try {
@@ -19,6 +20,7 @@ async function main() {
             var index = i;
             const [part1, part2, part3] = keyword.split(',');
             if (part3 !== previousCategory) { index = 0; }
+            previousCategory = part3;
             const finalKeyword = `${keyword},${index}`;
             console.log(`Running for keyword: ${part1}`);
 
@@ -55,16 +57,22 @@ async function main() {
             await sleep(2500);
 
             try {
+                await rewriteCSVWithoutQuotes(`G:/My Drive/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
+                await rewriteCSVWithoutQuotes(`G:/My Drive/uivision/datasources/(dewa) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
+            } catch (error) {
+                console.error(`Error rewriting numbers from CSV: ${error.message}`);
+                // continue;
+            }
+
+            try {
                 const newNumber = await readNumbersFromCSV(`G:/My Drive/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
                 allNumber = newNumber;
             } catch (error) {
                 console.error(`Error reading numbers from CSV: ${error.message}`);
-                continue;
+                // continue;
             }
 
             await sleep(2500);
-
-            previousCategory = part3;
         }
 
     } catch (error) {
@@ -84,7 +92,8 @@ function readNumbersFromCSV(filePath) {
             .on('data', (row) => {
                 const columns = Object.values(row);
                 if (columns.length >= 1) {
-                    const [part1, part2, part3, part4] = columns[0].split(';');
+                    const cleanedColumn = columns[0].replace(/"/g, '');
+                    const [part1, part2, part3, part4] = cleanedColumn.split(',');
                     const number = `${part1}!!!`;
                     numbers += number;
                 } else {
@@ -97,6 +106,38 @@ function readNumbersFromCSV(filePath) {
             .on('error', (error) => {
                 reject(error);
             });
+    });
+}
+
+function rewriteCSVWithoutQuotes(filePath) {
+    return new Promise((resolve, reject) => {
+        let existingData = '';
+
+        const readStream = fs.createReadStream(filePath);
+        const rl = readline.createInterface({
+            input: readStream,
+            crlfDelay: Infinity
+        });
+
+        rl.on('line', (line) => {
+            existingData += line + '\n';
+        });
+
+        rl.on('close', () => {
+            const cleanedData = existingData.replace(/"/g, '');
+
+            fs.writeFile(filePath, cleanedData, (err) => {
+                if (err) {
+                    reject(err);
+                } else {
+                    resolve();
+                }
+            });
+        });
+
+        rl.on('error', (err) => {
+            reject(err);
+        });
     });
 }
 

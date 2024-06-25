@@ -1,6 +1,6 @@
 {
     "Name": "scrapping_nomor",
-    "CreationDate": "2024-6-5",
+    "CreationDate": "2024-6-25",
     "Commands": [{
             "Command": "open",
             "Target": "https://maps.google.com",
@@ -112,6 +112,18 @@
         {
             "Command": "csvSave",
             "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "name;phone",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "(dripsender) scrapping nomor ${category} ${formatedTimestamp}.csv",
             "Value": "",
             "Description": ""
         },
@@ -382,6 +394,18 @@
         {
             "Command": "csvSave",
             "Target": "(qontaq) scrapping nomor ${category} ${formatedTimestamp}.csv",
+            "Value": "",
+            "Description": ""
+        },
+        {
+            "Command": "store",
+            "Target": "${nama};${format_contact}",
+            "Value": "!csvLine",
+            "Description": ""
+        },
+        {
+            "Command": "csvSave",
+            "Target": "(dripsender) scrapping nomor ${category} ${formatedTimestamp}.csv",
             "Value": "",
             "Description": ""
         },
