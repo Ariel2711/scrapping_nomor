@@ -93,7 +93,7 @@
         },
         {
             "Command": "store",
-            "Target": "ID,Contact,Name,Status,Kategori,Deskripsi,Email,Website",
+            "Target": "ID;Contact;Name;Status;Kategori;Deskripsi;Email;Website",
             "Value": "!csvLine",
             "Description": ""
         },
@@ -375,7 +375,7 @@
         },
         {
             "Command": "store",
-            "Target": "${indexValid},${format_contact},${nama},,${keyword},${wilayah}",
+            "Target": "${indexValid};${format_contact};${nama};;${keyword};${wilayah}",
             "Value": "!csvLine",
             "Description": ""
         },
