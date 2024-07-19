@@ -1,0 +1,3077 @@
+provinsi nad aceh:
+keyword_1 aceh barat,aceh barat,kategori_scrapping aceh
+keyword_2 aceh barat,aceh barat,kategori_scrapping aceh
+keyword_3 aceh barat,aceh barat,kategori_scrapping aceh
+keyword_4 aceh barat,aceh barat,kategori_scrapping aceh
+keyword_5 aceh barat,aceh barat,kategori_scrapping aceh
+keyword_6 aceh barat,aceh barat,kategori_scrapping aceh
+keyword_1 aceh barat daya,aceh barat daya,kategori_scrapping aceh
+keyword_2 aceh barat daya,aceh barat daya,kategori_scrapping aceh
+keyword_3 aceh barat daya,aceh barat daya,kategori_scrapping aceh
+keyword_4 aceh barat daya,aceh barat daya,kategori_scrapping aceh
+keyword_5 aceh barat daya,aceh barat daya,kategori_scrapping aceh
+keyword_6 aceh barat daya,aceh barat daya,kategori_scrapping aceh
+keyword_1 aceh besar,aceh besar,kategori_scrapping aceh
+keyword_2 aceh besar,aceh besar,kategori_scrapping aceh
+keyword_3 aceh besar,aceh besar,kategori_scrapping aceh
+keyword_4 aceh besar,aceh besar,kategori_scrapping aceh
+keyword_5 aceh besar,aceh besar,kategori_scrapping aceh
+keyword_6 aceh besar,aceh besar,kategori_scrapping aceh
+keyword_1 aceh jaya,aceh jaya,kategori_scrapping aceh
+keyword_2 aceh jaya,aceh jaya,kategori_scrapping aceh
+keyword_3 aceh jaya,aceh jaya,kategori_scrapping aceh
+keyword_4 aceh jaya,aceh jaya,kategori_scrapping aceh
+keyword_5 aceh jaya,aceh jaya,kategori_scrapping aceh
+keyword_6 aceh jaya,aceh jaya,kategori_scrapping aceh
+keyword_1 aceh selatan,aceh selatan,kategori_scrapping aceh
+keyword_2 aceh selatan,aceh selatan,kategori_scrapping aceh
+keyword_3 aceh selatan,aceh selatan,kategori_scrapping aceh
+keyword_4 aceh selatan,aceh selatan,kategori_scrapping aceh
+keyword_5 aceh selatan,aceh selatan,kategori_scrapping aceh
+keyword_6 aceh selatan,aceh selatan,kategori_scrapping aceh
+keyword_1 aceh singkil,aceh singkil,kategori_scrapping aceh
+keyword_2 aceh singkil,aceh singkil,kategori_scrapping aceh
+keyword_3 aceh singkil,aceh singkil,kategori_scrapping aceh
+keyword_4 aceh singkil,aceh singkil,kategori_scrapping aceh
+keyword_5 aceh singkil,aceh singkil,kategori_scrapping aceh
+keyword_6 aceh singkil,aceh singkil,kategori_scrapping aceh
+keyword_1 aceh tamiang,aceh tamiang,kategori_scrapping aceh
+keyword_2 aceh tamiang,aceh tamiang,kategori_scrapping aceh
+keyword_3 aceh tamiang,aceh tamiang,kategori_scrapping aceh
+keyword_4 aceh tamiang,aceh tamiang,kategori_scrapping aceh
+keyword_5 aceh tamiang,aceh tamiang,kategori_scrapping aceh
+keyword_6 aceh tamiang,aceh tamiang,kategori_scrapping aceh
+keyword_1 aceh tengah,aceh tengah,kategori_scrapping aceh
+keyword_2 aceh tengah,aceh tengah,kategori_scrapping aceh
+keyword_3 aceh tengah,aceh tengah,kategori_scrapping aceh
+keyword_4 aceh tengah,aceh tengah,kategori_scrapping aceh
+keyword_5 aceh tengah,aceh tengah,kategori_scrapping aceh
+keyword_6 aceh tengah,aceh tengah,kategori_scrapping aceh
+keyword_1 aceh tenggara,aceh tenggara,kategori_scrapping aceh
+keyword_2 aceh tenggara,aceh tenggara,kategori_scrapping aceh
+keyword_3 aceh tenggara,aceh tenggara,kategori_scrapping aceh
+keyword_4 aceh tenggara,aceh tenggara,kategori_scrapping aceh
+keyword_5 aceh tenggara,aceh tenggara,kategori_scrapping aceh
+keyword_6 aceh tenggara,aceh tenggara,kategori_scrapping aceh
+keyword_1 aceh timur,aceh timur,kategori_scrapping aceh
+keyword_2 aceh timur,aceh timur,kategori_scrapping aceh
+keyword_3 aceh timur,aceh timur,kategori_scrapping aceh
+keyword_4 aceh timur,aceh timur,kategori_scrapping aceh
+keyword_5 aceh timur,aceh timur,kategori_scrapping aceh
+keyword_6 aceh timur,aceh timur,kategori_scrapping aceh
+keyword_1 aceh utara,aceh utara,kategori_scrapping aceh
+keyword_2 aceh utara,aceh utara,kategori_scrapping aceh
+keyword_3 aceh utara,aceh utara,kategori_scrapping aceh
+keyword_4 aceh utara,aceh utara,kategori_scrapping aceh
+keyword_5 aceh utara,aceh utara,kategori_scrapping aceh
+keyword_6 aceh utara,aceh utara,kategori_scrapping aceh
+keyword_1 bener meriah,bener meriah,kategori_scrapping aceh
+keyword_2 bener meriah,bener meriah,kategori_scrapping aceh
+keyword_3 bener meriah,bener meriah,kategori_scrapping aceh
+keyword_4 bener meriah,bener meriah,kategori_scrapping aceh
+keyword_5 bener meriah,bener meriah,kategori_scrapping aceh
+keyword_6 bener meriah,bener meriah,kategori_scrapping aceh
+keyword_1 bireuen,bireuen,kategori_scrapping aceh
+keyword_2 bireuen,bireuen,kategori_scrapping aceh
+keyword_3 bireuen,bireuen,kategori_scrapping aceh
+keyword_4 bireuen,bireuen,kategori_scrapping aceh
+keyword_5 bireuen,bireuen,kategori_scrapping aceh
+keyword_6 bireuen,bireuen,kategori_scrapping aceh
+keyword_1 gayo lues,gayo lues,kategori_scrapping aceh
+keyword_2 gayo lues,gayo lues,kategori_scrapping aceh
+keyword_3 gayo lues,gayo lues,kategori_scrapping aceh
+keyword_4 gayo lues,gayo lues,kategori_scrapping aceh
+keyword_5 gayo lues,gayo lues,kategori_scrapping aceh
+keyword_6 gayo lues,gayo lues,kategori_scrapping aceh
+keyword_1 nagan raya,nagan raya,kategori_scrapping aceh
+keyword_2 nagan raya,nagan raya,kategori_scrapping aceh
+keyword_3 nagan raya,nagan raya,kategori_scrapping aceh
+keyword_4 nagan raya,nagan raya,kategori_scrapping aceh
+keyword_5 nagan raya,nagan raya,kategori_scrapping aceh
+keyword_6 nagan raya,nagan raya,kategori_scrapping aceh
+keyword_1 pidie,pidie,kategori_scrapping aceh
+keyword_2 pidie,pidie,kategori_scrapping aceh
+keyword_3 pidie,pidie,kategori_scrapping aceh
+keyword_4 pidie,pidie,kategori_scrapping aceh
+keyword_5 pidie,pidie,kategori_scrapping aceh
+keyword_6 pidie,pidie,kategori_scrapping aceh
+keyword_1 pidie jaya,pidie jaya,kategori_scrapping aceh
+keyword_2 pidie jaya,pidie jaya,kategori_scrapping aceh
+keyword_3 pidie jaya,pidie jaya,kategori_scrapping aceh
+keyword_4 pidie jaya,pidie jaya,kategori_scrapping aceh
+keyword_5 pidie jaya,pidie jaya,kategori_scrapping aceh
+keyword_6 pidie jaya,pidie jaya,kategori_scrapping aceh
+keyword_1 simeulue,simeulue,kategori_scrapping aceh
+keyword_2 simeulue,simeulue,kategori_scrapping aceh
+keyword_3 simeulue,simeulue,kategori_scrapping aceh
+keyword_4 simeulue,simeulue,kategori_scrapping aceh
+keyword_5 simeulue,simeulue,kategori_scrapping aceh
+keyword_6 simeulue,simeulue,kategori_scrapping aceh
+keyword_1 banda aceh,banda aceh,kategori_scrapping aceh
+keyword_2 banda aceh,banda aceh,kategori_scrapping aceh
+keyword_3 banda aceh,banda aceh,kategori_scrapping aceh
+keyword_4 banda aceh,banda aceh,kategori_scrapping aceh
+keyword_5 banda aceh,banda aceh,kategori_scrapping aceh
+keyword_6 banda aceh,banda aceh,kategori_scrapping aceh
+keyword_1 langsa,langsa,kategori_scrapping aceh
+keyword_2 langsa,langsa,kategori_scrapping aceh
+keyword_3 langsa,langsa,kategori_scrapping aceh
+keyword_4 langsa,langsa,kategori_scrapping aceh
+keyword_5 langsa,langsa,kategori_scrapping aceh
+keyword_6 langsa,langsa,kategori_scrapping aceh
+keyword_1 lhokseumawe,lhokseumawe,kategori_scrapping aceh
+keyword_2 lhokseumawe,lhokseumawe,kategori_scrapping aceh
+keyword_3 lhokseumawe,lhokseumawe,kategori_scrapping aceh
+keyword_4 lhokseumawe,lhokseumawe,kategori_scrapping aceh
+keyword_5 lhokseumawe,lhokseumawe,kategori_scrapping aceh
+keyword_6 lhokseumawe,lhokseumawe,kategori_scrapping aceh
+keyword_1 sabang,sabang,kategori_scrapping aceh
+keyword_2 sabang,sabang,kategori_scrapping aceh
+keyword_3 sabang,sabang,kategori_scrapping aceh
+keyword_4 sabang,sabang,kategori_scrapping aceh
+keyword_5 sabang,sabang,kategori_scrapping aceh
+keyword_6 sabang,sabang,kategori_scrapping aceh
+keyword_1 subulussalam,subulussalam,kategori_scrapping aceh
+keyword_2 subulussalam,subulussalam,kategori_scrapping aceh
+keyword_3 subulussalam,subulussalam,kategori_scrapping aceh
+keyword_4 subulussalam,subulussalam,kategori_scrapping aceh
+keyword_5 subulussalam,subulussalam,kategori_scrapping aceh
+keyword_6 subulussalam,subulussalam,kategori_scrapping aceh
+
+
+
+provinsi sumatera utara (sumut):
+keyword_1 asahan,asahan,kategori_scrapping sumatera utara
+keyword_2 asahan,asahan,kategori_scrapping sumatera utara
+keyword_3 asahan,asahan,kategori_scrapping sumatera utara
+keyword_4 asahan,asahan,kategori_scrapping sumatera utara
+keyword_5 asahan,asahan,kategori_scrapping sumatera utara
+keyword_6 asahan,asahan,kategori_scrapping sumatera utara
+keyword_1 batubara,batubara,kategori_scrapping sumatera utara
+keyword_2 batubara,batubara,kategori_scrapping sumatera utara
+keyword_3 batubara,batubara,kategori_scrapping sumatera utara
+keyword_4 batubara,batubara,kategori_scrapping sumatera utara
+keyword_5 batubara,batubara,kategori_scrapping sumatera utara
+keyword_6 batubara,batubara,kategori_scrapping sumatera utara
+keyword_1 dairi,dairi,kategori_scrapping sumatera utara
+keyword_2 dairi,dairi,kategori_scrapping sumatera utara
+keyword_3 dairi,dairi,kategori_scrapping sumatera utara
+keyword_4 dairi,dairi,kategori_scrapping sumatera utara
+keyword_5 dairi,dairi,kategori_scrapping sumatera utara
+keyword_6 dairi,dairi,kategori_scrapping sumatera utara
+keyword_1 deli serdang,deli serdang,kategori_scrapping sumatera utara
+keyword_2 deli serdang,deli serdang,kategori_scrapping sumatera utara
+keyword_3 deli serdang,deli serdang,kategori_scrapping sumatera utara
+keyword_4 deli serdang,deli serdang,kategori_scrapping sumatera utara
+keyword_5 deli serdang,deli serdang,kategori_scrapping sumatera utara
+keyword_6 deli serdang,deli serdang,kategori_scrapping sumatera utara
+keyword_1 humbang hasundutan,humbang hasundutan,kategori_scrapping sumatera utara
+keyword_2 humbang hasundutan,humbang hasundutan,kategori_scrapping sumatera utara
+keyword_3 humbang hasundutan,humbang hasundutan,kategori_scrapping sumatera utara
+keyword_4 humbang hasundutan,humbang hasundutan,kategori_scrapping sumatera utara
+keyword_5 humbang hasundutan,humbang hasundutan,kategori_scrapping sumatera utara
+keyword_6 humbang hasundutan,humbang hasundutan,kategori_scrapping sumatera utara
+keyword_1 karo,karo,kategori_scrapping sumatera utara
+keyword_2 karo,karo,kategori_scrapping sumatera utara
+keyword_3 karo,karo,kategori_scrapping sumatera utara
+keyword_4 karo,karo,kategori_scrapping sumatera utara
+keyword_5 karo,karo,kategori_scrapping sumatera utara
+keyword_6 karo,karo,kategori_scrapping sumatera utara
+keyword_1 labuhanbatu,labuhanbatu,kategori_scrapping sumatera utara
+keyword_2 labuhanbatu,labuhanbatu,kategori_scrapping sumatera utara
+keyword_3 labuhanbatu,labuhanbatu,kategori_scrapping sumatera utara
+keyword_4 labuhanbatu,labuhanbatu,kategori_scrapping sumatera utara
+keyword_5 labuhanbatu,labuhanbatu,kategori_scrapping sumatera utara
+keyword_6 labuhanbatu,labuhanbatu,kategori_scrapping sumatera utara
+keyword_1 labuhanbatu selatan,labuhanbatu selatan,kategori_scrapping sumatera utara
+keyword_2 labuhanbatu selatan,labuhanbatu selatan,kategori_scrapping sumatera utara
+keyword_3 labuhanbatu selatan,labuhanbatu selatan,kategori_scrapping sumatera utara
+keyword_4 labuhanbatu selatan,labuhanbatu selatan,kategori_scrapping sumatera utara
+keyword_5 labuhanbatu selatan,labuhanbatu selatan,kategori_scrapping sumatera utara
+keyword_6 labuhanbatu selatan,labuhanbatu selatan,kategori_scrapping sumatera utara
+keyword_1 labuhanbatu utara,labuhanbatu utara,kategori_scrapping sumatera utara
+keyword_2 labuhanbatu utara,labuhanbatu utara,kategori_scrapping sumatera utara
+keyword_3 labuhanbatu utara,labuhanbatu utara,kategori_scrapping sumatera utara
+keyword_4 labuhanbatu utara,labuhanbatu utara,kategori_scrapping sumatera utara
+keyword_5 labuhanbatu utara,labuhanbatu utara,kategori_scrapping sumatera utara
+keyword_6 labuhanbatu utara,labuhanbatu utara,kategori_scrapping sumatera utara
+keyword_1 langkat,langkat,kategori_scrapping sumatera utara
+keyword_2 langkat,langkat,kategori_scrapping sumatera utara
+keyword_3 langkat,langkat,kategori_scrapping sumatera utara
+keyword_4 langkat,langkat,kategori_scrapping sumatera utara
+keyword_5 langkat,langkat,kategori_scrapping sumatera utara
+keyword_6 langkat,langkat,kategori_scrapping sumatera utara
+keyword_1 mandailing natal,mandailing natal,kategori_scrapping sumatera utara
+keyword_2 mandailing natal,mandailing natal,kategori_scrapping sumatera utara
+keyword_3 mandailing natal,mandailing natal,kategori_scrapping sumatera utara
+keyword_4 mandailing natal,mandailing natal,kategori_scrapping sumatera utara
+keyword_5 mandailing natal,mandailing natal,kategori_scrapping sumatera utara
+keyword_6 mandailing natal,mandailing natal,kategori_scrapping sumatera utara
+keyword_1 nias,nias,kategori_scrapping sumatera utara
+keyword_2 nias,nias,kategori_scrapping sumatera utara
+keyword_3 nias,nias,kategori_scrapping sumatera utara
+keyword_4 nias,nias,kategori_scrapping sumatera utara
+keyword_5 nias,nias,kategori_scrapping sumatera utara
+keyword_6 nias,nias,kategori_scrapping sumatera utara
+keyword_1 nias barat,nias barat,kategori_scrapping sumatera utara
+keyword_2 nias barat,nias barat,kategori_scrapping sumatera utara
+keyword_3 nias barat,nias barat,kategori_scrapping sumatera utara
+keyword_4 nias barat,nias barat,kategori_scrapping sumatera utara
+keyword_5 nias barat,nias barat,kategori_scrapping sumatera utara
+keyword_6 nias barat,nias barat,kategori_scrapping sumatera utara
+keyword_1 nias selatan,nias selatan,kategori_scrapping sumatera utara
+keyword_2 nias selatan,nias selatan,kategori_scrapping sumatera utara
+keyword_3 nias selatan,nias selatan,kategori_scrapping sumatera utara
+keyword_4 nias selatan,nias selatan,kategori_scrapping sumatera utara
+keyword_5 nias selatan,nias selatan,kategori_scrapping sumatera utara
+keyword_6 nias selatan,nias selatan,kategori_scrapping sumatera utara
+keyword_1 nias utara,nias utara,kategori_scrapping sumatera utara
+keyword_2 nias utara,nias utara,kategori_scrapping sumatera utara
+keyword_3 nias utara,nias utara,kategori_scrapping sumatera utara
+keyword_4 nias utara,nias utara,kategori_scrapping sumatera utara
+keyword_5 nias utara,nias utara,kategori_scrapping sumatera utara
+keyword_6 nias utara,nias utara,kategori_scrapping sumatera utara
+keyword_1 padang lawas,padang lawas,kategori_scrapping sumatera utara
+keyword_2 padang lawas,padang lawas,kategori_scrapping sumatera utara
+keyword_3 padang lawas,padang lawas,kategori_scrapping sumatera utara
+keyword_4 padang lawas,padang lawas,kategori_scrapping sumatera utara
+keyword_5 padang lawas,padang lawas,kategori_scrapping sumatera utara
+keyword_6 padang lawas,padang lawas,kategori_scrapping sumatera utara
+keyword_1 padang lawas utara,padang lawas utara,kategori_scrapping sumatera utara
+keyword_2 padang lawas utara,padang lawas utara,kategori_scrapping sumatera utara
+keyword_3 padang lawas utara,padang lawas utara,kategori_scrapping sumatera utara
+keyword_4 padang lawas utara,padang lawas utara,kategori_scrapping sumatera utara
+keyword_5 padang lawas utara,padang lawas utara,kategori_scrapping sumatera utara
+keyword_6 padang lawas utara,padang lawas utara,kategori_scrapping sumatera utara
+keyword_1 pakpak bharat,pakpak bharat,kategori_scrapping sumatera utara
+keyword_2 pakpak bharat,pakpak bharat,kategori_scrapping sumatera utara
+keyword_3 pakpak bharat,pakpak bharat,kategori_scrapping sumatera utara
+keyword_4 pakpak bharat,pakpak bharat,kategori_scrapping sumatera utara
+keyword_5 pakpak bharat,pakpak bharat,kategori_scrapping sumatera utara
+keyword_6 pakpak bharat,pakpak bharat,kategori_scrapping sumatera utara
+keyword_1 samosir,samosir,kategori_scrapping sumatera utara
+keyword_2 samosir,samosir,kategori_scrapping sumatera utara
+keyword_3 samosir,samosir,kategori_scrapping sumatera utara
+keyword_4 samosir,samosir,kategori_scrapping sumatera utara
+keyword_5 samosir,samosir,kategori_scrapping sumatera utara
+keyword_6 samosir,samosir,kategori_scrapping sumatera utara
+keyword_1 serdang bedagai,serdang bedagai,kategori_scrapping sumatera utara
+keyword_2 serdang bedagai,serdang bedagai,kategori_scrapping sumatera utara
+keyword_3 serdang bedagai,serdang bedagai,kategori_scrapping sumatera utara
+keyword_4 serdang bedagai,serdang bedagai,kategori_scrapping sumatera utara
+keyword_5 serdang bedagai,serdang bedagai,kategori_scrapping sumatera utara
+keyword_6 serdang bedagai,serdang bedagai,kategori_scrapping sumatera utara
+keyword_1 simalungun,simalungun,kategori_scrapping sumatera utara
+keyword_2 simalungun,simalungun,kategori_scrapping sumatera utara
+keyword_3 simalungun,simalungun,kategori_scrapping sumatera utara
+keyword_4 simalungun,simalungun,kategori_scrapping sumatera utara
+keyword_5 simalungun,simalungun,kategori_scrapping sumatera utara
+keyword_6 simalungun,simalungun,kategori_scrapping sumatera utara
+keyword_1 tapanuli selatan,tapanuli selatan,kategori_scrapping sumatera utara
+keyword_2 tapanuli selatan,tapanuli selatan,kategori_scrapping sumatera utara
+keyword_3 tapanuli selatan,tapanuli selatan,kategori_scrapping sumatera utara
+keyword_4 tapanuli selatan,tapanuli selatan,kategori_scrapping sumatera utara
+keyword_5 tapanuli selatan,tapanuli selatan,kategori_scrapping sumatera utara
+keyword_6 tapanuli selatan,tapanuli selatan,kategori_scrapping sumatera utara
+keyword_1 tapanuli tengah,tapanuli tengah,kategori_scrapping sumatera utara
+keyword_2 tapanuli tengah,tapanuli tengah,kategori_scrapping sumatera utara
+keyword_3 tapanuli tengah,tapanuli tengah,kategori_scrapping sumatera utara
+keyword_4 tapanuli tengah,tapanuli tengah,kategori_scrapping sumatera utara
+keyword_5 tapanuli tengah,tapanuli tengah,kategori_scrapping sumatera utara
+keyword_6 tapanuli tengah,tapanuli tengah,kategori_scrapping sumatera utara
+keyword_1 tapanuli utara,tapanuli utara,kategori_scrapping sumatera utara
+keyword_2 tapanuli utara,tapanuli utara,kategori_scrapping sumatera utara
+keyword_3 tapanuli utara,tapanuli utara,kategori_scrapping sumatera utara
+keyword_4 tapanuli utara,tapanuli utara,kategori_scrapping sumatera utara
+keyword_5 tapanuli utara,tapanuli utara,kategori_scrapping sumatera utara
+keyword_6 tapanuli utara,tapanuli utara,kategori_scrapping sumatera utara
+keyword_1 toba samosir,toba samosir,kategori_scrapping sumatera utara
+keyword_2 toba samosir,toba samosir,kategori_scrapping sumatera utara
+keyword_3 toba samosir,toba samosir,kategori_scrapping sumatera utara
+keyword_4 toba samosir,toba samosir,kategori_scrapping sumatera utara
+keyword_5 toba samosir,toba samosir,kategori_scrapping sumatera utara
+keyword_6 toba samosir,toba samosir,kategori_scrapping sumatera utara
+keyword_1 binjai,binjai,kategori_scrapping sumatera utara
+keyword_2 binjai,binjai,kategori_scrapping sumatera utara
+keyword_3 binjai,binjai,kategori_scrapping sumatera utara
+keyword_4 binjai,binjai,kategori_scrapping sumatera utara
+keyword_5 binjai,binjai,kategori_scrapping sumatera utara
+keyword_6 binjai,binjai,kategori_scrapping sumatera utara
+keyword_1 gunungsitoli,gunungsitoli,kategori_scrapping sumatera utara
+keyword_2 gunungsitoli,gunungsitoli,kategori_scrapping sumatera utara
+keyword_3 gunungsitoli,gunungsitoli,kategori_scrapping sumatera utara
+keyword_4 gunungsitoli,gunungsitoli,kategori_scrapping sumatera utara
+keyword_5 gunungsitoli,gunungsitoli,kategori_scrapping sumatera utara
+keyword_6 gunungsitoli,gunungsitoli,kategori_scrapping sumatera utara
+keyword_1 medan,medan,kategori_scrapping sumatera utara
+keyword_2 medan,medan,kategori_scrapping sumatera utara
+keyword_3 medan,medan,kategori_scrapping sumatera utara
+keyword_4 medan,medan,kategori_scrapping sumatera utara
+keyword_5 medan,medan,kategori_scrapping sumatera utara
+keyword_6 medan,medan,kategori_scrapping sumatera utara
+keyword_1 padangsidempuan,padangsidempuan,kategori_scrapping sumatera utara
+keyword_2 padangsidempuan,padangsidempuan,kategori_scrapping sumatera utara
+keyword_3 padangsidempuan,padangsidempuan,kategori_scrapping sumatera utara
+keyword_4 padangsidempuan,padangsidempuan,kategori_scrapping sumatera utara
+keyword_5 padangsidempuan,padangsidempuan,kategori_scrapping sumatera utara
+keyword_6 padangsidempuan,padangsidempuan,kategori_scrapping sumatera utara
+keyword_1 pematangsiantar,pematangsiantar,kategori_scrapping sumatera utara
+keyword_2 pematangsiantar,pematangsiantar,kategori_scrapping sumatera utara
+keyword_3 pematangsiantar,pematangsiantar,kategori_scrapping sumatera utara
+keyword_4 pematangsiantar,pematangsiantar,kategori_scrapping sumatera utara
+keyword_5 pematangsiantar,pematangsiantar,kategori_scrapping sumatera utara
+keyword_6 pematangsiantar,pematangsiantar,kategori_scrapping sumatera utara
+keyword_1 sibolga,sibolga,kategori_scrapping sumatera utara
+keyword_2 sibolga,sibolga,kategori_scrapping sumatera utara
+keyword_3 sibolga,sibolga,kategori_scrapping sumatera utara
+keyword_4 sibolga,sibolga,kategori_scrapping sumatera utara
+keyword_5 sibolga,sibolga,kategori_scrapping sumatera utara
+keyword_6 sibolga,sibolga,kategori_scrapping sumatera utara
+keyword_1 tanjungbalai,tanjungbalai,kategori_scrapping sumatera utara
+keyword_2 tanjungbalai,tanjungbalai,kategori_scrapping sumatera utara
+keyword_3 tanjungbalai,tanjungbalai,kategori_scrapping sumatera utara
+keyword_4 tanjungbalai,tanjungbalai,kategori_scrapping sumatera utara
+keyword_5 tanjungbalai,tanjungbalai,kategori_scrapping sumatera utara
+keyword_6 tanjungbalai,tanjungbalai,kategori_scrapping sumatera utara
+keyword_1 tebing tinggi,tebing tinggi,kategori_scrapping sumatera utara
+keyword_2 tebing tinggi,tebing tinggi,kategori_scrapping sumatera utara
+keyword_3 tebing tinggi,tebing tinggi,kategori_scrapping sumatera utara
+keyword_4 tebing tinggi,tebing tinggi,kategori_scrapping sumatera utara
+keyword_5 tebing tinggi,tebing tinggi,kategori_scrapping sumatera utara
+keyword_6 tebing tinggi,tebing tinggi,kategori_scrapping sumatera utara
+
+
+
+provinsi sumatera barat (sumbar):
+keyword_1 agam,agam,kategori_scrapping sumatera barat
+keyword_2 agam,agam,kategori_scrapping sumatera barat
+keyword_3 agam,agam,kategori_scrapping sumatera barat
+keyword_4 agam,agam,kategori_scrapping sumatera barat
+keyword_5 agam,agam,kategori_scrapping sumatera barat
+keyword_6 agam,agam,kategori_scrapping sumatera barat
+keyword_1 dharmasraya,dharmasraya,kategori_scrapping sumatera barat
+keyword_2 dharmasraya,dharmasraya,kategori_scrapping sumatera barat
+keyword_3 dharmasraya,dharmasraya,kategori_scrapping sumatera barat
+keyword_4 dharmasraya,dharmasraya,kategori_scrapping sumatera barat
+keyword_5 dharmasraya,dharmasraya,kategori_scrapping sumatera barat
+keyword_6 dharmasraya,dharmasraya,kategori_scrapping sumatera barat
+keyword_1 kepulauan mentawai,kepulauan mentawai,kategori_scrapping sumatera barat
+keyword_2 kepulauan mentawai,kepulauan mentawai,kategori_scrapping sumatera barat
+keyword_3 kepulauan mentawai,kepulauan mentawai,kategori_scrapping sumatera barat
+keyword_4 kepulauan mentawai,kepulauan mentawai,kategori_scrapping sumatera barat
+keyword_5 kepulauan mentawai,kepulauan mentawai,kategori_scrapping sumatera barat
+keyword_6 kepulauan mentawai,kepulauan mentawai,kategori_scrapping sumatera barat
+keyword_1 lima puluh kota,lima puluh kota,kategori_scrapping sumatera barat
+keyword_2 lima puluh kota,lima puluh kota,kategori_scrapping sumatera barat
+keyword_3 lima puluh kota,lima puluh kota,kategori_scrapping sumatera barat
+keyword_4 lima puluh kota,lima puluh kota,kategori_scrapping sumatera barat
+keyword_5 lima puluh kota,lima puluh kota,kategori_scrapping sumatera barat
+keyword_6 lima puluh kota,lima puluh kota,kategori_scrapping sumatera barat
+keyword_1 padang pariaman,padang pariaman,kategori_scrapping sumatera barat
+keyword_2 padang pariaman,padang pariaman,kategori_scrapping sumatera barat
+keyword_3 padang pariaman,padang pariaman,kategori_scrapping sumatera barat
+keyword_4 padang pariaman,padang pariaman,kategori_scrapping sumatera barat
+keyword_5 padang pariaman,padang pariaman,kategori_scrapping sumatera barat
+keyword_6 padang pariaman,padang pariaman,kategori_scrapping sumatera barat
+keyword_1 pasaman,pasaman,kategori_scrapping sumatera barat
+keyword_2 pasaman,pasaman,kategori_scrapping sumatera barat
+keyword_3 pasaman,pasaman,kategori_scrapping sumatera barat
+keyword_4 pasaman,pasaman,kategori_scrapping sumatera barat
+keyword_5 pasaman,pasaman,kategori_scrapping sumatera barat
+keyword_6 pasaman,pasaman,kategori_scrapping sumatera barat
+keyword_1 pasaman barat,pasaman barat,kategori_scrapping sumatera barat
+keyword_2 pasaman barat,pasaman barat,kategori_scrapping sumatera barat
+keyword_3 pasaman barat,pasaman barat,kategori_scrapping sumatera barat
+keyword_4 pasaman barat,pasaman barat,kategori_scrapping sumatera barat
+keyword_5 pasaman barat,pasaman barat,kategori_scrapping sumatera barat
+keyword_6 pasaman barat,pasaman barat,kategori_scrapping sumatera barat
+keyword_1 pesisir selatan,pesisir selatan,kategori_scrapping sumatera barat
+keyword_2 pesisir selatan,pesisir selatan,kategori_scrapping sumatera barat
+keyword_3 pesisir selatan,pesisir selatan,kategori_scrapping sumatera barat
+keyword_4 pesisir selatan,pesisir selatan,kategori_scrapping sumatera barat
+keyword_5 pesisir selatan,pesisir selatan,kategori_scrapping sumatera barat
+keyword_6 pesisir selatan,pesisir selatan,kategori_scrapping sumatera barat
+keyword_1 sijunjung,sijunjung,kategori_scrapping sumatera barat
+keyword_2 sijunjung,sijunjung,kategori_scrapping sumatera barat
+keyword_3 sijunjung,sijunjung,kategori_scrapping sumatera barat
+keyword_4 sijunjung,sijunjung,kategori_scrapping sumatera barat
+keyword_5 sijunjung,sijunjung,kategori_scrapping sumatera barat
+keyword_6 sijunjung,sijunjung,kategori_scrapping sumatera barat
+keyword_1 solok,solok,kategori_scrapping sumatera barat
+keyword_2 solok,solok,kategori_scrapping sumatera barat
+keyword_3 solok,solok,kategori_scrapping sumatera barat
+keyword_4 solok,solok,kategori_scrapping sumatera barat
+keyword_5 solok,solok,kategori_scrapping sumatera barat
+keyword_6 solok,solok,kategori_scrapping sumatera barat
+keyword_1 solok selatan,solok selatan,kategori_scrapping sumatera barat
+keyword_2 solok selatan,solok selatan,kategori_scrapping sumatera barat
+keyword_3 solok selatan,solok selatan,kategori_scrapping sumatera barat
+keyword_4 solok selatan,solok selatan,kategori_scrapping sumatera barat
+keyword_5 solok selatan,solok selatan,kategori_scrapping sumatera barat
+keyword_6 solok selatan,solok selatan,kategori_scrapping sumatera barat
+keyword_1 tanah datar,tanah datar,kategori_scrapping sumatera barat
+keyword_2 tanah datar,tanah datar,kategori_scrapping sumatera barat
+keyword_3 tanah datar,tanah datar,kategori_scrapping sumatera barat
+keyword_4 tanah datar,tanah datar,kategori_scrapping sumatera barat
+keyword_5 tanah datar,tanah datar,kategori_scrapping sumatera barat
+keyword_6 tanah datar,tanah datar,kategori_scrapping sumatera barat
+keyword_1 bukittinggi,bukittinggi,kategori_scrapping sumatera barat
+keyword_2 bukittinggi,bukittinggi,kategori_scrapping sumatera barat
+keyword_3 bukittinggi,bukittinggi,kategori_scrapping sumatera barat
+keyword_4 bukittinggi,bukittinggi,kategori_scrapping sumatera barat
+keyword_5 bukittinggi,bukittinggi,kategori_scrapping sumatera barat
+keyword_6 bukittinggi,bukittinggi,kategori_scrapping sumatera barat
+keyword_1 padang,padang,kategori_scrapping sumatera barat
+keyword_2 padang,padang,kategori_scrapping sumatera barat
+keyword_3 padang,padang,kategori_scrapping sumatera barat
+keyword_4 padang,padang,kategori_scrapping sumatera barat
+keyword_5 padang,padang,kategori_scrapping sumatera barat
+keyword_6 padang,padang,kategori_scrapping sumatera barat
+keyword_1 padangpanjang,padangpanjang,kategori_scrapping sumatera barat
+keyword_2 padangpanjang,padangpanjang,kategori_scrapping sumatera barat
+keyword_3 padangpanjang,padangpanjang,kategori_scrapping sumatera barat
+keyword_4 padangpanjang,padangpanjang,kategori_scrapping sumatera barat
+keyword_5 padangpanjang,padangpanjang,kategori_scrapping sumatera barat
+keyword_6 padangpanjang,padangpanjang,kategori_scrapping sumatera barat
+keyword_1 pariaman,pariaman,kategori_scrapping sumatera barat
+keyword_2 pariaman,pariaman,kategori_scrapping sumatera barat
+keyword_3 pariaman,pariaman,kategori_scrapping sumatera barat
+keyword_4 pariaman,pariaman,kategori_scrapping sumatera barat
+keyword_5 pariaman,pariaman,kategori_scrapping sumatera barat
+keyword_6 pariaman,pariaman,kategori_scrapping sumatera barat
+keyword_1 payakumbuh,payakumbuh,kategori_scrapping sumatera barat
+keyword_2 payakumbuh,payakumbuh,kategori_scrapping sumatera barat
+keyword_3 payakumbuh,payakumbuh,kategori_scrapping sumatera barat
+keyword_4 payakumbuh,payakumbuh,kategori_scrapping sumatera barat
+keyword_5 payakumbuh,payakumbuh,kategori_scrapping sumatera barat
+keyword_6 payakumbuh,payakumbuh,kategori_scrapping sumatera barat
+keyword_1 sawahlunto,sawahlunto,kategori_scrapping sumatera barat
+keyword_2 sawahlunto,sawahlunto,kategori_scrapping sumatera barat
+keyword_3 sawahlunto,sawahlunto,kategori_scrapping sumatera barat
+keyword_4 sawahlunto,sawahlunto,kategori_scrapping sumatera barat
+keyword_5 sawahlunto,sawahlunto,kategori_scrapping sumatera barat
+keyword_6 sawahlunto,sawahlunto,kategori_scrapping sumatera barat
+
+
+
+provinsi sumatera selatan (sumsel):
+keyword_1 banyuasin,banyuasin,kategori_scrapping sumatera selatan
+keyword_2 banyuasin,banyuasin,kategori_scrapping sumatera selatan
+keyword_3 banyuasin,banyuasin,kategori_scrapping sumatera selatan
+keyword_4 banyuasin,banyuasin,kategori_scrapping sumatera selatan
+keyword_5 banyuasin,banyuasin,kategori_scrapping sumatera selatan
+keyword_6 banyuasin,banyuasin,kategori_scrapping sumatera selatan
+keyword_1 empat lawang,empat lawang,kategori_scrapping sumatera selatan
+keyword_2 empat lawang,empat lawang,kategori_scrapping sumatera selatan
+keyword_3 empat lawang,empat lawang,kategori_scrapping sumatera selatan
+keyword_4 empat lawang,empat lawang,kategori_scrapping sumatera selatan
+keyword_5 empat lawang,empat lawang,kategori_scrapping sumatera selatan
+keyword_6 empat lawang,empat lawang,kategori_scrapping sumatera selatan
+keyword_1 lahat,lahat,kategori_scrapping sumatera selatan
+keyword_2 lahat,lahat,kategori_scrapping sumatera selatan
+keyword_3 lahat,lahat,kategori_scrapping sumatera selatan
+keyword_4 lahat,lahat,kategori_scrapping sumatera selatan
+keyword_5 lahat,lahat,kategori_scrapping sumatera selatan
+keyword_6 lahat,lahat,kategori_scrapping sumatera selatan
+keyword_1 muara enim,muara enim,kategori_scrapping sumatera selatan
+keyword_2 muara enim,muara enim,kategori_scrapping sumatera selatan
+keyword_3 muara enim,muara enim,kategori_scrapping sumatera selatan
+keyword_4 muara enim,muara enim,kategori_scrapping sumatera selatan
+keyword_5 muara enim,muara enim,kategori_scrapping sumatera selatan
+keyword_6 muara enim,muara enim,kategori_scrapping sumatera selatan
+keyword_1 musi banyuasin,musi banyuasin,kategori_scrapping sumatera selatan
+keyword_2 musi banyuasin,musi banyuasin,kategori_scrapping sumatera selatan
+keyword_3 musi banyuasin,musi banyuasin,kategori_scrapping sumatera selatan
+keyword_4 musi banyuasin,musi banyuasin,kategori_scrapping sumatera selatan
+keyword_5 musi banyuasin,musi banyuasin,kategori_scrapping sumatera selatan
+keyword_6 musi banyuasin,musi banyuasin,kategori_scrapping sumatera selatan
+keyword_1 musi rawas,musi rawas,kategori_scrapping sumatera selatan
+keyword_2 musi rawas,musi rawas,kategori_scrapping sumatera selatan
+keyword_3 musi rawas,musi rawas,kategori_scrapping sumatera selatan
+keyword_4 musi rawas,musi rawas,kategori_scrapping sumatera selatan
+keyword_5 musi rawas,musi rawas,kategori_scrapping sumatera selatan
+keyword_6 musi rawas,musi rawas,kategori_scrapping sumatera selatan
+keyword_1 musi rawas utara,musi rawas utara,kategori_scrapping sumatera selatan
+keyword_2 musi rawas utara,musi rawas utara,kategori_scrapping sumatera selatan
+keyword_3 musi rawas utara,musi rawas utara,kategori_scrapping sumatera selatan
+keyword_4 musi rawas utara,musi rawas utara,kategori_scrapping sumatera selatan
+keyword_5 musi rawas utara,musi rawas utara,kategori_scrapping sumatera selatan
+keyword_6 musi rawas utara,musi rawas utara,kategori_scrapping sumatera selatan
+keyword_1 ogan ilir,ogan ilir,kategori_scrapping sumatera selatan
+keyword_2 ogan ilir,ogan ilir,kategori_scrapping sumatera selatan
+keyword_3 ogan ilir,ogan ilir,kategori_scrapping sumatera selatan
+keyword_4 ogan ilir,ogan ilir,kategori_scrapping sumatera selatan
+keyword_5 ogan ilir,ogan ilir,kategori_scrapping sumatera selatan
+keyword_6 ogan ilir,ogan ilir,kategori_scrapping sumatera selatan
+keyword_1 ogan komering ilir,ogan komering ilir,kategori_scrapping sumatera selatan
+keyword_2 ogan komering ilir,ogan komering ilir,kategori_scrapping sumatera selatan
+keyword_3 ogan komering ilir,ogan komering ilir,kategori_scrapping sumatera selatan
+keyword_4 ogan komering ilir,ogan komering ilir,kategori_scrapping sumatera selatan
+keyword_5 ogan komering ilir,ogan komering ilir,kategori_scrapping sumatera selatan
+keyword_6 ogan komering ilir,ogan komering ilir,kategori_scrapping sumatera selatan
+keyword_1 ogan komering ulu,ogan komering ulu,kategori_scrapping sumatera selatan
+keyword_2 ogan komering ulu,ogan komering ulu,kategori_scrapping sumatera selatan
+keyword_3 ogan komering ulu,ogan komering ulu,kategori_scrapping sumatera selatan
+keyword_4 ogan komering ulu,ogan komering ulu,kategori_scrapping sumatera selatan
+keyword_5 ogan komering ulu,ogan komering ulu,kategori_scrapping sumatera selatan
+keyword_6 ogan komering ulu,ogan komering ulu,kategori_scrapping sumatera selatan
+keyword_1 ogan komering ulu selatan,ogan komering ulu selatan,kategori_scrapping sumatera selatan
+keyword_2 ogan komering ulu selatan,ogan komering ulu selatan,kategori_scrapping sumatera selatan
+keyword_3 ogan komering ulu selatan,ogan komering ulu selatan,kategori_scrapping sumatera selatan
+keyword_4 ogan komering ulu selatan,ogan komering ulu selatan,kategori_scrapping sumatera selatan
+keyword_5 ogan komering ulu selatan,ogan komering ulu selatan,kategori_scrapping sumatera selatan
+keyword_6 ogan komering ulu selatan,ogan komering ulu selatan,kategori_scrapping sumatera selatan
+keyword_1 ogan komering ulu timur,ogan komering ulu timur,kategori_scrapping sumatera selatan
+keyword_2 ogan komering ulu timur,ogan komering ulu timur,kategori_scrapping sumatera selatan
+keyword_3 ogan komering ulu timur,ogan komering ulu timur,kategori_scrapping sumatera selatan
+keyword_4 ogan komering ulu timur,ogan komering ulu timur,kategori_scrapping sumatera selatan
+keyword_5 ogan komering ulu timur,ogan komering ulu timur,kategori_scrapping sumatera selatan
+keyword_6 ogan komering ulu timur,ogan komering ulu timur,kategori_scrapping sumatera selatan
+keyword_1 penukal abab lematang ilir,penukal abab lematang ilir,kategori_scrapping sumatera selatan
+keyword_2 penukal abab lematang ilir,penukal abab lematang ilir,kategori_scrapping sumatera selatan
+keyword_3 penukal abab lematang ilir,penukal abab lematang ilir,kategori_scrapping sumatera selatan
+keyword_4 penukal abab lematang ilir,penukal abab lematang ilir,kategori_scrapping sumatera selatan
+keyword_5 penukal abab lematang ilir,penukal abab lematang ilir,kategori_scrapping sumatera selatan
+keyword_6 penukal abab lematang ilir,penukal abab lematang ilir,kategori_scrapping sumatera selatan
+keyword_1 lubuklinggau,lubuklinggau,kategori_scrapping sumatera selatan
+keyword_2 lubuklinggau,lubuklinggau,kategori_scrapping sumatera selatan
+keyword_3 lubuklinggau,lubuklinggau,kategori_scrapping sumatera selatan
+keyword_4 lubuklinggau,lubuklinggau,kategori_scrapping sumatera selatan
+keyword_5 lubuklinggau,lubuklinggau,kategori_scrapping sumatera selatan
+keyword_6 lubuklinggau,lubuklinggau,kategori_scrapping sumatera selatan
+keyword_1 pagar alam,pagar alam,kategori_scrapping sumatera selatan
+keyword_2 pagar alam,pagar alam,kategori_scrapping sumatera selatan
+keyword_3 pagar alam,pagar alam,kategori_scrapping sumatera selatan
+keyword_4 pagar alam,pagar alam,kategori_scrapping sumatera selatan
+keyword_5 pagar alam,pagar alam,kategori_scrapping sumatera selatan
+keyword_6 pagar alam,pagar alam,kategori_scrapping sumatera selatan
+keyword_1 palembang,palembang,kategori_scrapping sumatera selatan
+keyword_2 palembang,palembang,kategori_scrapping sumatera selatan
+keyword_3 palembang,palembang,kategori_scrapping sumatera selatan
+keyword_4 palembang,palembang,kategori_scrapping sumatera selatan
+keyword_5 palembang,palembang,kategori_scrapping sumatera selatan
+keyword_6 palembang,palembang,kategori_scrapping sumatera selatan
+keyword_1 prabumulih,prabumulih,kategori_scrapping sumatera selatan
+keyword_2 prabumulih,prabumulih,kategori_scrapping sumatera selatan
+keyword_3 prabumulih,prabumulih,kategori_scrapping sumatera selatan
+keyword_4 prabumulih,prabumulih,kategori_scrapping sumatera selatan
+keyword_5 prabumulih,prabumulih,kategori_scrapping sumatera selatan
+keyword_6 prabumulih,prabumulih,kategori_scrapping sumatera selatan
+
+
+
+provinsi riau:
+keyword_1 bengkalis,bengkalis,kategori_scrapping riau
+keyword_2 bengkalis,bengkalis,kategori_scrapping riau
+keyword_3 bengkalis,bengkalis,kategori_scrapping riau
+keyword_4 bengkalis,bengkalis,kategori_scrapping riau
+keyword_5 bengkalis,bengkalis,kategori_scrapping riau
+keyword_6 bengkalis,bengkalis,kategori_scrapping riau
+keyword_1 indragiri hilir,indragiri hilir,kategori_scrapping riau
+keyword_2 indragiri hilir,indragiri hilir,kategori_scrapping riau
+keyword_3 indragiri hilir,indragiri hilir,kategori_scrapping riau
+keyword_4 indragiri hilir,indragiri hilir,kategori_scrapping riau
+keyword_5 indragiri hilir,indragiri hilir,kategori_scrapping riau
+keyword_6 indragiri hilir,indragiri hilir,kategori_scrapping riau
+keyword_1 indragiri hulu,indragiri hulu,kategori_scrapping riau
+keyword_2 indragiri hulu,indragiri hulu,kategori_scrapping riau
+keyword_3 indragiri hulu,indragiri hulu,kategori_scrapping riau
+keyword_4 indragiri hulu,indragiri hulu,kategori_scrapping riau
+keyword_5 indragiri hulu,indragiri hulu,kategori_scrapping riau
+keyword_6 indragiri hulu,indragiri hulu,kategori_scrapping riau
+keyword_1 kampar,kampar,kategori_scrapping riau
+keyword_2 kampar,kampar,kategori_scrapping riau
+keyword_3 kampar,kampar,kategori_scrapping riau
+keyword_4 kampar,kampar,kategori_scrapping riau
+keyword_5 kampar,kampar,kategori_scrapping riau
+keyword_6 kampar,kampar,kategori_scrapping riau
+keyword_1 kepulauan meranti,kepulauan meranti,kategori_scrapping riau
+keyword_2 kepulauan meranti,kepulauan meranti,kategori_scrapping riau
+keyword_3 kepulauan meranti,kepulauan meranti,kategori_scrapping riau
+keyword_4 kepulauan meranti,kepulauan meranti,kategori_scrapping riau
+keyword_5 kepulauan meranti,kepulauan meranti,kategori_scrapping riau
+keyword_6 kepulauan meranti,kepulauan meranti,kategori_scrapping riau
+keyword_1 kuantan singingi,kuantan singingi,kategori_scrapping riau
+keyword_2 kuantan singingi,kuantan singingi,kategori_scrapping riau
+keyword_3 kuantan singingi,kuantan singingi,kategori_scrapping riau
+keyword_4 kuantan singingi,kuantan singingi,kategori_scrapping riau
+keyword_5 kuantan singingi,kuantan singingi,kategori_scrapping riau
+keyword_6 kuantan singingi,kuantan singingi,kategori_scrapping riau
+keyword_1 pelalawan,pelalawan,kategori_scrapping riau
+keyword_2 pelalawan,pelalawan,kategori_scrapping riau
+keyword_3 pelalawan,pelalawan,kategori_scrapping riau
+keyword_4 pelalawan,pelalawan,kategori_scrapping riau
+keyword_5 pelalawan,pelalawan,kategori_scrapping riau
+keyword_6 pelalawan,pelalawan,kategori_scrapping riau
+keyword_1 rokan hilir,rokan hilir,kategori_scrapping riau
+keyword_2 rokan hilir,rokan hilir,kategori_scrapping riau
+keyword_3 rokan hilir,rokan hilir,kategori_scrapping riau
+keyword_4 rokan hilir,rokan hilir,kategori_scrapping riau
+keyword_5 rokan hilir,rokan hilir,kategori_scrapping riau
+keyword_6 rokan hilir,rokan hilir,kategori_scrapping riau
+keyword_1 rokan hulu,rokan hulu,kategori_scrapping riau
+keyword_2 rokan hulu,rokan hulu,kategori_scrapping riau
+keyword_3 rokan hulu,rokan hulu,kategori_scrapping riau
+keyword_4 rokan hulu,rokan hulu,kategori_scrapping riau
+keyword_5 rokan hulu,rokan hulu,kategori_scrapping riau
+keyword_6 rokan hulu,rokan hulu,kategori_scrapping riau
+keyword_1 siak,siak,kategori_scrapping riau
+keyword_2 siak,siak,kategori_scrapping riau
+keyword_3 siak,siak,kategori_scrapping riau
+keyword_4 siak,siak,kategori_scrapping riau
+keyword_5 siak,siak,kategori_scrapping riau
+keyword_6 siak,siak,kategori_scrapping riau
+keyword_1 dumai,dumai,kategori_scrapping riau
+keyword_2 dumai,dumai,kategori_scrapping riau
+keyword_3 dumai,dumai,kategori_scrapping riau
+keyword_4 dumai,dumai,kategori_scrapping riau
+keyword_5 dumai,dumai,kategori_scrapping riau
+keyword_6 dumai,dumai,kategori_scrapping riau
+keyword_1 pekanbaru,pekanbaru,kategori_scrapping riau
+keyword_2 pekanbaru,pekanbaru,kategori_scrapping riau
+keyword_3 pekanbaru,pekanbaru,kategori_scrapping riau
+keyword_4 pekanbaru,pekanbaru,kategori_scrapping riau
+keyword_5 pekanbaru,pekanbaru,kategori_scrapping riau
+keyword_6 pekanbaru,pekanbaru,kategori_scrapping riau
+
+
+
+provinsi kepulauan riau (kepri):
+keyword_1 bintan,bintan,kategori_scrapping kepulauan riau
+keyword_2 bintan,bintan,kategori_scrapping kepulauan riau
+keyword_3 bintan,bintan,kategori_scrapping kepulauan riau
+keyword_4 bintan,bintan,kategori_scrapping kepulauan riau
+keyword_5 bintan,bintan,kategori_scrapping kepulauan riau
+keyword_6 bintan,bintan,kategori_scrapping kepulauan riau
+keyword_1 karimun,karimun,kategori_scrapping kepulauan riau
+keyword_2 karimun,karimun,kategori_scrapping kepulauan riau
+keyword_3 karimun,karimun,kategori_scrapping kepulauan riau
+keyword_4 karimun,karimun,kategori_scrapping kepulauan riau
+keyword_5 karimun,karimun,kategori_scrapping kepulauan riau
+keyword_6 karimun,karimun,kategori_scrapping kepulauan riau
+keyword_1 kepulauan anambas,kepulauan anambas,kategori_scrapping kepulauan riau
+keyword_2 kepulauan anambas,kepulauan anambas,kategori_scrapping kepulauan riau
+keyword_3 kepulauan anambas,kepulauan anambas,kategori_scrapping kepulauan riau
+keyword_4 kepulauan anambas,kepulauan anambas,kategori_scrapping kepulauan riau
+keyword_5 kepulauan anambas,kepulauan anambas,kategori_scrapping kepulauan riau
+keyword_6 kepulauan anambas,kepulauan anambas,kategori_scrapping kepulauan riau
+keyword_1 lingga,lingga,kategori_scrapping kepulauan riau
+keyword_2 lingga,lingga,kategori_scrapping kepulauan riau
+keyword_3 lingga,lingga,kategori_scrapping kepulauan riau
+keyword_4 lingga,lingga,kategori_scrapping kepulauan riau
+keyword_5 lingga,lingga,kategori_scrapping kepulauan riau
+keyword_6 lingga,lingga,kategori_scrapping kepulauan riau
+keyword_1 natuna,natuna,kategori_scrapping kepulauan riau
+keyword_2 natuna,natuna,kategori_scrapping kepulauan riau
+keyword_3 natuna,natuna,kategori_scrapping kepulauan riau
+keyword_4 natuna,natuna,kategori_scrapping kepulauan riau
+keyword_5 natuna,natuna,kategori_scrapping kepulauan riau
+keyword_6 natuna,natuna,kategori_scrapping kepulauan riau
+keyword_1 batam,batam,kategori_scrapping kepulauan riau
+keyword_2 batam,batam,kategori_scrapping kepulauan riau
+keyword_3 batam,batam,kategori_scrapping kepulauan riau
+keyword_4 batam,batam,kategori_scrapping kepulauan riau
+keyword_5 batam,batam,kategori_scrapping kepulauan riau
+keyword_6 batam,batam,kategori_scrapping kepulauan riau
+keyword_1 tanjung pinang,tanjung pinang,kategori_scrapping kepulauan riau
+keyword_2 tanjung pinang,tanjung pinang,kategori_scrapping kepulauan riau
+keyword_3 tanjung pinang,tanjung pinang,kategori_scrapping kepulauan riau
+keyword_4 tanjung pinang,tanjung pinang,kategori_scrapping kepulauan riau
+keyword_5 tanjung pinang,tanjung pinang,kategori_scrapping kepulauan riau
+keyword_6 tanjung pinang,tanjung pinang,kategori_scrapping kepulauan riau
+
+
+
+provinsi jambi:
+keyword_1 batanghari,batanghari,kategori_scrapping jambi
+keyword_2 batanghari,batanghari,kategori_scrapping jambi
+keyword_3 batanghari,batanghari,kategori_scrapping jambi
+keyword_4 batanghari,batanghari,kategori_scrapping jambi
+keyword_5 batanghari,batanghari,kategori_scrapping jambi
+keyword_6 batanghari,batanghari,kategori_scrapping jambi
+keyword_1 bungo,bungo,kategori_scrapping jambi
+keyword_2 bungo,bungo,kategori_scrapping jambi
+keyword_3 bungo,bungo,kategori_scrapping jambi
+keyword_4 bungo,bungo,kategori_scrapping jambi
+keyword_5 bungo,bungo,kategori_scrapping jambi
+keyword_6 bungo,bungo,kategori_scrapping jambi
+keyword_1 kerinci,kerinci,kategori_scrapping jambi
+keyword_2 kerinci,kerinci,kategori_scrapping jambi
+keyword_3 kerinci,kerinci,kategori_scrapping jambi
+keyword_4 kerinci,kerinci,kategori_scrapping jambi
+keyword_5 kerinci,kerinci,kategori_scrapping jambi
+keyword_6 kerinci,kerinci,kategori_scrapping jambi
+keyword_1 merangin,merangin,kategori_scrapping jambi
+keyword_2 merangin,merangin,kategori_scrapping jambi
+keyword_3 merangin,merangin,kategori_scrapping jambi
+keyword_4 merangin,merangin,kategori_scrapping jambi
+keyword_5 merangin,merangin,kategori_scrapping jambi
+keyword_6 merangin,merangin,kategori_scrapping jambi
+keyword_1 muaro jambi,muaro jambi,kategori_scrapping jambi
+keyword_2 muaro jambi,muaro jambi,kategori_scrapping jambi
+keyword_3 muaro jambi,muaro jambi,kategori_scrapping jambi
+keyword_4 muaro jambi,muaro jambi,kategori_scrapping jambi
+keyword_5 muaro jambi,muaro jambi,kategori_scrapping jambi
+keyword_6 muaro jambi,muaro jambi,kategori_scrapping jambi
+keyword_1 sarolangun,sarolangun,kategori_scrapping jambi
+keyword_2 sarolangun,sarolangun,kategori_scrapping jambi
+keyword_3 sarolangun,sarolangun,kategori_scrapping jambi
+keyword_4 sarolangun,sarolangun,kategori_scrapping jambi
+keyword_5 sarolangun,sarolangun,kategori_scrapping jambi
+keyword_6 sarolangun,sarolangun,kategori_scrapping jambi
+keyword_1 tanjung jabung barat,tanjung jabung barat,kategori_scrapping jambi
+keyword_2 tanjung jabung barat,tanjung jabung barat,kategori_scrapping jambi
+keyword_3 tanjung jabung barat,tanjung jabung barat,kategori_scrapping jambi
+keyword_4 tanjung jabung barat,tanjung jabung barat,kategori_scrapping jambi
+keyword_5 tanjung jabung barat,tanjung jabung barat,kategori_scrapping jambi
+keyword_6 tanjung jabung barat,tanjung jabung barat,kategori_scrapping jambi
+keyword_1 tebo,tebo,kategori_scrapping jambi
+keyword_2 tebo,tebo,kategori_scrapping jambi
+keyword_3 tebo,tebo,kategori_scrapping jambi
+keyword_4 tebo,tebo,kategori_scrapping jambi
+keyword_5 tebo,tebo,kategori_scrapping jambi
+keyword_6 tebo,tebo,kategori_scrapping jambi
+keyword_1 jambi,jambi,kategori_scrapping jambi
+keyword_2 jambi,jambi,kategori_scrapping jambi
+keyword_3 jambi,jambi,kategori_scrapping jambi
+keyword_4 jambi,jambi,kategori_scrapping jambi
+keyword_5 jambi,jambi,kategori_scrapping jambi
+keyword_6 jambi,jambi,kategori_scrapping jambi
+keyword_1 sungai penuh,sungai penuh,kategori_scrapping jambi
+keyword_2 sungai penuh,sungai penuh,kategori_scrapping jambi
+keyword_3 sungai penuh,sungai penuh,kategori_scrapping jambi
+keyword_4 sungai penuh,sungai penuh,kategori_scrapping jambi
+keyword_5 sungai penuh,sungai penuh,kategori_scrapping jambi
+keyword_6 sungai penuh,sungai penuh,kategori_scrapping jambi
+
+
+
+provinsi bengkulu:
+keyword_1 bengkulu selatan,bengkulu selatan,kategori_scrapping bengkulu
+keyword_2 bengkulu selatan,bengkulu selatan,kategori_scrapping bengkulu
+keyword_3 bengkulu selatan,bengkulu selatan,kategori_scrapping bengkulu
+keyword_4 bengkulu selatan,bengkulu selatan,kategori_scrapping bengkulu
+keyword_5 bengkulu selatan,bengkulu selatan,kategori_scrapping bengkulu
+keyword_6 bengkulu selatan,bengkulu selatan,kategori_scrapping bengkulu
+keyword_1 bengkulu tengah,bengkulu tengah,kategori_scrapping bengkulu
+keyword_2 bengkulu tengah,bengkulu tengah,kategori_scrapping bengkulu
+keyword_3 bengkulu tengah,bengkulu tengah,kategori_scrapping bengkulu
+keyword_4 bengkulu tengah,bengkulu tengah,kategori_scrapping bengkulu
+keyword_5 bengkulu tengah,bengkulu tengah,kategori_scrapping bengkulu
+keyword_6 bengkulu tengah,bengkulu tengah,kategori_scrapping bengkulu
+keyword_1 bengkulu utara,bengkulu utara,kategori_scrapping bengkulu
+keyword_2 bengkulu utara,bengkulu utara,kategori_scrapping bengkulu
+keyword_3 bengkulu utara,bengkulu utara,kategori_scrapping bengkulu
+keyword_4 bengkulu utara,bengkulu utara,kategori_scrapping bengkulu
+keyword_5 bengkulu utara,bengkulu utara,kategori_scrapping bengkulu
+keyword_6 bengkulu utara,bengkulu utara,kategori_scrapping bengkulu
+keyword_1 kaur,kaur,kategori_scrapping bengkulu
+keyword_2 kaur,kaur,kategori_scrapping bengkulu
+keyword_3 kaur,kaur,kategori_scrapping bengkulu
+keyword_4 kaur,kaur,kategori_scrapping bengkulu
+keyword_5 kaur,kaur,kategori_scrapping bengkulu
+keyword_6 kaur,kaur,kategori_scrapping bengkulu
+keyword_1 kepahiang,kepahiang,kategori_scrapping bengkulu
+keyword_2 kepahiang,kepahiang,kategori_scrapping bengkulu
+keyword_3 kepahiang,kepahiang,kategori_scrapping bengkulu
+keyword_4 kepahiang,kepahiang,kategori_scrapping bengkulu
+keyword_5 kepahiang,kepahiang,kategori_scrapping bengkulu
+keyword_6 kepahiang,kepahiang,kategori_scrapping bengkulu
+keyword_1 lebong,lebong,kategori_scrapping bengkulu
+keyword_2 lebong,lebong,kategori_scrapping bengkulu
+keyword_3 lebong,lebong,kategori_scrapping bengkulu
+keyword_4 lebong,lebong,kategori_scrapping bengkulu
+keyword_5 lebong,lebong,kategori_scrapping bengkulu
+keyword_6 lebong,lebong,kategori_scrapping bengkulu
+keyword_1 mukomuko,mukomuko,kategori_scrapping bengkulu
+keyword_2 mukomuko,mukomuko,kategori_scrapping bengkulu
+keyword_3 mukomuko,mukomuko,kategori_scrapping bengkulu
+keyword_4 mukomuko,mukomuko,kategori_scrapping bengkulu
+keyword_5 mukomuko,mukomuko,kategori_scrapping bengkulu
+keyword_6 mukomuko,mukomuko,kategori_scrapping bengkulu
+keyword_1 rejang lebong,rejang lebong,kategori_scrapping bengkulu
+keyword_2 rejang lebong,rejang lebong,kategori_scrapping bengkulu
+keyword_3 rejang lebong,rejang lebong,kategori_scrapping bengkulu
+keyword_4 rejang lebong,rejang lebong,kategori_scrapping bengkulu
+keyword_5 rejang lebong,rejang lebong,kategori_scrapping bengkulu
+keyword_6 rejang lebong,rejang lebong,kategori_scrapping bengkulu
+keyword_1 seluma,seluma,kategori_scrapping bengkulu
+keyword_2 seluma,seluma,kategori_scrapping bengkulu
+keyword_3 seluma,seluma,kategori_scrapping bengkulu
+keyword_4 seluma,seluma,kategori_scrapping bengkulu
+keyword_5 seluma,seluma,kategori_scrapping bengkulu
+keyword_6 seluma,seluma,kategori_scrapping bengkulu
+keyword_1 bengkulu,bengkulu,kategori_scrapping bengkulu
+keyword_2 bengkulu,bengkulu,kategori_scrapping bengkulu
+keyword_3 bengkulu,bengkulu,kategori_scrapping bengkulu
+keyword_4 bengkulu,bengkulu,kategori_scrapping bengkulu
+keyword_5 bengkulu,bengkulu,kategori_scrapping bengkulu
+keyword_6 bengkulu,bengkulu,kategori_scrapping bengkulu
+
+
+
+provinsi bangka belitung (babel):
+keyword_1 bangka,bangka,kategori_scrapping kepulauan bangka belitung
+keyword_2 bangka,bangka,kategori_scrapping kepulauan bangka belitung
+keyword_3 bangka,bangka,kategori_scrapping kepulauan bangka belitung
+keyword_4 bangka,bangka,kategori_scrapping kepulauan bangka belitung
+keyword_5 bangka,bangka,kategori_scrapping kepulauan bangka belitung
+keyword_6 bangka,bangka,kategori_scrapping kepulauan bangka belitung
+keyword_1 bangka barat,bangka barat,kategori_scrapping kepulauan bangka belitung
+keyword_2 bangka barat,bangka barat,kategori_scrapping kepulauan bangka belitung
+keyword_3 bangka barat,bangka barat,kategori_scrapping kepulauan bangka belitung
+keyword_4 bangka barat,bangka barat,kategori_scrapping kepulauan bangka belitung
+keyword_5 bangka barat,bangka barat,kategori_scrapping kepulauan bangka belitung
+keyword_6 bangka barat,bangka barat,kategori_scrapping kepulauan bangka belitung
+keyword_1 bangka selatan,bangka selatan,kategori_scrapping kepulauan bangka belitung
+keyword_2 bangka selatan,bangka selatan,kategori_scrapping kepulauan bangka belitung
+keyword_3 bangka selatan,bangka selatan,kategori_scrapping kepulauan bangka belitung
+keyword_4 bangka selatan,bangka selatan,kategori_scrapping kepulauan bangka belitung
+keyword_5 bangka selatan,bangka selatan,kategori_scrapping kepulauan bangka belitung
+keyword_6 bangka selatan,bangka selatan,kategori_scrapping kepulauan bangka belitung
+keyword_1 bangka tengah,bangka tengah,kategori_scrapping kepulauan bangka belitung
+keyword_2 bangka tengah,bangka tengah,kategori_scrapping kepulauan bangka belitung
+keyword_3 bangka tengah,bangka tengah,kategori_scrapping kepulauan bangka belitung
+keyword_4 bangka tengah,bangka tengah,kategori_scrapping kepulauan bangka belitung
+keyword_5 bangka tengah,bangka tengah,kategori_scrapping kepulauan bangka belitung
+keyword_6 bangka tengah,bangka tengah,kategori_scrapping kepulauan bangka belitung
+keyword_1 belitung,belitung,kategori_scrapping kepulauan bangka belitung
+keyword_2 belitung,belitung,kategori_scrapping kepulauan bangka belitung
+keyword_3 belitung,belitung,kategori_scrapping kepulauan bangka belitung
+keyword_4 belitung,belitung,kategori_scrapping kepulauan bangka belitung
+keyword_5 belitung,belitung,kategori_scrapping kepulauan bangka belitung
+keyword_6 belitung,belitung,kategori_scrapping kepulauan bangka belitung
+keyword_1 belitung timur,belitung timur,kategori_scrapping kepulauan bangka belitung
+keyword_2 belitung timur,belitung timur,kategori_scrapping kepulauan bangka belitung
+keyword_3 belitung timur,belitung timur,kategori_scrapping kepulauan bangka belitung
+keyword_4 belitung timur,belitung timur,kategori_scrapping kepulauan bangka belitung
+keyword_5 belitung timur,belitung timur,kategori_scrapping kepulauan bangka belitung
+keyword_6 belitung timur,belitung timur,kategori_scrapping kepulauan bangka belitung
+keyword_1 pangkal pinang,pangkal pinang,kategori_scrapping kepulauan bangka belitung
+keyword_2 pangkal pinang,pangkal pinang,kategori_scrapping kepulauan bangka belitung
+keyword_3 pangkal pinang,pangkal pinang,kategori_scrapping kepulauan bangka belitung
+keyword_4 pangkal pinang,pangkal pinang,kategori_scrapping kepulauan bangka belitung
+keyword_5 pangkal pinang,pangkal pinang,kategori_scrapping kepulauan bangka belitung
+keyword_6 pangkal pinang,pangkal pinang,kategori_scrapping kepulauan bangka belitung
+
+
+
+provinsi lampung:
+keyword_1 lampung tengah,lampung tengah,kategori_scrapping lampung
+keyword_2 lampung tengah,lampung tengah,kategori_scrapping lampung
+keyword_3 lampung tengah,lampung tengah,kategori_scrapping lampung
+keyword_4 lampung tengah,lampung tengah,kategori_scrapping lampung
+keyword_5 lampung tengah,lampung tengah,kategori_scrapping lampung
+keyword_6 lampung tengah,lampung tengah,kategori_scrapping lampung
+keyword_1 lampung utara,lampung utara,kategori_scrapping lampung
+keyword_2 lampung utara,lampung utara,kategori_scrapping lampung
+keyword_3 lampung utara,lampung utara,kategori_scrapping lampung
+keyword_4 lampung utara,lampung utara,kategori_scrapping lampung
+keyword_5 lampung utara,lampung utara,kategori_scrapping lampung
+keyword_6 lampung utara,lampung utara,kategori_scrapping lampung
+keyword_1 lampung selatan,lampung selatan,kategori_scrapping lampung
+keyword_2 lampung selatan,lampung selatan,kategori_scrapping lampung
+keyword_3 lampung selatan,lampung selatan,kategori_scrapping lampung
+keyword_4 lampung selatan,lampung selatan,kategori_scrapping lampung
+keyword_5 lampung selatan,lampung selatan,kategori_scrapping lampung
+keyword_6 lampung selatan,lampung selatan,kategori_scrapping lampung
+keyword_1 lampung barat,lampung barat,kategori_scrapping lampung
+keyword_2 lampung barat,lampung barat,kategori_scrapping lampung
+keyword_3 lampung barat,lampung barat,kategori_scrapping lampung
+keyword_4 lampung barat,lampung barat,kategori_scrapping lampung
+keyword_5 lampung barat,lampung barat,kategori_scrapping lampung
+keyword_6 lampung barat,lampung barat,kategori_scrapping lampung
+keyword_1 lampung timur,lampung timur,kategori_scrapping lampung
+keyword_2 lampung timur,lampung timur,kategori_scrapping lampung
+keyword_3 lampung timur,lampung timur,kategori_scrapping lampung
+keyword_4 lampung timur,lampung timur,kategori_scrapping lampung
+keyword_5 lampung timur,lampung timur,kategori_scrapping lampung
+keyword_6 lampung timur,lampung timur,kategori_scrapping lampung
+keyword_1 mesuji,mesuji,kategori_scrapping lampung
+keyword_2 mesuji,mesuji,kategori_scrapping lampung
+keyword_3 mesuji,mesuji,kategori_scrapping lampung
+keyword_4 mesuji,mesuji,kategori_scrapping lampung
+keyword_5 mesuji,mesuji,kategori_scrapping lampung
+keyword_6 mesuji,mesuji,kategori_scrapping lampung
+keyword_1 pesawaran,pesawaran,kategori_scrapping lampung
+keyword_2 pesawaran,pesawaran,kategori_scrapping lampung
+keyword_3 pesawaran,pesawaran,kategori_scrapping lampung
+keyword_4 pesawaran,pesawaran,kategori_scrapping lampung
+keyword_5 pesawaran,pesawaran,kategori_scrapping lampung
+keyword_6 pesawaran,pesawaran,kategori_scrapping lampung
+keyword_1 pesisir barat,pesisir barat,kategori_scrapping lampung
+keyword_2 pesisir barat,pesisir barat,kategori_scrapping lampung
+keyword_3 pesisir barat,pesisir barat,kategori_scrapping lampung
+keyword_4 pesisir barat,pesisir barat,kategori_scrapping lampung
+keyword_5 pesisir barat,pesisir barat,kategori_scrapping lampung
+keyword_6 pesisir barat,pesisir barat,kategori_scrapping lampung
+keyword_1 pringsewu,pringsewu,kategori_scrapping lampung
+keyword_2 pringsewu,pringsewu,kategori_scrapping lampung
+keyword_3 pringsewu,pringsewu,kategori_scrapping lampung
+keyword_4 pringsewu,pringsewu,kategori_scrapping lampung
+keyword_5 pringsewu,pringsewu,kategori_scrapping lampung
+keyword_6 pringsewu,pringsewu,kategori_scrapping lampung
+keyword_1 tulang bawang,tulang bawang,kategori_scrapping lampung
+keyword_2 tulang bawang,tulang bawang,kategori_scrapping lampung
+keyword_3 tulang bawang,tulang bawang,kategori_scrapping lampung
+keyword_4 tulang bawang,tulang bawang,kategori_scrapping lampung
+keyword_5 tulang bawang,tulang bawang,kategori_scrapping lampung
+keyword_6 tulang bawang,tulang bawang,kategori_scrapping lampung
+keyword_1 tulang bawang barat,tulang bawang barat,kategori_scrapping lampung
+keyword_2 tulang bawang barat,tulang bawang barat,kategori_scrapping lampung
+keyword_3 tulang bawang barat,tulang bawang barat,kategori_scrapping lampung
+keyword_4 tulang bawang barat,tulang bawang barat,kategori_scrapping lampung
+keyword_5 tulang bawang barat,tulang bawang barat,kategori_scrapping lampung
+keyword_6 tulang bawang barat,tulang bawang barat,kategori_scrapping lampung
+keyword_1 tanggamus,tanggamus,kategori_scrapping lampung
+keyword_2 tanggamus,tanggamus,kategori_scrapping lampung
+keyword_3 tanggamus,tanggamus,kategori_scrapping lampung
+keyword_4 tanggamus,tanggamus,kategori_scrapping lampung
+keyword_5 tanggamus,tanggamus,kategori_scrapping lampung
+keyword_6 tanggamus,tanggamus,kategori_scrapping lampung
+keyword_1 way kanan,way kanan,kategori_scrapping lampung
+keyword_2 way kanan,way kanan,kategori_scrapping lampung
+keyword_3 way kanan,way kanan,kategori_scrapping lampung
+keyword_4 way kanan,way kanan,kategori_scrapping lampung
+keyword_5 way kanan,way kanan,kategori_scrapping lampung
+keyword_6 way kanan,way kanan,kategori_scrapping lampung
+keyword_1 bandar lampung,bandar lampung,kategori_scrapping lampung
+keyword_2 bandar lampung,bandar lampung,kategori_scrapping lampung
+keyword_3 bandar lampung,bandar lampung,kategori_scrapping lampung
+keyword_4 bandar lampung,bandar lampung,kategori_scrapping lampung
+keyword_5 bandar lampung,bandar lampung,kategori_scrapping lampung
+keyword_6 bandar lampung,bandar lampung,kategori_scrapping lampung
+keyword_1 metro,metro,kategori_scrapping lampung
+keyword_2 metro,metro,kategori_scrapping lampung
+keyword_3 metro,metro,kategori_scrapping lampung
+keyword_4 metro,metro,kategori_scrapping lampung
+keyword_5 metro,metro,kategori_scrapping lampung
+keyword_6 metro,metro,kategori_scrapping lampung
+
+
+
+provinsi banten:
+keyword_1 lebak,lebak,kategori_scrapping banten
+keyword_2 lebak,lebak,kategori_scrapping banten
+keyword_3 lebak,lebak,kategori_scrapping banten
+keyword_4 lebak,lebak,kategori_scrapping banten
+keyword_5 lebak,lebak,kategori_scrapping banten
+keyword_6 lebak,lebak,kategori_scrapping banten
+keyword_1 pandeglang,pandeglang,kategori_scrapping banten
+keyword_2 pandeglang,pandeglang,kategori_scrapping banten
+keyword_3 pandeglang,pandeglang,kategori_scrapping banten
+keyword_4 pandeglang,pandeglang,kategori_scrapping banten
+keyword_5 pandeglang,pandeglang,kategori_scrapping banten
+keyword_6 pandeglang,pandeglang,kategori_scrapping banten
+keyword_1 serang,serang,kategori_scrapping banten
+keyword_2 serang,serang,kategori_scrapping banten
+keyword_3 serang,serang,kategori_scrapping banten
+keyword_4 serang,serang,kategori_scrapping banten
+keyword_5 serang,serang,kategori_scrapping banten
+keyword_6 serang,serang,kategori_scrapping banten
+keyword_1 tangerang,tangerang,kategori_scrapping banten
+keyword_2 tangerang,tangerang,kategori_scrapping banten
+keyword_3 tangerang,tangerang,kategori_scrapping banten
+keyword_4 tangerang,tangerang,kategori_scrapping banten
+keyword_5 tangerang,tangerang,kategori_scrapping banten
+keyword_6 tangerang,tangerang,kategori_scrapping banten
+keyword_1 cilegon,cilegon,kategori_scrapping banten
+keyword_2 cilegon,cilegon,kategori_scrapping banten
+keyword_3 cilegon,cilegon,kategori_scrapping banten
+keyword_4 cilegon,cilegon,kategori_scrapping banten
+keyword_5 cilegon,cilegon,kategori_scrapping banten
+keyword_6 cilegon,cilegon,kategori_scrapping banten
+keyword_1 tangerang selatan,tangerang selatan,kategori_scrapping banten
+keyword_2 tangerang selatan,tangerang selatan,kategori_scrapping banten
+keyword_3 tangerang selatan,tangerang selatan,kategori_scrapping banten
+keyword_4 tangerang selatan,tangerang selatan,kategori_scrapping banten
+keyword_5 tangerang selatan,tangerang selatan,kategori_scrapping banten
+keyword_6 tangerang selatan,tangerang selatan,kategori_scrapping banten
+
+
+
+provinsi jawa barat (jabar):
+keyword_1 bandung,bandung,kategori_scrapping jawa barat
+keyword_2 bandung,bandung,kategori_scrapping jawa barat
+keyword_3 bandung,bandung,kategori_scrapping jawa barat
+keyword_4 bandung,bandung,kategori_scrapping jawa barat
+keyword_5 bandung,bandung,kategori_scrapping jawa barat
+keyword_6 bandung,bandung,kategori_scrapping jawa barat
+keyword_1 bandung barat,bandung barat,kategori_scrapping jawa barat
+keyword_2 bandung barat,bandung barat,kategori_scrapping jawa barat
+keyword_3 bandung barat,bandung barat,kategori_scrapping jawa barat
+keyword_4 bandung barat,bandung barat,kategori_scrapping jawa barat
+keyword_5 bandung barat,bandung barat,kategori_scrapping jawa barat
+keyword_6 bandung barat,bandung barat,kategori_scrapping jawa barat
+keyword_1 bekasi,bekasi,kategori_scrapping jawa barat
+keyword_2 bekasi,bekasi,kategori_scrapping jawa barat
+keyword_3 bekasi,bekasi,kategori_scrapping jawa barat
+keyword_4 bekasi,bekasi,kategori_scrapping jawa barat
+keyword_5 bekasi,bekasi,kategori_scrapping jawa barat
+keyword_6 bekasi,bekasi,kategori_scrapping jawa barat
+keyword_1 bogor,bogor,kategori_scrapping jawa barat
+keyword_2 bogor,bogor,kategori_scrapping jawa barat
+keyword_3 bogor,bogor,kategori_scrapping jawa barat
+keyword_4 bogor,bogor,kategori_scrapping jawa barat
+keyword_5 bogor,bogor,kategori_scrapping jawa barat
+keyword_6 bogor,bogor,kategori_scrapping jawa barat
+keyword_1 ciamis,ciamis,kategori_scrapping jawa barat
+keyword_2 ciamis,ciamis,kategori_scrapping jawa barat
+keyword_3 ciamis,ciamis,kategori_scrapping jawa barat
+keyword_4 ciamis,ciamis,kategori_scrapping jawa barat
+keyword_5 ciamis,ciamis,kategori_scrapping jawa barat
+keyword_6 ciamis,ciamis,kategori_scrapping jawa barat
+keyword_1 cianjur,cianjur,kategori_scrapping jawa barat
+keyword_2 cianjur,cianjur,kategori_scrapping jawa barat
+keyword_3 cianjur,cianjur,kategori_scrapping jawa barat
+keyword_4 cianjur,cianjur,kategori_scrapping jawa barat
+keyword_5 cianjur,cianjur,kategori_scrapping jawa barat
+keyword_6 cianjur,cianjur,kategori_scrapping jawa barat
+keyword_1 cirebon,cirebon,kategori_scrapping jawa barat
+keyword_2 cirebon,cirebon,kategori_scrapping jawa barat
+keyword_3 cirebon,cirebon,kategori_scrapping jawa barat
+keyword_4 cirebon,cirebon,kategori_scrapping jawa barat
+keyword_5 cirebon,cirebon,kategori_scrapping jawa barat
+keyword_6 cirebon,cirebon,kategori_scrapping jawa barat
+keyword_1 garut,garut,kategori_scrapping jawa barat
+keyword_2 garut,garut,kategori_scrapping jawa barat
+keyword_3 garut,garut,kategori_scrapping jawa barat
+keyword_4 garut,garut,kategori_scrapping jawa barat
+keyword_5 garut,garut,kategori_scrapping jawa barat
+keyword_6 garut,garut,kategori_scrapping jawa barat
+keyword_1 indramayu,indramayu,kategori_scrapping jawa barat
+keyword_2 indramayu,indramayu,kategori_scrapping jawa barat
+keyword_3 indramayu,indramayu,kategori_scrapping jawa barat
+keyword_4 indramayu,indramayu,kategori_scrapping jawa barat
+keyword_5 indramayu,indramayu,kategori_scrapping jawa barat
+keyword_6 indramayu,indramayu,kategori_scrapping jawa barat
+keyword_1 karawang,karawang,kategori_scrapping jawa barat
+keyword_2 karawang,karawang,kategori_scrapping jawa barat
+keyword_3 karawang,karawang,kategori_scrapping jawa barat
+keyword_4 karawang,karawang,kategori_scrapping jawa barat
+keyword_5 karawang,karawang,kategori_scrapping jawa barat
+keyword_6 karawang,karawang,kategori_scrapping jawa barat
+keyword_1 kuningan,kuningan,kategori_scrapping jawa barat
+keyword_2 kuningan,kuningan,kategori_scrapping jawa barat
+keyword_3 kuningan,kuningan,kategori_scrapping jawa barat
+keyword_4 kuningan,kuningan,kategori_scrapping jawa barat
+keyword_5 kuningan,kuningan,kategori_scrapping jawa barat
+keyword_6 kuningan,kuningan,kategori_scrapping jawa barat
+keyword_1 majalengka,majalengka,kategori_scrapping jawa barat
+keyword_2 majalengka,majalengka,kategori_scrapping jawa barat
+keyword_3 majalengka,majalengka,kategori_scrapping jawa barat
+keyword_4 majalengka,majalengka,kategori_scrapping jawa barat
+keyword_5 majalengka,majalengka,kategori_scrapping jawa barat
+keyword_6 majalengka,majalengka,kategori_scrapping jawa barat
+keyword_1 pangandaran,pangandaran,kategori_scrapping jawa barat
+keyword_2 pangandaran,pangandaran,kategori_scrapping jawa barat
+keyword_3 pangandaran,pangandaran,kategori_scrapping jawa barat
+keyword_4 pangandaran,pangandaran,kategori_scrapping jawa barat
+keyword_5 pangandaran,pangandaran,kategori_scrapping jawa barat
+keyword_6 pangandaran,pangandaran,kategori_scrapping jawa barat
+keyword_1 purwakarta,purwakarta,kategori_scrapping jawa barat
+keyword_2 purwakarta,purwakarta,kategori_scrapping jawa barat
+keyword_3 purwakarta,purwakarta,kategori_scrapping jawa barat
+keyword_4 purwakarta,purwakarta,kategori_scrapping jawa barat
+keyword_5 purwakarta,purwakarta,kategori_scrapping jawa barat
+keyword_6 purwakarta,purwakarta,kategori_scrapping jawa barat
+keyword_1 subang,subang,kategori_scrapping jawa barat
+keyword_2 subang,subang,kategori_scrapping jawa barat
+keyword_3 subang,subang,kategori_scrapping jawa barat
+keyword_4 subang,subang,kategori_scrapping jawa barat
+keyword_5 subang,subang,kategori_scrapping jawa barat
+keyword_6 subang,subang,kategori_scrapping jawa barat
+keyword_1 sukabumi,sukabumi,kategori_scrapping jawa barat
+keyword_2 sukabumi,sukabumi,kategori_scrapping jawa barat
+keyword_3 sukabumi,sukabumi,kategori_scrapping jawa barat
+keyword_4 sukabumi,sukabumi,kategori_scrapping jawa barat
+keyword_5 sukabumi,sukabumi,kategori_scrapping jawa barat
+keyword_6 sukabumi,sukabumi,kategori_scrapping jawa barat
+keyword_1 sumedang,sumedang,kategori_scrapping jawa barat
+keyword_2 sumedang,sumedang,kategori_scrapping jawa barat
+keyword_3 sumedang,sumedang,kategori_scrapping jawa barat
+keyword_4 sumedang,sumedang,kategori_scrapping jawa barat
+keyword_5 sumedang,sumedang,kategori_scrapping jawa barat
+keyword_6 sumedang,sumedang,kategori_scrapping jawa barat
+keyword_1 tasikmalaya,tasikmalaya,kategori_scrapping jawa barat
+keyword_2 tasikmalaya,tasikmalaya,kategori_scrapping jawa barat
+keyword_3 tasikmalaya,tasikmalaya,kategori_scrapping jawa barat
+keyword_4 tasikmalaya,tasikmalaya,kategori_scrapping jawa barat
+keyword_5 tasikmalaya,tasikmalaya,kategori_scrapping jawa barat
+keyword_6 tasikmalaya,tasikmalaya,kategori_scrapping jawa barat
+keyword_1 banjar,banjar,kategori_scrapping jawa barat
+keyword_2 banjar,banjar,kategori_scrapping jawa barat
+keyword_3 banjar,banjar,kategori_scrapping jawa barat
+keyword_4 banjar,banjar,kategori_scrapping jawa barat
+keyword_5 banjar,banjar,kategori_scrapping jawa barat
+keyword_6 banjar,banjar,kategori_scrapping jawa barat
+keyword_1 cimahi,cimahi,kategori_scrapping jawa barat
+keyword_2 cimahi,cimahi,kategori_scrapping jawa barat
+keyword_3 cimahi,cimahi,kategori_scrapping jawa barat
+keyword_4 cimahi,cimahi,kategori_scrapping jawa barat
+keyword_5 cimahi,cimahi,kategori_scrapping jawa barat
+keyword_6 cimahi,cimahi,kategori_scrapping jawa barat
+keyword_1 depok,depok,kategori_scrapping jawa barat
+keyword_2 depok,depok,kategori_scrapping jawa barat
+keyword_3 depok,depok,kategori_scrapping jawa barat
+keyword_4 depok,depok,kategori_scrapping jawa barat
+keyword_5 depok,depok,kategori_scrapping jawa barat
+keyword_6 depok,depok,kategori_scrapping jawa barat
+
+
+
+provinsi jawa tengah (jateng):
+keyword_1 banjarnegara,banjarnegara,kategori_scrapping jawa tengah
+keyword_2 banjarnegara,banjarnegara,kategori_scrapping jawa tengah
+keyword_3 banjarnegara,banjarnegara,kategori_scrapping jawa tengah
+keyword_4 banjarnegara,banjarnegara,kategori_scrapping jawa tengah
+keyword_5 banjarnegara,banjarnegara,kategori_scrapping jawa tengah
+keyword_6 banjarnegara,banjarnegara,kategori_scrapping jawa tengah
+keyword_1 banyumas,banyumas,kategori_scrapping jawa tengah
+keyword_2 banyumas,banyumas,kategori_scrapping jawa tengah
+keyword_3 banyumas,banyumas,kategori_scrapping jawa tengah
+keyword_4 banyumas,banyumas,kategori_scrapping jawa tengah
+keyword_5 banyumas,banyumas,kategori_scrapping jawa tengah
+keyword_6 banyumas,banyumas,kategori_scrapping jawa tengah
+keyword_1 batang,batang,kategori_scrapping jawa tengah
+keyword_2 batang,batang,kategori_scrapping jawa tengah
+keyword_3 batang,batang,kategori_scrapping jawa tengah
+keyword_4 batang,batang,kategori_scrapping jawa tengah
+keyword_5 batang,batang,kategori_scrapping jawa tengah
+keyword_6 batang,batang,kategori_scrapping jawa tengah
+keyword_1 blora,blora,kategori_scrapping jawa tengah
+keyword_2 blora,blora,kategori_scrapping jawa tengah
+keyword_3 blora,blora,kategori_scrapping jawa tengah
+keyword_4 blora,blora,kategori_scrapping jawa tengah
+keyword_5 blora,blora,kategori_scrapping jawa tengah
+keyword_6 blora,blora,kategori_scrapping jawa tengah
+keyword_1 boyolali,boyolali,kategori_scrapping jawa tengah
+keyword_2 boyolali,boyolali,kategori_scrapping jawa tengah
+keyword_3 boyolali,boyolali,kategori_scrapping jawa tengah
+keyword_4 boyolali,boyolali,kategori_scrapping jawa tengah
+keyword_5 boyolali,boyolali,kategori_scrapping jawa tengah
+keyword_6 boyolali,boyolali,kategori_scrapping jawa tengah
+keyword_1 brebes,brebes,kategori_scrapping jawa tengah
+keyword_2 brebes,brebes,kategori_scrapping jawa tengah
+keyword_3 brebes,brebes,kategori_scrapping jawa tengah
+keyword_4 brebes,brebes,kategori_scrapping jawa tengah
+keyword_5 brebes,brebes,kategori_scrapping jawa tengah
+keyword_6 brebes,brebes,kategori_scrapping jawa tengah
+keyword_1 cilacap,cilacap,kategori_scrapping jawa tengah
+keyword_2 cilacap,cilacap,kategori_scrapping jawa tengah
+keyword_3 cilacap,cilacap,kategori_scrapping jawa tengah
+keyword_4 cilacap,cilacap,kategori_scrapping jawa tengah
+keyword_5 cilacap,cilacap,kategori_scrapping jawa tengah
+keyword_6 cilacap,cilacap,kategori_scrapping jawa tengah
+keyword_1 demak,demak,kategori_scrapping jawa tengah
+keyword_2 demak,demak,kategori_scrapping jawa tengah
+keyword_3 demak,demak,kategori_scrapping jawa tengah
+keyword_4 demak,demak,kategori_scrapping jawa tengah
+keyword_5 demak,demak,kategori_scrapping jawa tengah
+keyword_6 demak,demak,kategori_scrapping jawa tengah
+keyword_1 grobogan,grobogan,kategori_scrapping jawa tengah
+keyword_2 grobogan,grobogan,kategori_scrapping jawa tengah
+keyword_3 grobogan,grobogan,kategori_scrapping jawa tengah
+keyword_4 grobogan,grobogan,kategori_scrapping jawa tengah
+keyword_5 grobogan,grobogan,kategori_scrapping jawa tengah
+keyword_6 grobogan,grobogan,kategori_scrapping jawa tengah
+keyword_1 jepara,jepara,kategori_scrapping jawa tengah
+keyword_2 jepara,jepara,kategori_scrapping jawa tengah
+keyword_3 jepara,jepara,kategori_scrapping jawa tengah
+keyword_4 jepara,jepara,kategori_scrapping jawa tengah
+keyword_5 jepara,jepara,kategori_scrapping jawa tengah
+keyword_6 jepara,jepara,kategori_scrapping jawa tengah
+keyword_1 karanganyar,karanganyar,kategori_scrapping jawa tengah
+keyword_2 karanganyar,karanganyar,kategori_scrapping jawa tengah
+keyword_3 karanganyar,karanganyar,kategori_scrapping jawa tengah
+keyword_4 karanganyar,karanganyar,kategori_scrapping jawa tengah
+keyword_5 karanganyar,karanganyar,kategori_scrapping jawa tengah
+keyword_6 karanganyar,karanganyar,kategori_scrapping jawa tengah
+keyword_1 kebumen,kebumen,kategori_scrapping jawa tengah
+keyword_2 kebumen,kebumen,kategori_scrapping jawa tengah
+keyword_3 kebumen,kebumen,kategori_scrapping jawa tengah
+keyword_4 kebumen,kebumen,kategori_scrapping jawa tengah
+keyword_5 kebumen,kebumen,kategori_scrapping jawa tengah
+keyword_6 kebumen,kebumen,kategori_scrapping jawa tengah
+keyword_1 kendal,kendal,kategori_scrapping jawa tengah
+keyword_2 kendal,kendal,kategori_scrapping jawa tengah
+keyword_3 kendal,kendal,kategori_scrapping jawa tengah
+keyword_4 kendal,kendal,kategori_scrapping jawa tengah
+keyword_5 kendal,kendal,kategori_scrapping jawa tengah
+keyword_6 kendal,kendal,kategori_scrapping jawa tengah
+keyword_1 klaten,klaten,kategori_scrapping jawa tengah
+keyword_2 klaten,klaten,kategori_scrapping jawa tengah
+keyword_3 klaten,klaten,kategori_scrapping jawa tengah
+keyword_4 klaten,klaten,kategori_scrapping jawa tengah
+keyword_5 klaten,klaten,kategori_scrapping jawa tengah
+keyword_6 klaten,klaten,kategori_scrapping jawa tengah
+keyword_1 kudus,kudus,kategori_scrapping jawa tengah
+keyword_2 kudus,kudus,kategori_scrapping jawa tengah
+keyword_3 kudus,kudus,kategori_scrapping jawa tengah
+keyword_4 kudus,kudus,kategori_scrapping jawa tengah
+keyword_5 kudus,kudus,kategori_scrapping jawa tengah
+keyword_6 kudus,kudus,kategori_scrapping jawa tengah
+keyword_1 magelang,magelang,kategori_scrapping jawa tengah
+keyword_2 magelang,magelang,kategori_scrapping jawa tengah
+keyword_3 magelang,magelang,kategori_scrapping jawa tengah
+keyword_4 magelang,magelang,kategori_scrapping jawa tengah
+keyword_5 magelang,magelang,kategori_scrapping jawa tengah
+keyword_6 magelang,magelang,kategori_scrapping jawa tengah
+keyword_1 pati,pati,kategori_scrapping jawa tengah
+keyword_2 pati,pati,kategori_scrapping jawa tengah
+keyword_3 pati,pati,kategori_scrapping jawa tengah
+keyword_4 pati,pati,kategori_scrapping jawa tengah
+keyword_5 pati,pati,kategori_scrapping jawa tengah
+keyword_6 pati,pati,kategori_scrapping jawa tengah
+keyword_1 pekalongan,pekalongan,kategori_scrapping jawa tengah
+keyword_2 pekalongan,pekalongan,kategori_scrapping jawa tengah
+keyword_3 pekalongan,pekalongan,kategori_scrapping jawa tengah
+keyword_4 pekalongan,pekalongan,kategori_scrapping jawa tengah
+keyword_5 pekalongan,pekalongan,kategori_scrapping jawa tengah
+keyword_6 pekalongan,pekalongan,kategori_scrapping jawa tengah
+keyword_1 pemalang,pemalang,kategori_scrapping jawa tengah
+keyword_2 pemalang,pemalang,kategori_scrapping jawa tengah
+keyword_3 pemalang,pemalang,kategori_scrapping jawa tengah
+keyword_4 pemalang,pemalang,kategori_scrapping jawa tengah
+keyword_5 pemalang,pemalang,kategori_scrapping jawa tengah
+keyword_6 pemalang,pemalang,kategori_scrapping jawa tengah
+keyword_1 purbalingga,purbalingga,kategori_scrapping jawa tengah
+keyword_2 purbalingga,purbalingga,kategori_scrapping jawa tengah
+keyword_3 purbalingga,purbalingga,kategori_scrapping jawa tengah
+keyword_4 purbalingga,purbalingga,kategori_scrapping jawa tengah
+keyword_5 purbalingga,purbalingga,kategori_scrapping jawa tengah
+keyword_6 purbalingga,purbalingga,kategori_scrapping jawa tengah
+keyword_1 purworejo,purworejo,kategori_scrapping jawa tengah
+keyword_2 purworejo,purworejo,kategori_scrapping jawa tengah
+keyword_3 purworejo,purworejo,kategori_scrapping jawa tengah
+keyword_4 purworejo,purworejo,kategori_scrapping jawa tengah
+keyword_5 purworejo,purworejo,kategori_scrapping jawa tengah
+keyword_6 purworejo,purworejo,kategori_scrapping jawa tengah
+keyword_1 rembang,rembang,kategori_scrapping jawa tengah
+keyword_2 rembang,rembang,kategori_scrapping jawa tengah
+keyword_3 rembang,rembang,kategori_scrapping jawa tengah
+keyword_4 rembang,rembang,kategori_scrapping jawa tengah
+keyword_5 rembang,rembang,kategori_scrapping jawa tengah
+keyword_6 rembang,rembang,kategori_scrapping jawa tengah
+keyword_1 semarang,semarang,kategori_scrapping jawa tengah
+keyword_2 semarang,semarang,kategori_scrapping jawa tengah
+keyword_3 semarang,semarang,kategori_scrapping jawa tengah
+keyword_4 semarang,semarang,kategori_scrapping jawa tengah
+keyword_5 semarang,semarang,kategori_scrapping jawa tengah
+keyword_6 semarang,semarang,kategori_scrapping jawa tengah
+keyword_1 sragen,sragen,kategori_scrapping jawa tengah
+keyword_2 sragen,sragen,kategori_scrapping jawa tengah
+keyword_3 sragen,sragen,kategori_scrapping jawa tengah
+keyword_4 sragen,sragen,kategori_scrapping jawa tengah
+keyword_5 sragen,sragen,kategori_scrapping jawa tengah
+keyword_6 sragen,sragen,kategori_scrapping jawa tengah
+keyword_1 sukoharjo,sukoharjo,kategori_scrapping jawa tengah
+keyword_2 sukoharjo,sukoharjo,kategori_scrapping jawa tengah
+keyword_3 sukoharjo,sukoharjo,kategori_scrapping jawa tengah
+keyword_4 sukoharjo,sukoharjo,kategori_scrapping jawa tengah
+keyword_5 sukoharjo,sukoharjo,kategori_scrapping jawa tengah
+keyword_6 sukoharjo,sukoharjo,kategori_scrapping jawa tengah
+keyword_1 tegal,tegal,kategori_scrapping jawa tengah
+keyword_2 tegal,tegal,kategori_scrapping jawa tengah
+keyword_3 tegal,tegal,kategori_scrapping jawa tengah
+keyword_4 tegal,tegal,kategori_scrapping jawa tengah
+keyword_5 tegal,tegal,kategori_scrapping jawa tengah
+keyword_6 tegal,tegal,kategori_scrapping jawa tengah
+keyword_1 temanggung,temanggung,kategori_scrapping jawa tengah
+keyword_2 temanggung,temanggung,kategori_scrapping jawa tengah
+keyword_3 temanggung,temanggung,kategori_scrapping jawa tengah
+keyword_4 temanggung,temanggung,kategori_scrapping jawa tengah
+keyword_5 temanggung,temanggung,kategori_scrapping jawa tengah
+keyword_6 temanggung,temanggung,kategori_scrapping jawa tengah
+keyword_1 wonogiri,wonogiri,kategori_scrapping jawa tengah
+keyword_2 wonogiri,wonogiri,kategori_scrapping jawa tengah
+keyword_3 wonogiri,wonogiri,kategori_scrapping jawa tengah
+keyword_4 wonogiri,wonogiri,kategori_scrapping jawa tengah
+keyword_5 wonogiri,wonogiri,kategori_scrapping jawa tengah
+keyword_6 wonogiri,wonogiri,kategori_scrapping jawa tengah
+keyword_1 wonosobo,wonosobo,kategori_scrapping jawa tengah
+keyword_2 wonosobo,wonosobo,kategori_scrapping jawa tengah
+keyword_3 wonosobo,wonosobo,kategori_scrapping jawa tengah
+keyword_4 wonosobo,wonosobo,kategori_scrapping jawa tengah
+keyword_5 wonosobo,wonosobo,kategori_scrapping jawa tengah
+keyword_6 wonosobo,wonosobo,kategori_scrapping jawa tengah
+keyword_1 salatiga,salatiga,kategori_scrapping jawa tengah
+keyword_2 salatiga,salatiga,kategori_scrapping jawa tengah
+keyword_3 salatiga,salatiga,kategori_scrapping jawa tengah
+keyword_4 salatiga,salatiga,kategori_scrapping jawa tengah
+keyword_5 salatiga,salatiga,kategori_scrapping jawa tengah
+keyword_6 salatiga,salatiga,kategori_scrapping jawa tengah
+keyword_1 surakarta,surakarta,kategori_scrapping jawa tengah
+keyword_2 surakarta,surakarta,kategori_scrapping jawa tengah
+keyword_3 surakarta,surakarta,kategori_scrapping jawa tengah
+keyword_4 surakarta,surakarta,kategori_scrapping jawa tengah
+keyword_5 surakarta,surakarta,kategori_scrapping jawa tengah
+keyword_6 surakarta,surakarta,kategori_scrapping jawa tengah
+
+
+
+provinsi jawa timur (jatim):
+keyword_1 bangkalan,bangkalan,kategori_scrapping jawa timur
+keyword_2 bangkalan,bangkalan,kategori_scrapping jawa timur
+keyword_3 bangkalan,bangkalan,kategori_scrapping jawa timur
+keyword_4 bangkalan,bangkalan,kategori_scrapping jawa timur
+keyword_5 bangkalan,bangkalan,kategori_scrapping jawa timur
+keyword_6 bangkalan,bangkalan,kategori_scrapping jawa timur
+keyword_1 banyuwangi,banyuwangi,kategori_scrapping jawa timur
+keyword_2 banyuwangi,banyuwangi,kategori_scrapping jawa timur
+keyword_3 banyuwangi,banyuwangi,kategori_scrapping jawa timur
+keyword_4 banyuwangi,banyuwangi,kategori_scrapping jawa timur
+keyword_5 banyuwangi,banyuwangi,kategori_scrapping jawa timur
+keyword_6 banyuwangi,banyuwangi,kategori_scrapping jawa timur
+keyword_1 blitar,blitar,kategori_scrapping jawa timur
+keyword_2 blitar,blitar,kategori_scrapping jawa timur
+keyword_3 blitar,blitar,kategori_scrapping jawa timur
+keyword_4 blitar,blitar,kategori_scrapping jawa timur
+keyword_5 blitar,blitar,kategori_scrapping jawa timur
+keyword_6 blitar,blitar,kategori_scrapping jawa timur
+keyword_1 bojonegoro,bojonegoro,kategori_scrapping jawa timur
+keyword_2 bojonegoro,bojonegoro,kategori_scrapping jawa timur
+keyword_3 bojonegoro,bojonegoro,kategori_scrapping jawa timur
+keyword_4 bojonegoro,bojonegoro,kategori_scrapping jawa timur
+keyword_5 bojonegoro,bojonegoro,kategori_scrapping jawa timur
+keyword_6 bojonegoro,bojonegoro,kategori_scrapping jawa timur
+keyword_1 bondowoso,bondowoso,kategori_scrapping jawa timur
+keyword_2 bondowoso,bondowoso,kategori_scrapping jawa timur
+keyword_3 bondowoso,bondowoso,kategori_scrapping jawa timur
+keyword_4 bondowoso,bondowoso,kategori_scrapping jawa timur
+keyword_5 bondowoso,bondowoso,kategori_scrapping jawa timur
+keyword_6 bondowoso,bondowoso,kategori_scrapping jawa timur
+keyword_1 gresik,gresik,kategori_scrapping jawa timur
+keyword_2 gresik,gresik,kategori_scrapping jawa timur
+keyword_3 gresik,gresik,kategori_scrapping jawa timur
+keyword_4 gresik,gresik,kategori_scrapping jawa timur
+keyword_5 gresik,gresik,kategori_scrapping jawa timur
+keyword_6 gresik,gresik,kategori_scrapping jawa timur
+keyword_1 jember,jember,kategori_scrapping jawa timur
+keyword_2 jember,jember,kategori_scrapping jawa timur
+keyword_3 jember,jember,kategori_scrapping jawa timur
+keyword_4 jember,jember,kategori_scrapping jawa timur
+keyword_5 jember,jember,kategori_scrapping jawa timur
+keyword_6 jember,jember,kategori_scrapping jawa timur
+keyword_1 jombang,jombang,kategori_scrapping jawa timur
+keyword_2 jombang,jombang,kategori_scrapping jawa timur
+keyword_3 jombang,jombang,kategori_scrapping jawa timur
+keyword_4 jombang,jombang,kategori_scrapping jawa timur
+keyword_5 jombang,jombang,kategori_scrapping jawa timur
+keyword_6 jombang,jombang,kategori_scrapping jawa timur
+keyword_1 kediri,kediri,kategori_scrapping jawa timur
+keyword_2 kediri,kediri,kategori_scrapping jawa timur
+keyword_3 kediri,kediri,kategori_scrapping jawa timur
+keyword_4 kediri,kediri,kategori_scrapping jawa timur
+keyword_5 kediri,kediri,kategori_scrapping jawa timur
+keyword_6 kediri,kediri,kategori_scrapping jawa timur
+keyword_1 lamongan,lamongan,kategori_scrapping jawa timur
+keyword_2 lamongan,lamongan,kategori_scrapping jawa timur
+keyword_3 lamongan,lamongan,kategori_scrapping jawa timur
+keyword_4 lamongan,lamongan,kategori_scrapping jawa timur
+keyword_5 lamongan,lamongan,kategori_scrapping jawa timur
+keyword_6 lamongan,lamongan,kategori_scrapping jawa timur
+keyword_1 lumajang,lumajang,kategori_scrapping jawa timur
+keyword_2 lumajang,lumajang,kategori_scrapping jawa timur
+keyword_3 lumajang,lumajang,kategori_scrapping jawa timur
+keyword_4 lumajang,lumajang,kategori_scrapping jawa timur
+keyword_5 lumajang,lumajang,kategori_scrapping jawa timur
+keyword_6 lumajang,lumajang,kategori_scrapping jawa timur
+keyword_1 madiun,madiun,kategori_scrapping jawa timur
+keyword_2 madiun,madiun,kategori_scrapping jawa timur
+keyword_3 madiun,madiun,kategori_scrapping jawa timur
+keyword_4 madiun,madiun,kategori_scrapping jawa timur
+keyword_5 madiun,madiun,kategori_scrapping jawa timur
+keyword_6 madiun,madiun,kategori_scrapping jawa timur
+keyword_1 magetan,magetan,kategori_scrapping jawa timur
+keyword_2 magetan,magetan,kategori_scrapping jawa timur
+keyword_3 magetan,magetan,kategori_scrapping jawa timur
+keyword_4 magetan,magetan,kategori_scrapping jawa timur
+keyword_5 magetan,magetan,kategori_scrapping jawa timur
+keyword_6 magetan,magetan,kategori_scrapping jawa timur
+keyword_1 malang,malang,kategori_scrapping jawa timur
+keyword_2 malang,malang,kategori_scrapping jawa timur
+keyword_3 malang,malang,kategori_scrapping jawa timur
+keyword_4 malang,malang,kategori_scrapping jawa timur
+keyword_5 malang,malang,kategori_scrapping jawa timur
+keyword_6 malang,malang,kategori_scrapping jawa timur
+keyword_1 mojokerto,mojokerto,kategori_scrapping jawa timur
+keyword_2 mojokerto,mojokerto,kategori_scrapping jawa timur
+keyword_3 mojokerto,mojokerto,kategori_scrapping jawa timur
+keyword_4 mojokerto,mojokerto,kategori_scrapping jawa timur
+keyword_5 mojokerto,mojokerto,kategori_scrapping jawa timur
+keyword_6 mojokerto,mojokerto,kategori_scrapping jawa timur
+keyword_1 nganjuk,nganjuk,kategori_scrapping jawa timur
+keyword_2 nganjuk,nganjuk,kategori_scrapping jawa timur
+keyword_3 nganjuk,nganjuk,kategori_scrapping jawa timur
+keyword_4 nganjuk,nganjuk,kategori_scrapping jawa timur
+keyword_5 nganjuk,nganjuk,kategori_scrapping jawa timur
+keyword_6 nganjuk,nganjuk,kategori_scrapping jawa timur
+keyword_1 ngawi,ngawi,kategori_scrapping jawa timur
+keyword_2 ngawi,ngawi,kategori_scrapping jawa timur
+keyword_3 ngawi,ngawi,kategori_scrapping jawa timur
+keyword_4 ngawi,ngawi,kategori_scrapping jawa timur
+keyword_5 ngawi,ngawi,kategori_scrapping jawa timur
+keyword_6 ngawi,ngawi,kategori_scrapping jawa timur
+keyword_1 pacitan,pacitan,kategori_scrapping jawa timur
+keyword_2 pacitan,pacitan,kategori_scrapping jawa timur
+keyword_3 pacitan,pacitan,kategori_scrapping jawa timur
+keyword_4 pacitan,pacitan,kategori_scrapping jawa timur
+keyword_5 pacitan,pacitan,kategori_scrapping jawa timur
+keyword_6 pacitan,pacitan,kategori_scrapping jawa timur
+keyword_1 pamekasan,pamekasan,kategori_scrapping jawa timur
+keyword_2 pamekasan,pamekasan,kategori_scrapping jawa timur
+keyword_3 pamekasan,pamekasan,kategori_scrapping jawa timur
+keyword_4 pamekasan,pamekasan,kategori_scrapping jawa timur
+keyword_5 pamekasan,pamekasan,kategori_scrapping jawa timur
+keyword_6 pamekasan,pamekasan,kategori_scrapping jawa timur
+keyword_1 pasuruan,pasuruan,kategori_scrapping jawa timur
+keyword_2 pasuruan,pasuruan,kategori_scrapping jawa timur
+keyword_3 pasuruan,pasuruan,kategori_scrapping jawa timur
+keyword_4 pasuruan,pasuruan,kategori_scrapping jawa timur
+keyword_5 pasuruan,pasuruan,kategori_scrapping jawa timur
+keyword_6 pasuruan,pasuruan,kategori_scrapping jawa timur
+keyword_1 ponorogo,ponorogo,kategori_scrapping jawa timur
+keyword_2 ponorogo,ponorogo,kategori_scrapping jawa timur
+keyword_3 ponorogo,ponorogo,kategori_scrapping jawa timur
+keyword_4 ponorogo,ponorogo,kategori_scrapping jawa timur
+keyword_5 ponorogo,ponorogo,kategori_scrapping jawa timur
+keyword_6 ponorogo,ponorogo,kategori_scrapping jawa timur
+keyword_1 probolinggo,probolinggo,kategori_scrapping jawa timur
+keyword_2 probolinggo,probolinggo,kategori_scrapping jawa timur
+keyword_3 probolinggo,probolinggo,kategori_scrapping jawa timur
+keyword_4 probolinggo,probolinggo,kategori_scrapping jawa timur
+keyword_5 probolinggo,probolinggo,kategori_scrapping jawa timur
+keyword_6 probolinggo,probolinggo,kategori_scrapping jawa timur
+keyword_1 sampang,sampang,kategori_scrapping jawa timur
+keyword_2 sampang,sampang,kategori_scrapping jawa timur
+keyword_3 sampang,sampang,kategori_scrapping jawa timur
+keyword_4 sampang,sampang,kategori_scrapping jawa timur
+keyword_5 sampang,sampang,kategori_scrapping jawa timur
+keyword_6 sampang,sampang,kategori_scrapping jawa timur
+keyword_1 sidoarjo,sidoarjo,kategori_scrapping jawa timur
+keyword_2 sidoarjo,sidoarjo,kategori_scrapping jawa timur
+keyword_3 sidoarjo,sidoarjo,kategori_scrapping jawa timur
+keyword_4 sidoarjo,sidoarjo,kategori_scrapping jawa timur
+keyword_5 sidoarjo,sidoarjo,kategori_scrapping jawa timur
+keyword_6 sidoarjo,sidoarjo,kategori_scrapping jawa timur
+keyword_1 situbondo,situbondo,kategori_scrapping jawa timur
+keyword_2 situbondo,situbondo,kategori_scrapping jawa timur
+keyword_3 situbondo,situbondo,kategori_scrapping jawa timur
+keyword_4 situbondo,situbondo,kategori_scrapping jawa timur
+keyword_5 situbondo,situbondo,kategori_scrapping jawa timur
+keyword_6 situbondo,situbondo,kategori_scrapping jawa timur
+keyword_1 sumenep,sumenep,kategori_scrapping jawa timur
+keyword_2 sumenep,sumenep,kategori_scrapping jawa timur
+keyword_3 sumenep,sumenep,kategori_scrapping jawa timur
+keyword_4 sumenep,sumenep,kategori_scrapping jawa timur
+keyword_5 sumenep,sumenep,kategori_scrapping jawa timur
+keyword_6 sumenep,sumenep,kategori_scrapping jawa timur
+keyword_1 trenggalek,trenggalek,kategori_scrapping jawa timur
+keyword_2 trenggalek,trenggalek,kategori_scrapping jawa timur
+keyword_3 trenggalek,trenggalek,kategori_scrapping jawa timur
+keyword_4 trenggalek,trenggalek,kategori_scrapping jawa timur
+keyword_5 trenggalek,trenggalek,kategori_scrapping jawa timur
+keyword_6 trenggalek,trenggalek,kategori_scrapping jawa timur
+keyword_1 tuban,tuban,kategori_scrapping jawa timur
+keyword_2 tuban,tuban,kategori_scrapping jawa timur
+keyword_3 tuban,tuban,kategori_scrapping jawa timur
+keyword_4 tuban,tuban,kategori_scrapping jawa timur
+keyword_5 tuban,tuban,kategori_scrapping jawa timur
+keyword_6 tuban,tuban,kategori_scrapping jawa timur
+keyword_1 tulungagung,tulungagung,kategori_scrapping jawa timur
+keyword_2 tulungagung,tulungagung,kategori_scrapping jawa timur
+keyword_3 tulungagung,tulungagung,kategori_scrapping jawa timur
+keyword_4 tulungagung,tulungagung,kategori_scrapping jawa timur
+keyword_5 tulungagung,tulungagung,kategori_scrapping jawa timur
+keyword_6 tulungagung,tulungagung,kategori_scrapping jawa timur
+keyword_1 batu,batu,kategori_scrapping jawa timur
+keyword_2 batu,batu,kategori_scrapping jawa timur
+keyword_3 batu,batu,kategori_scrapping jawa timur
+keyword_4 batu,batu,kategori_scrapping jawa timur
+keyword_5 batu,batu,kategori_scrapping jawa timur
+keyword_6 batu,batu,kategori_scrapping jawa timur
+keyword_1 surabaya,surabaya,kategori_scrapping jawa timur
+keyword_2 surabaya,surabaya,kategori_scrapping jawa timur
+keyword_3 surabaya,surabaya,kategori_scrapping jawa timur
+keyword_4 surabaya,surabaya,kategori_scrapping jawa timur
+keyword_5 surabaya,surabaya,kategori_scrapping jawa timur
+keyword_6 surabaya,surabaya,kategori_scrapping jawa timur
+
+
+
+provinsi dki jakarta:
+keyword_1 jakarta barat,jakarta barat,kategori_scrapping dki jakarta
+keyword_2 jakarta barat,jakarta barat,kategori_scrapping dki jakarta
+keyword_3 jakarta barat,jakarta barat,kategori_scrapping dki jakarta
+keyword_4 jakarta barat,jakarta barat,kategori_scrapping dki jakarta
+keyword_5 jakarta barat,jakarta barat,kategori_scrapping dki jakarta
+keyword_6 jakarta barat,jakarta barat,kategori_scrapping dki jakarta
+keyword_1 jakarta pusat,jakarta pusat,kategori_scrapping dki jakarta
+keyword_2 jakarta pusat,jakarta pusat,kategori_scrapping dki jakarta
+keyword_3 jakarta pusat,jakarta pusat,kategori_scrapping dki jakarta
+keyword_4 jakarta pusat,jakarta pusat,kategori_scrapping dki jakarta
+keyword_5 jakarta pusat,jakarta pusat,kategori_scrapping dki jakarta
+keyword_6 jakarta pusat,jakarta pusat,kategori_scrapping dki jakarta
+keyword_1 jakarta selatan,jakarta selatan,kategori_scrapping dki jakarta
+keyword_2 jakarta selatan,jakarta selatan,kategori_scrapping dki jakarta
+keyword_3 jakarta selatan,jakarta selatan,kategori_scrapping dki jakarta
+keyword_4 jakarta selatan,jakarta selatan,kategori_scrapping dki jakarta
+keyword_5 jakarta selatan,jakarta selatan,kategori_scrapping dki jakarta
+keyword_6 jakarta selatan,jakarta selatan,kategori_scrapping dki jakarta
+keyword_1 jakarta timur,jakarta timur,kategori_scrapping dki jakarta
+keyword_2 jakarta timur,jakarta timur,kategori_scrapping dki jakarta
+keyword_3 jakarta timur,jakarta timur,kategori_scrapping dki jakarta
+keyword_4 jakarta timur,jakarta timur,kategori_scrapping dki jakarta
+keyword_5 jakarta timur,jakarta timur,kategori_scrapping dki jakarta
+keyword_6 jakarta timur,jakarta timur,kategori_scrapping dki jakarta
+keyword_1 jakarta utara,jakarta utara,kategori_scrapping dki jakarta
+keyword_2 jakarta utara,jakarta utara,kategori_scrapping dki jakarta
+keyword_3 jakarta utara,jakarta utara,kategori_scrapping dki jakarta
+keyword_4 jakarta utara,jakarta utara,kategori_scrapping dki jakarta
+keyword_5 jakarta utara,jakarta utara,kategori_scrapping dki jakarta
+keyword_6 jakarta utara,jakarta utara,kategori_scrapping dki jakarta
+keyword_1 kepulauan seribu,kepulauan seribu,kategori_scrapping dki jakarta
+keyword_2 kepulauan seribu,kepulauan seribu,kategori_scrapping dki jakarta
+keyword_3 kepulauan seribu,kepulauan seribu,kategori_scrapping dki jakarta
+keyword_4 kepulauan seribu,kepulauan seribu,kategori_scrapping dki jakarta
+keyword_5 kepulauan seribu,kepulauan seribu,kategori_scrapping dki jakarta
+keyword_6 kepulauan seribu,kepulauan seribu,kategori_scrapping dki jakarta
+
+
+
+provinsi daerah istimewa yogyakarta:
+keyword_1 bantul,bantul,kategori_scrapping yogyakarta
+keyword_2 bantul,bantul,kategori_scrapping yogyakarta
+keyword_3 bantul,bantul,kategori_scrapping yogyakarta
+keyword_4 bantul,bantul,kategori_scrapping yogyakarta
+keyword_5 bantul,bantul,kategori_scrapping yogyakarta
+keyword_6 bantul,bantul,kategori_scrapping yogyakarta
+keyword_1 gunungkidul,gunungkidul,kategori_scrapping yogyakarta
+keyword_2 gunungkidul,gunungkidul,kategori_scrapping yogyakarta
+keyword_3 gunungkidul,gunungkidul,kategori_scrapping yogyakarta
+keyword_4 gunungkidul,gunungkidul,kategori_scrapping yogyakarta
+keyword_5 gunungkidul,gunungkidul,kategori_scrapping yogyakarta
+keyword_6 gunungkidul,gunungkidul,kategori_scrapping yogyakarta
+keyword_1 kulon progo,kulon progo,kategori_scrapping yogyakarta
+keyword_2 kulon progo,kulon progo,kategori_scrapping yogyakarta
+keyword_3 kulon progo,kulon progo,kategori_scrapping yogyakarta
+keyword_4 kulon progo,kulon progo,kategori_scrapping yogyakarta
+keyword_5 kulon progo,kulon progo,kategori_scrapping yogyakarta
+keyword_6 kulon progo,kulon progo,kategori_scrapping yogyakarta
+keyword_1 sleman,sleman,kategori_scrapping yogyakarta
+keyword_2 sleman,sleman,kategori_scrapping yogyakarta
+keyword_3 sleman,sleman,kategori_scrapping yogyakarta
+keyword_4 sleman,sleman,kategori_scrapping yogyakarta
+keyword_5 sleman,sleman,kategori_scrapping yogyakarta
+keyword_6 sleman,sleman,kategori_scrapping yogyakarta
+keyword_1 yogyakarta,yogyakarta,kategori_scrapping yogyakarta
+keyword_2 yogyakarta,yogyakarta,kategori_scrapping yogyakarta
+keyword_3 yogyakarta,yogyakarta,kategori_scrapping yogyakarta
+keyword_4 yogyakarta,yogyakarta,kategori_scrapping yogyakarta
+keyword_5 yogyakarta,yogyakarta,kategori_scrapping yogyakarta
+keyword_6 yogyakarta,yogyakarta,kategori_scrapping yogyakarta
+
+
+
+provinsi bali:
+keyword_1 badung,badung,kategori_scrapping bali
+keyword_2 badung,badung,kategori_scrapping bali
+keyword_3 badung,badung,kategori_scrapping bali
+keyword_4 badung,badung,kategori_scrapping bali
+keyword_5 badung,badung,kategori_scrapping bali
+keyword_6 badung,badung,kategori_scrapping bali
+keyword_1 bangli,bangli,kategori_scrapping bali
+keyword_2 bangli,bangli,kategori_scrapping bali
+keyword_3 bangli,bangli,kategori_scrapping bali
+keyword_4 bangli,bangli,kategori_scrapping bali
+keyword_5 bangli,bangli,kategori_scrapping bali
+keyword_6 bangli,bangli,kategori_scrapping bali
+keyword_1 buleleng,buleleng,kategori_scrapping bali
+keyword_2 buleleng,buleleng,kategori_scrapping bali
+keyword_3 buleleng,buleleng,kategori_scrapping bali
+keyword_4 buleleng,buleleng,kategori_scrapping bali
+keyword_5 buleleng,buleleng,kategori_scrapping bali
+keyword_6 buleleng,buleleng,kategori_scrapping bali
+keyword_1 gianyar,gianyar,kategori_scrapping bali
+keyword_2 gianyar,gianyar,kategori_scrapping bali
+keyword_3 gianyar,gianyar,kategori_scrapping bali
+keyword_4 gianyar,gianyar,kategori_scrapping bali
+keyword_5 gianyar,gianyar,kategori_scrapping bali
+keyword_6 gianyar,gianyar,kategori_scrapping bali
+keyword_1 jembrana,jembrana,kategori_scrapping bali
+keyword_2 jembrana,jembrana,kategori_scrapping bali
+keyword_3 jembrana,jembrana,kategori_scrapping bali
+keyword_4 jembrana,jembrana,kategori_scrapping bali
+keyword_5 jembrana,jembrana,kategori_scrapping bali
+keyword_6 jembrana,jembrana,kategori_scrapping bali
+keyword_1 karangasem,karangasem,kategori_scrapping bali
+keyword_2 karangasem,karangasem,kategori_scrapping bali
+keyword_3 karangasem,karangasem,kategori_scrapping bali
+keyword_4 karangasem,karangasem,kategori_scrapping bali
+keyword_5 karangasem,karangasem,kategori_scrapping bali
+keyword_6 karangasem,karangasem,kategori_scrapping bali
+keyword_1 klungkung,klungkung,kategori_scrapping bali
+keyword_2 klungkung,klungkung,kategori_scrapping bali
+keyword_3 klungkung,klungkung,kategori_scrapping bali
+keyword_4 klungkung,klungkung,kategori_scrapping bali
+keyword_5 klungkung,klungkung,kategori_scrapping bali
+keyword_6 klungkung,klungkung,kategori_scrapping bali
+keyword_1 tabanan,tabanan,kategori_scrapping bali
+keyword_2 tabanan,tabanan,kategori_scrapping bali
+keyword_3 tabanan,tabanan,kategori_scrapping bali
+keyword_4 tabanan,tabanan,kategori_scrapping bali
+keyword_5 tabanan,tabanan,kategori_scrapping bali
+keyword_6 tabanan,tabanan,kategori_scrapping bali
+keyword_1 denpasar,denpasar,kategori_scrapping bali
+keyword_2 denpasar,denpasar,kategori_scrapping bali
+keyword_3 denpasar,denpasar,kategori_scrapping bali
+keyword_4 denpasar,denpasar,kategori_scrapping bali
+keyword_5 denpasar,denpasar,kategori_scrapping bali
+keyword_6 denpasar,denpasar,kategori_scrapping bali
+
+
+
+provinsi nusa tenggara barat (ntb):
+keyword_1 bima,bima,kategori_scrapping nusa tenggara barat
+keyword_2 bima,bima,kategori_scrapping nusa tenggara barat
+keyword_3 bima,bima,kategori_scrapping nusa tenggara barat
+keyword_4 bima,bima,kategori_scrapping nusa tenggara barat
+keyword_5 bima,bima,kategori_scrapping nusa tenggara barat
+keyword_6 bima,bima,kategori_scrapping nusa tenggara barat
+keyword_1 dompu,dompu,kategori_scrapping nusa tenggara barat
+keyword_2 dompu,dompu,kategori_scrapping nusa tenggara barat
+keyword_3 dompu,dompu,kategori_scrapping nusa tenggara barat
+keyword_4 dompu,dompu,kategori_scrapping nusa tenggara barat
+keyword_5 dompu,dompu,kategori_scrapping nusa tenggara barat
+keyword_6 dompu,dompu,kategori_scrapping nusa tenggara barat
+keyword_1 lombok barat,lombok barat,kategori_scrapping nusa tenggara barat
+keyword_2 lombok barat,lombok barat,kategori_scrapping nusa tenggara barat
+keyword_3 lombok barat,lombok barat,kategori_scrapping nusa tenggara barat
+keyword_4 lombok barat,lombok barat,kategori_scrapping nusa tenggara barat
+keyword_5 lombok barat,lombok barat,kategori_scrapping nusa tenggara barat
+keyword_6 lombok barat,lombok barat,kategori_scrapping nusa tenggara barat
+keyword_1 lombok tengah,lombok tengah,kategori_scrapping nusa tenggara barat
+keyword_2 lombok tengah,lombok tengah,kategori_scrapping nusa tenggara barat
+keyword_3 lombok tengah,lombok tengah,kategori_scrapping nusa tenggara barat
+keyword_4 lombok tengah,lombok tengah,kategori_scrapping nusa tenggara barat
+keyword_5 lombok tengah,lombok tengah,kategori_scrapping nusa tenggara barat
+keyword_6 lombok tengah,lombok tengah,kategori_scrapping nusa tenggara barat
+keyword_1 lombok timur,lombok timur,kategori_scrapping nusa tenggara barat
+keyword_2 lombok timur,lombok timur,kategori_scrapping nusa tenggara barat
+keyword_3 lombok timur,lombok timur,kategori_scrapping nusa tenggara barat
+keyword_4 lombok timur,lombok timur,kategori_scrapping nusa tenggara barat
+keyword_5 lombok timur,lombok timur,kategori_scrapping nusa tenggara barat
+keyword_6 lombok timur,lombok timur,kategori_scrapping nusa tenggara barat
+keyword_1 lombok utara,lombok utara,kategori_scrapping nusa tenggara barat
+keyword_2 lombok utara,lombok utara,kategori_scrapping nusa tenggara barat
+keyword_3 lombok utara,lombok utara,kategori_scrapping nusa tenggara barat
+keyword_4 lombok utara,lombok utara,kategori_scrapping nusa tenggara barat
+keyword_5 lombok utara,lombok utara,kategori_scrapping nusa tenggara barat
+keyword_6 lombok utara,lombok utara,kategori_scrapping nusa tenggara barat
+keyword_1 sumbawa,sumbawa,kategori_scrapping nusa tenggara barat
+keyword_2 sumbawa,sumbawa,kategori_scrapping nusa tenggara barat
+keyword_3 sumbawa,sumbawa,kategori_scrapping nusa tenggara barat
+keyword_4 sumbawa,sumbawa,kategori_scrapping nusa tenggara barat
+keyword_5 sumbawa,sumbawa,kategori_scrapping nusa tenggara barat
+keyword_6 sumbawa,sumbawa,kategori_scrapping nusa tenggara barat
+keyword_1 sumbawa barat,sumbawa barat,kategori_scrapping nusa tenggara barat
+keyword_2 sumbawa barat,sumbawa barat,kategori_scrapping nusa tenggara barat
+keyword_3 sumbawa barat,sumbawa barat,kategori_scrapping nusa tenggara barat
+keyword_4 sumbawa barat,sumbawa barat,kategori_scrapping nusa tenggara barat
+keyword_5 sumbawa barat,sumbawa barat,kategori_scrapping nusa tenggara barat
+keyword_6 sumbawa barat,sumbawa barat,kategori_scrapping nusa tenggara barat
+keyword_1 mataram,mataram,kategori_scrapping nusa tenggara barat
+keyword_2 mataram,mataram,kategori_scrapping nusa tenggara barat
+keyword_3 mataram,mataram,kategori_scrapping nusa tenggara barat
+keyword_4 mataram,mataram,kategori_scrapping nusa tenggara barat
+keyword_5 mataram,mataram,kategori_scrapping nusa tenggara barat
+keyword_6 mataram,mataram,kategori_scrapping nusa tenggara barat
+
+
+
+provinsi nusa tenggara timur (ntt):
+keyword_1 alor,alor,kategori_scrapping nusa tenggara timur
+keyword_2 alor,alor,kategori_scrapping nusa tenggara timur
+keyword_3 alor,alor,kategori_scrapping nusa tenggara timur
+keyword_4 alor,alor,kategori_scrapping nusa tenggara timur
+keyword_5 alor,alor,kategori_scrapping nusa tenggara timur
+keyword_6 alor,alor,kategori_scrapping nusa tenggara timur
+keyword_1 belu,belu,kategori_scrapping nusa tenggara timur
+keyword_2 belu,belu,kategori_scrapping nusa tenggara timur
+keyword_3 belu,belu,kategori_scrapping nusa tenggara timur
+keyword_4 belu,belu,kategori_scrapping nusa tenggara timur
+keyword_5 belu,belu,kategori_scrapping nusa tenggara timur
+keyword_6 belu,belu,kategori_scrapping nusa tenggara timur
+keyword_1 ende,ende,kategori_scrapping nusa tenggara timur
+keyword_2 ende,ende,kategori_scrapping nusa tenggara timur
+keyword_3 ende,ende,kategori_scrapping nusa tenggara timur
+keyword_4 ende,ende,kategori_scrapping nusa tenggara timur
+keyword_5 ende,ende,kategori_scrapping nusa tenggara timur
+keyword_6 ende,ende,kategori_scrapping nusa tenggara timur
+keyword_1 flores timur,flores timur,kategori_scrapping nusa tenggara timur
+keyword_2 flores timur,flores timur,kategori_scrapping nusa tenggara timur
+keyword_3 flores timur,flores timur,kategori_scrapping nusa tenggara timur
+keyword_4 flores timur,flores timur,kategori_scrapping nusa tenggara timur
+keyword_5 flores timur,flores timur,kategori_scrapping nusa tenggara timur
+keyword_6 flores timur,flores timur,kategori_scrapping nusa tenggara timur
+keyword_1 kupang,kupang,kategori_scrapping nusa tenggara timur
+keyword_2 kupang,kupang,kategori_scrapping nusa tenggara timur
+keyword_3 kupang,kupang,kategori_scrapping nusa tenggara timur
+keyword_4 kupang,kupang,kategori_scrapping nusa tenggara timur
+keyword_5 kupang,kupang,kategori_scrapping nusa tenggara timur
+keyword_6 kupang,kupang,kategori_scrapping nusa tenggara timur
+keyword_1 lembata,lembata,kategori_scrapping nusa tenggara timur
+keyword_2 lembata,lembata,kategori_scrapping nusa tenggara timur
+keyword_3 lembata,lembata,kategori_scrapping nusa tenggara timur
+keyword_4 lembata,lembata,kategori_scrapping nusa tenggara timur
+keyword_5 lembata,lembata,kategori_scrapping nusa tenggara timur
+keyword_6 lembata,lembata,kategori_scrapping nusa tenggara timur
+keyword_1 malaka,malaka,kategori_scrapping nusa tenggara timur
+keyword_2 malaka,malaka,kategori_scrapping nusa tenggara timur
+keyword_3 malaka,malaka,kategori_scrapping nusa tenggara timur
+keyword_4 malaka,malaka,kategori_scrapping nusa tenggara timur
+keyword_5 malaka,malaka,kategori_scrapping nusa tenggara timur
+keyword_6 malaka,malaka,kategori_scrapping nusa tenggara timur
+keyword_1 manggarai,manggarai,kategori_scrapping nusa tenggara timur
+keyword_2 manggarai,manggarai,kategori_scrapping nusa tenggara timur
+keyword_3 manggarai,manggarai,kategori_scrapping nusa tenggara timur
+keyword_4 manggarai,manggarai,kategori_scrapping nusa tenggara timur
+keyword_5 manggarai,manggarai,kategori_scrapping nusa tenggara timur
+keyword_6 manggarai,manggarai,kategori_scrapping nusa tenggara timur
+keyword_1 manggarai barat,manggarai barat,kategori_scrapping nusa tenggara timur
+keyword_2 manggarai barat,manggarai barat,kategori_scrapping nusa tenggara timur
+keyword_3 manggarai barat,manggarai barat,kategori_scrapping nusa tenggara timur
+keyword_4 manggarai barat,manggarai barat,kategori_scrapping nusa tenggara timur
+keyword_5 manggarai barat,manggarai barat,kategori_scrapping nusa tenggara timur
+keyword_6 manggarai barat,manggarai barat,kategori_scrapping nusa tenggara timur
+keyword_1 manggarai timur,manggarai timur,kategori_scrapping nusa tenggara timur
+keyword_2 manggarai timur,manggarai timur,kategori_scrapping nusa tenggara timur
+keyword_3 manggarai timur,manggarai timur,kategori_scrapping nusa tenggara timur
+keyword_4 manggarai timur,manggarai timur,kategori_scrapping nusa tenggara timur
+keyword_5 manggarai timur,manggarai timur,kategori_scrapping nusa tenggara timur
+keyword_6 manggarai timur,manggarai timur,kategori_scrapping nusa tenggara timur
+keyword_1 ngada,ngada,kategori_scrapping nusa tenggara timur
+keyword_2 ngada,ngada,kategori_scrapping nusa tenggara timur
+keyword_3 ngada,ngada,kategori_scrapping nusa tenggara timur
+keyword_4 ngada,ngada,kategori_scrapping nusa tenggara timur
+keyword_5 ngada,ngada,kategori_scrapping nusa tenggara timur
+keyword_6 ngada,ngada,kategori_scrapping nusa tenggara timur
+keyword_1 nagekeo,nagekeo,kategori_scrapping nusa tenggara timur
+keyword_2 nagekeo,nagekeo,kategori_scrapping nusa tenggara timur
+keyword_3 nagekeo,nagekeo,kategori_scrapping nusa tenggara timur
+keyword_4 nagekeo,nagekeo,kategori_scrapping nusa tenggara timur
+keyword_5 nagekeo,nagekeo,kategori_scrapping nusa tenggara timur
+keyword_6 nagekeo,nagekeo,kategori_scrapping nusa tenggara timur
+keyword_1 rote ndao,rote ndao,kategori_scrapping nusa tenggara timur
+keyword_2 rote ndao,rote ndao,kategori_scrapping nusa tenggara timur
+keyword_3 rote ndao,rote ndao,kategori_scrapping nusa tenggara timur
+keyword_4 rote ndao,rote ndao,kategori_scrapping nusa tenggara timur
+keyword_5 rote ndao,rote ndao,kategori_scrapping nusa tenggara timur
+keyword_6 rote ndao,rote ndao,kategori_scrapping nusa tenggara timur
+keyword_1 sabu raijua,sabu raijua,kategori_scrapping nusa tenggara timur
+keyword_2 sabu raijua,sabu raijua,kategori_scrapping nusa tenggara timur
+keyword_3 sabu raijua,sabu raijua,kategori_scrapping nusa tenggara timur
+keyword_4 sabu raijua,sabu raijua,kategori_scrapping nusa tenggara timur
+keyword_5 sabu raijua,sabu raijua,kategori_scrapping nusa tenggara timur
+keyword_6 sabu raijua,sabu raijua,kategori_scrapping nusa tenggara timur
+keyword_1 sikka,sikka,kategori_scrapping nusa tenggara timur
+keyword_2 sikka,sikka,kategori_scrapping nusa tenggara timur
+keyword_3 sikka,sikka,kategori_scrapping nusa tenggara timur
+keyword_4 sikka,sikka,kategori_scrapping nusa tenggara timur
+keyword_5 sikka,sikka,kategori_scrapping nusa tenggara timur
+keyword_6 sikka,sikka,kategori_scrapping nusa tenggara timur
+keyword_1 sumba barat,sumba barat,kategori_scrapping nusa tenggara timur
+keyword_2 sumba barat,sumba barat,kategori_scrapping nusa tenggara timur
+keyword_3 sumba barat,sumba barat,kategori_scrapping nusa tenggara timur
+keyword_4 sumba barat,sumba barat,kategori_scrapping nusa tenggara timur
+keyword_5 sumba barat,sumba barat,kategori_scrapping nusa tenggara timur
+keyword_6 sumba barat,sumba barat,kategori_scrapping nusa tenggara timur
+keyword_1 sumba barat daya,sumba barat daya,kategori_scrapping nusa tenggara timur
+keyword_2 sumba barat daya,sumba barat daya,kategori_scrapping nusa tenggara timur
+keyword_3 sumba barat daya,sumba barat daya,kategori_scrapping nusa tenggara timur
+keyword_4 sumba barat daya,sumba barat daya,kategori_scrapping nusa tenggara timur
+keyword_5 sumba barat daya,sumba barat daya,kategori_scrapping nusa tenggara timur
+keyword_6 sumba barat daya,sumba barat daya,kategori_scrapping nusa tenggara timur
+keyword_1 sumba tengah,sumba tengah,kategori_scrapping nusa tenggara timur
+keyword_2 sumba tengah,sumba tengah,kategori_scrapping nusa tenggara timur
+keyword_3 sumba tengah,sumba tengah,kategori_scrapping nusa tenggara timur
+keyword_4 sumba tengah,sumba tengah,kategori_scrapping nusa tenggara timur
+keyword_5 sumba tengah,sumba tengah,kategori_scrapping nusa tenggara timur
+keyword_6 sumba tengah,sumba tengah,kategori_scrapping nusa tenggara timur
+keyword_1 sumba timur,sumba timur,kategori_scrapping nusa tenggara timur
+keyword_2 sumba timur,sumba timur,kategori_scrapping nusa tenggara timur
+keyword_3 sumba timur,sumba timur,kategori_scrapping nusa tenggara timur
+keyword_4 sumba timur,sumba timur,kategori_scrapping nusa tenggara timur
+keyword_5 sumba timur,sumba timur,kategori_scrapping nusa tenggara timur
+keyword_6 sumba timur,sumba timur,kategori_scrapping nusa tenggara timur
+keyword_1 timor tengah selatan,timor tengah selatan,kategori_scrapping nusa tenggara timur
+keyword_2 timor tengah selatan,timor tengah selatan,kategori_scrapping nusa tenggara timur
+keyword_3 timor tengah selatan,timor tengah selatan,kategori_scrapping nusa tenggara timur
+keyword_4 timor tengah selatan,timor tengah selatan,kategori_scrapping nusa tenggara timur
+keyword_5 timor tengah selatan,timor tengah selatan,kategori_scrapping nusa tenggara timur
+keyword_6 timor tengah selatan,timor tengah selatan,kategori_scrapping nusa tenggara timur
+keyword_1 timor tengah utara,timor tengah utara,kategori_scrapping nusa tenggara timur
+keyword_2 timor tengah utara,timor tengah utara,kategori_scrapping nusa tenggara timur
+keyword_3 timor tengah utara,timor tengah utara,kategori_scrapping nusa tenggara timur
+keyword_4 timor tengah utara,timor tengah utara,kategori_scrapping nusa tenggara timur
+keyword_5 timor tengah utara,timor tengah utara,kategori_scrapping nusa tenggara timur
+keyword_6 timor tengah utara,timor tengah utara,kategori_scrapping nusa tenggara timur
+
+
+
+provinsi kalimantan barat (kalbar):
+keyword_1 bengkayang,bengkayang,kategori_scrapping kalimantan barat
+keyword_2 bengkayang,bengkayang,kategori_scrapping kalimantan barat
+keyword_3 bengkayang,bengkayang,kategori_scrapping kalimantan barat
+keyword_4 bengkayang,bengkayang,kategori_scrapping kalimantan barat
+keyword_5 bengkayang,bengkayang,kategori_scrapping kalimantan barat
+keyword_6 bengkayang,bengkayang,kategori_scrapping kalimantan barat
+keyword_1 kapuas hulu,kapuas hulu,kategori_scrapping kalimantan barat
+keyword_2 kapuas hulu,kapuas hulu,kategori_scrapping kalimantan barat
+keyword_3 kapuas hulu,kapuas hulu,kategori_scrapping kalimantan barat
+keyword_4 kapuas hulu,kapuas hulu,kategori_scrapping kalimantan barat
+keyword_5 kapuas hulu,kapuas hulu,kategori_scrapping kalimantan barat
+keyword_6 kapuas hulu,kapuas hulu,kategori_scrapping kalimantan barat
+keyword_1 kayong utara,kayong utara,kategori_scrapping kalimantan barat
+keyword_2 kayong utara,kayong utara,kategori_scrapping kalimantan barat
+keyword_3 kayong utara,kayong utara,kategori_scrapping kalimantan barat
+keyword_4 kayong utara,kayong utara,kategori_scrapping kalimantan barat
+keyword_5 kayong utara,kayong utara,kategori_scrapping kalimantan barat
+keyword_6 kayong utara,kayong utara,kategori_scrapping kalimantan barat
+keyword_1 ketapang,ketapang,kategori_scrapping kalimantan barat
+keyword_2 ketapang,ketapang,kategori_scrapping kalimantan barat
+keyword_3 ketapang,ketapang,kategori_scrapping kalimantan barat
+keyword_4 ketapang,ketapang,kategori_scrapping kalimantan barat
+keyword_5 ketapang,ketapang,kategori_scrapping kalimantan barat
+keyword_6 ketapang,ketapang,kategori_scrapping kalimantan barat
+keyword_1 kubu raya,kubu raya,kategori_scrapping kalimantan barat
+keyword_2 kubu raya,kubu raya,kategori_scrapping kalimantan barat
+keyword_3 kubu raya,kubu raya,kategori_scrapping kalimantan barat
+keyword_4 kubu raya,kubu raya,kategori_scrapping kalimantan barat
+keyword_5 kubu raya,kubu raya,kategori_scrapping kalimantan barat
+keyword_6 kubu raya,kubu raya,kategori_scrapping kalimantan barat
+keyword_1 landak,landak,kategori_scrapping kalimantan barat
+keyword_2 landak,landak,kategori_scrapping kalimantan barat
+keyword_3 landak,landak,kategori_scrapping kalimantan barat
+keyword_4 landak,landak,kategori_scrapping kalimantan barat
+keyword_5 landak,landak,kategori_scrapping kalimantan barat
+keyword_6 landak,landak,kategori_scrapping kalimantan barat
+keyword_1 melawi,melawi,kategori_scrapping kalimantan barat
+keyword_2 melawi,melawi,kategori_scrapping kalimantan barat
+keyword_3 melawi,melawi,kategori_scrapping kalimantan barat
+keyword_4 melawi,melawi,kategori_scrapping kalimantan barat
+keyword_5 melawi,melawi,kategori_scrapping kalimantan barat
+keyword_6 melawi,melawi,kategori_scrapping kalimantan barat
+keyword_1 mempawah,mempawah,kategori_scrapping kalimantan barat
+keyword_2 mempawah,mempawah,kategori_scrapping kalimantan barat
+keyword_3 mempawah,mempawah,kategori_scrapping kalimantan barat
+keyword_4 mempawah,mempawah,kategori_scrapping kalimantan barat
+keyword_5 mempawah,mempawah,kategori_scrapping kalimantan barat
+keyword_6 mempawah,mempawah,kategori_scrapping kalimantan barat
+keyword_1 sambas,sambas,kategori_scrapping kalimantan barat
+keyword_2 sambas,sambas,kategori_scrapping kalimantan barat
+keyword_3 sambas,sambas,kategori_scrapping kalimantan barat
+keyword_4 sambas,sambas,kategori_scrapping kalimantan barat
+keyword_5 sambas,sambas,kategori_scrapping kalimantan barat
+keyword_6 sambas,sambas,kategori_scrapping kalimantan barat
+keyword_1 sanggau,sanggau,kategori_scrapping kalimantan barat
+keyword_2 sanggau,sanggau,kategori_scrapping kalimantan barat
+keyword_3 sanggau,sanggau,kategori_scrapping kalimantan barat
+keyword_4 sanggau,sanggau,kategori_scrapping kalimantan barat
+keyword_5 sanggau,sanggau,kategori_scrapping kalimantan barat
+keyword_6 sanggau,sanggau,kategori_scrapping kalimantan barat
+keyword_1 sekadau,sekadau,kategori_scrapping kalimantan barat
+keyword_2 sekadau,sekadau,kategori_scrapping kalimantan barat
+keyword_3 sekadau,sekadau,kategori_scrapping kalimantan barat
+keyword_4 sekadau,sekadau,kategori_scrapping kalimantan barat
+keyword_5 sekadau,sekadau,kategori_scrapping kalimantan barat
+keyword_6 sekadau,sekadau,kategori_scrapping kalimantan barat
+keyword_1 sintang,sintang,kategori_scrapping kalimantan barat
+keyword_2 sintang,sintang,kategori_scrapping kalimantan barat
+keyword_3 sintang,sintang,kategori_scrapping kalimantan barat
+keyword_4 sintang,sintang,kategori_scrapping kalimantan barat
+keyword_5 sintang,sintang,kategori_scrapping kalimantan barat
+keyword_6 sintang,sintang,kategori_scrapping kalimantan barat
+keyword_1 pontianak,pontianak,kategori_scrapping kalimantan barat
+keyword_2 pontianak,pontianak,kategori_scrapping kalimantan barat
+keyword_3 pontianak,pontianak,kategori_scrapping kalimantan barat
+keyword_4 pontianak,pontianak,kategori_scrapping kalimantan barat
+keyword_5 pontianak,pontianak,kategori_scrapping kalimantan barat
+keyword_6 pontianak,pontianak,kategori_scrapping kalimantan barat
+keyword_1 singkawang,singkawang,kategori_scrapping kalimantan barat
+keyword_2 singkawang,singkawang,kategori_scrapping kalimantan barat
+keyword_3 singkawang,singkawang,kategori_scrapping kalimantan barat
+keyword_4 singkawang,singkawang,kategori_scrapping kalimantan barat
+keyword_5 singkawang,singkawang,kategori_scrapping kalimantan barat
+keyword_6 singkawang,singkawang,kategori_scrapping kalimantan barat
+
+
+
+provinsi kalimantan selatan (kalsel):
+keyword_1 balangan,balangan,kategori_scrapping kalimantan selatan
+keyword_2 balangan,balangan,kategori_scrapping kalimantan selatan
+keyword_3 balangan,balangan,kategori_scrapping kalimantan selatan
+keyword_4 balangan,balangan,kategori_scrapping kalimantan selatan
+keyword_5 balangan,balangan,kategori_scrapping kalimantan selatan
+keyword_6 balangan,balangan,kategori_scrapping kalimantan selatan
+keyword_1 banjar,banjar,kategori_scrapping kalimantan selatan
+keyword_2 banjar,banjar,kategori_scrapping kalimantan selatan
+keyword_3 banjar,banjar,kategori_scrapping kalimantan selatan
+keyword_4 banjar,banjar,kategori_scrapping kalimantan selatan
+keyword_5 banjar,banjar,kategori_scrapping kalimantan selatan
+keyword_6 banjar,banjar,kategori_scrapping kalimantan selatan
+keyword_1 barito kuala,barito kuala,kategori_scrapping kalimantan selatan
+keyword_2 barito kuala,barito kuala,kategori_scrapping kalimantan selatan
+keyword_3 barito kuala,barito kuala,kategori_scrapping kalimantan selatan
+keyword_4 barito kuala,barito kuala,kategori_scrapping kalimantan selatan
+keyword_5 barito kuala,barito kuala,kategori_scrapping kalimantan selatan
+keyword_6 barito kuala,barito kuala,kategori_scrapping kalimantan selatan
+keyword_1 hulu sungai selatan,hulu sungai selatan,kategori_scrapping kalimantan selatan
+keyword_2 hulu sungai selatan,hulu sungai selatan,kategori_scrapping kalimantan selatan
+keyword_3 hulu sungai selatan,hulu sungai selatan,kategori_scrapping kalimantan selatan
+keyword_4 hulu sungai selatan,hulu sungai selatan,kategori_scrapping kalimantan selatan
+keyword_5 hulu sungai selatan,hulu sungai selatan,kategori_scrapping kalimantan selatan
+keyword_6 hulu sungai selatan,hulu sungai selatan,kategori_scrapping kalimantan selatan
+keyword_1 hulu sungai tengah,hulu sungai tengah,kategori_scrapping kalimantan selatan
+keyword_2 hulu sungai tengah,hulu sungai tengah,kategori_scrapping kalimantan selatan
+keyword_3 hulu sungai tengah,hulu sungai tengah,kategori_scrapping kalimantan selatan
+keyword_4 hulu sungai tengah,hulu sungai tengah,kategori_scrapping kalimantan selatan
+keyword_5 hulu sungai tengah,hulu sungai tengah,kategori_scrapping kalimantan selatan
+keyword_6 hulu sungai tengah,hulu sungai tengah,kategori_scrapping kalimantan selatan
+keyword_1 hulu sungai utara,hulu sungai utara,kategori_scrapping kalimantan selatan
+keyword_2 hulu sungai utara,hulu sungai utara,kategori_scrapping kalimantan selatan
+keyword_3 hulu sungai utara,hulu sungai utara,kategori_scrapping kalimantan selatan
+keyword_4 hulu sungai utara,hulu sungai utara,kategori_scrapping kalimantan selatan
+keyword_5 hulu sungai utara,hulu sungai utara,kategori_scrapping kalimantan selatan
+keyword_6 hulu sungai utara,hulu sungai utara,kategori_scrapping kalimantan selatan
+keyword_1 kotabaru,kotabaru,kategori_scrapping kalimantan selatan
+keyword_2 kotabaru,kotabaru,kategori_scrapping kalimantan selatan
+keyword_3 kotabaru,kotabaru,kategori_scrapping kalimantan selatan
+keyword_4 kotabaru,kotabaru,kategori_scrapping kalimantan selatan
+keyword_5 kotabaru,kotabaru,kategori_scrapping kalimantan selatan
+keyword_6 kotabaru,kotabaru,kategori_scrapping kalimantan selatan
+keyword_1 tabalong,tabalong,kategori_scrapping kalimantan selatan
+keyword_2 tabalong,tabalong,kategori_scrapping kalimantan selatan
+keyword_3 tabalong,tabalong,kategori_scrapping kalimantan selatan
+keyword_4 tabalong,tabalong,kategori_scrapping kalimantan selatan
+keyword_5 tabalong,tabalong,kategori_scrapping kalimantan selatan
+keyword_6 tabalong,tabalong,kategori_scrapping kalimantan selatan
+keyword_1 tanah bumbu,tanah bumbu,kategori_scrapping kalimantan selatan
+keyword_2 tanah bumbu,tanah bumbu,kategori_scrapping kalimantan selatan
+keyword_3 tanah bumbu,tanah bumbu,kategori_scrapping kalimantan selatan
+keyword_4 tanah bumbu,tanah bumbu,kategori_scrapping kalimantan selatan
+keyword_5 tanah bumbu,tanah bumbu,kategori_scrapping kalimantan selatan
+keyword_6 tanah bumbu,tanah bumbu,kategori_scrapping kalimantan selatan
+keyword_1 tanah laut,tanah laut,kategori_scrapping kalimantan selatan
+keyword_2 tanah laut,tanah laut,kategori_scrapping kalimantan selatan
+keyword_3 tanah laut,tanah laut,kategori_scrapping kalimantan selatan
+keyword_4 tanah laut,tanah laut,kategori_scrapping kalimantan selatan
+keyword_5 tanah laut,tanah laut,kategori_scrapping kalimantan selatan
+keyword_6 tanah laut,tanah laut,kategori_scrapping kalimantan selatan
+keyword_1 tapin,tapin,kategori_scrapping kalimantan selatan
+keyword_2 tapin,tapin,kategori_scrapping kalimantan selatan
+keyword_3 tapin,tapin,kategori_scrapping kalimantan selatan
+keyword_4 tapin,tapin,kategori_scrapping kalimantan selatan
+keyword_5 tapin,tapin,kategori_scrapping kalimantan selatan
+keyword_6 tapin,tapin,kategori_scrapping kalimantan selatan
+keyword_1 banjarbaru,banjarbaru,kategori_scrapping kalimantan selatan
+keyword_2 banjarbaru,banjarbaru,kategori_scrapping kalimantan selatan
+keyword_3 banjarbaru,banjarbaru,kategori_scrapping kalimantan selatan
+keyword_4 banjarbaru,banjarbaru,kategori_scrapping kalimantan selatan
+keyword_5 banjarbaru,banjarbaru,kategori_scrapping kalimantan selatan
+keyword_6 banjarbaru,banjarbaru,kategori_scrapping kalimantan selatan
+keyword_1 banjarmasin,banjarmasin,kategori_scrapping kalimantan selatan
+keyword_2 banjarmasin,banjarmasin,kategori_scrapping kalimantan selatan
+keyword_3 banjarmasin,banjarmasin,kategori_scrapping kalimantan selatan
+keyword_4 banjarmasin,banjarmasin,kategori_scrapping kalimantan selatan
+keyword_5 banjarmasin,banjarmasin,kategori_scrapping kalimantan selatan
+keyword_6 banjarmasin,banjarmasin,kategori_scrapping kalimantan selatan
+
+
+
+provinsi kalimantan tengah (kalteng):
+keyword_1 barito selatan,barito selatan,kategori_scrapping kalimantan tengah
+keyword_2 barito selatan,barito selatan,kategori_scrapping kalimantan tengah
+keyword_3 barito selatan,barito selatan,kategori_scrapping kalimantan tengah
+keyword_4 barito selatan,barito selatan,kategori_scrapping kalimantan tengah
+keyword_5 barito selatan,barito selatan,kategori_scrapping kalimantan tengah
+keyword_6 barito selatan,barito selatan,kategori_scrapping kalimantan tengah
+keyword_1 barito timur,barito timur,kategori_scrapping kalimantan tengah
+keyword_2 barito timur,barito timur,kategori_scrapping kalimantan tengah
+keyword_3 barito timur,barito timur,kategori_scrapping kalimantan tengah
+keyword_4 barito timur,barito timur,kategori_scrapping kalimantan tengah
+keyword_5 barito timur,barito timur,kategori_scrapping kalimantan tengah
+keyword_6 barito timur,barito timur,kategori_scrapping kalimantan tengah
+keyword_1 barito utara,barito utara,kategori_scrapping kalimantan tengah
+keyword_2 barito utara,barito utara,kategori_scrapping kalimantan tengah
+keyword_3 barito utara,barito utara,kategori_scrapping kalimantan tengah
+keyword_4 barito utara,barito utara,kategori_scrapping kalimantan tengah
+keyword_5 barito utara,barito utara,kategori_scrapping kalimantan tengah
+keyword_6 barito utara,barito utara,kategori_scrapping kalimantan tengah
+keyword_1 gunung mas,gunung mas,kategori_scrapping kalimantan tengah
+keyword_2 gunung mas,gunung mas,kategori_scrapping kalimantan tengah
+keyword_3 gunung mas,gunung mas,kategori_scrapping kalimantan tengah
+keyword_4 gunung mas,gunung mas,kategori_scrapping kalimantan tengah
+keyword_5 gunung mas,gunung mas,kategori_scrapping kalimantan tengah
+keyword_6 gunung mas,gunung mas,kategori_scrapping kalimantan tengah
+keyword_1 kapuas,kapuas,kategori_scrapping kalimantan tengah
+keyword_2 kapuas,kapuas,kategori_scrapping kalimantan tengah
+keyword_3 kapuas,kapuas,kategori_scrapping kalimantan tengah
+keyword_4 kapuas,kapuas,kategori_scrapping kalimantan tengah
+keyword_5 kapuas,kapuas,kategori_scrapping kalimantan tengah
+keyword_6 kapuas,kapuas,kategori_scrapping kalimantan tengah
+keyword_1 katingan,katingan,kategori_scrapping kalimantan tengah
+keyword_2 katingan,katingan,kategori_scrapping kalimantan tengah
+keyword_3 katingan,katingan,kategori_scrapping kalimantan tengah
+keyword_4 katingan,katingan,kategori_scrapping kalimantan tengah
+keyword_5 katingan,katingan,kategori_scrapping kalimantan tengah
+keyword_6 katingan,katingan,kategori_scrapping kalimantan tengah
+keyword_1 kotawaringin barat,kotawaringin barat,kategori_scrapping kalimantan tengah
+keyword_2 kotawaringin barat,kotawaringin barat,kategori_scrapping kalimantan tengah
+keyword_3 kotawaringin barat,kotawaringin barat,kategori_scrapping kalimantan tengah
+keyword_4 kotawaringin barat,kotawaringin barat,kategori_scrapping kalimantan tengah
+keyword_5 kotawaringin barat,kotawaringin barat,kategori_scrapping kalimantan tengah
+keyword_6 kotawaringin barat,kotawaringin barat,kategori_scrapping kalimantan tengah
+keyword_1 kotawaringin timur,kotawaringin timur,kategori_scrapping kalimantan tengah
+keyword_2 kotawaringin timur,kotawaringin timur,kategori_scrapping kalimantan tengah
+keyword_3 kotawaringin timur,kotawaringin timur,kategori_scrapping kalimantan tengah
+keyword_4 kotawaringin timur,kotawaringin timur,kategori_scrapping kalimantan tengah
+keyword_5 kotawaringin timur,kotawaringin timur,kategori_scrapping kalimantan tengah
+keyword_6 kotawaringin timur,kotawaringin timur,kategori_scrapping kalimantan tengah
+keyword_1 lamandau,lamandau,kategori_scrapping kalimantan tengah
+keyword_2 lamandau,lamandau,kategori_scrapping kalimantan tengah
+keyword_3 lamandau,lamandau,kategori_scrapping kalimantan tengah
+keyword_4 lamandau,lamandau,kategori_scrapping kalimantan tengah
+keyword_5 lamandau,lamandau,kategori_scrapping kalimantan tengah
+keyword_6 lamandau,lamandau,kategori_scrapping kalimantan tengah
+keyword_1 murung raya,murung raya,kategori_scrapping kalimantan tengah
+keyword_2 murung raya,murung raya,kategori_scrapping kalimantan tengah
+keyword_3 murung raya,murung raya,kategori_scrapping kalimantan tengah
+keyword_4 murung raya,murung raya,kategori_scrapping kalimantan tengah
+keyword_5 murung raya,murung raya,kategori_scrapping kalimantan tengah
+keyword_6 murung raya,murung raya,kategori_scrapping kalimantan tengah
+keyword_1 pulang pisau,pulang pisau,kategori_scrapping kalimantan tengah
+keyword_2 pulang pisau,pulang pisau,kategori_scrapping kalimantan tengah
+keyword_3 pulang pisau,pulang pisau,kategori_scrapping kalimantan tengah
+keyword_4 pulang pisau,pulang pisau,kategori_scrapping kalimantan tengah
+keyword_5 pulang pisau,pulang pisau,kategori_scrapping kalimantan tengah
+keyword_6 pulang pisau,pulang pisau,kategori_scrapping kalimantan tengah
+keyword_1 sukamara,sukamara,kategori_scrapping kalimantan tengah
+keyword_2 sukamara,sukamara,kategori_scrapping kalimantan tengah
+keyword_3 sukamara,sukamara,kategori_scrapping kalimantan tengah
+keyword_4 sukamara,sukamara,kategori_scrapping kalimantan tengah
+keyword_5 sukamara,sukamara,kategori_scrapping kalimantan tengah
+keyword_6 sukamara,sukamara,kategori_scrapping kalimantan tengah
+keyword_1 seruyan,seruyan,kategori_scrapping kalimantan tengah
+keyword_2 seruyan,seruyan,kategori_scrapping kalimantan tengah
+keyword_3 seruyan,seruyan,kategori_scrapping kalimantan tengah
+keyword_4 seruyan,seruyan,kategori_scrapping kalimantan tengah
+keyword_5 seruyan,seruyan,kategori_scrapping kalimantan tengah
+keyword_6 seruyan,seruyan,kategori_scrapping kalimantan tengah
+keyword_1 palangka raya,palangka raya,kategori_scrapping kalimantan tengah
+keyword_2 palangka raya,palangka raya,kategori_scrapping kalimantan tengah
+keyword_3 palangka raya,palangka raya,kategori_scrapping kalimantan tengah
+keyword_4 palangka raya,palangka raya,kategori_scrapping kalimantan tengah
+keyword_5 palangka raya,palangka raya,kategori_scrapping kalimantan tengah
+keyword_6 palangka raya,palangka raya,kategori_scrapping kalimantan tengah
+
+
+
+provinsi kalimantan timur (kaltim):
+keyword_1 berau,berau,kategori_scrapping kalimantan timur
+keyword_2 berau,berau,kategori_scrapping kalimantan timur
+keyword_3 berau,berau,kategori_scrapping kalimantan timur
+keyword_4 berau,berau,kategori_scrapping kalimantan timur
+keyword_5 berau,berau,kategori_scrapping kalimantan timur
+keyword_6 berau,berau,kategori_scrapping kalimantan timur
+keyword_1 kutai barat,kutai barat,kategori_scrapping kalimantan timur
+keyword_2 kutai barat,kutai barat,kategori_scrapping kalimantan timur
+keyword_3 kutai barat,kutai barat,kategori_scrapping kalimantan timur
+keyword_4 kutai barat,kutai barat,kategori_scrapping kalimantan timur
+keyword_5 kutai barat,kutai barat,kategori_scrapping kalimantan timur
+keyword_6 kutai barat,kutai barat,kategori_scrapping kalimantan timur
+keyword_1 kutai kartanegara,kutai kartanegara,kategori_scrapping kalimantan timur
+keyword_2 kutai kartanegara,kutai kartanegara,kategori_scrapping kalimantan timur
+keyword_3 kutai kartanegara,kutai kartanegara,kategori_scrapping kalimantan timur
+keyword_4 kutai kartanegara,kutai kartanegara,kategori_scrapping kalimantan timur
+keyword_5 kutai kartanegara,kutai kartanegara,kategori_scrapping kalimantan timur
+keyword_6 kutai kartanegara,kutai kartanegara,kategori_scrapping kalimantan timur
+keyword_1 kutai timur,kutai timur,kategori_scrapping kalimantan timur
+keyword_2 kutai timur,kutai timur,kategori_scrapping kalimantan timur
+keyword_3 kutai timur,kutai timur,kategori_scrapping kalimantan timur
+keyword_4 kutai timur,kutai timur,kategori_scrapping kalimantan timur
+keyword_5 kutai timur,kutai timur,kategori_scrapping kalimantan timur
+keyword_6 kutai timur,kutai timur,kategori_scrapping kalimantan timur
+keyword_1 mahakam ulu,mahakam ulu,kategori_scrapping kalimantan timur
+keyword_2 mahakam ulu,mahakam ulu,kategori_scrapping kalimantan timur
+keyword_3 mahakam ulu,mahakam ulu,kategori_scrapping kalimantan timur
+keyword_4 mahakam ulu,mahakam ulu,kategori_scrapping kalimantan timur
+keyword_5 mahakam ulu,mahakam ulu,kategori_scrapping kalimantan timur
+keyword_6 mahakam ulu,mahakam ulu,kategori_scrapping kalimantan timur
+keyword_1 paser,paser,kategori_scrapping kalimantan timur
+keyword_2 paser,paser,kategori_scrapping kalimantan timur
+keyword_3 paser,paser,kategori_scrapping kalimantan timur
+keyword_4 paser,paser,kategori_scrapping kalimantan timur
+keyword_5 paser,paser,kategori_scrapping kalimantan timur
+keyword_6 paser,paser,kategori_scrapping kalimantan timur
+keyword_1 penajam paser utara,penajam paser utara,kategori_scrapping kalimantan timur
+keyword_2 penajam paser utara,penajam paser utara,kategori_scrapping kalimantan timur
+keyword_3 penajam paser utara,penajam paser utara,kategori_scrapping kalimantan timur
+keyword_4 penajam paser utara,penajam paser utara,kategori_scrapping kalimantan timur
+keyword_5 penajam paser utara,penajam paser utara,kategori_scrapping kalimantan timur
+keyword_6 penajam paser utara,penajam paser utara,kategori_scrapping kalimantan timur
+keyword_1 balikpapan,balikpapan,kategori_scrapping kalimantan timur
+keyword_2 balikpapan,balikpapan,kategori_scrapping kalimantan timur
+keyword_3 balikpapan,balikpapan,kategori_scrapping kalimantan timur
+keyword_4 balikpapan,balikpapan,kategori_scrapping kalimantan timur
+keyword_5 balikpapan,balikpapan,kategori_scrapping kalimantan timur
+keyword_6 balikpapan,balikpapan,kategori_scrapping kalimantan timur
+keyword_1 bontang,bontang,kategori_scrapping kalimantan timur
+keyword_2 bontang,bontang,kategori_scrapping kalimantan timur
+keyword_3 bontang,bontang,kategori_scrapping kalimantan timur
+keyword_4 bontang,bontang,kategori_scrapping kalimantan timur
+keyword_5 bontang,bontang,kategori_scrapping kalimantan timur
+keyword_6 bontang,bontang,kategori_scrapping kalimantan timur
+keyword_1 samarinda,samarinda,kategori_scrapping kalimantan timur
+keyword_2 samarinda,samarinda,kategori_scrapping kalimantan timur
+keyword_3 samarinda,samarinda,kategori_scrapping kalimantan timur
+keyword_4 samarinda,samarinda,kategori_scrapping kalimantan timur
+keyword_5 samarinda,samarinda,kategori_scrapping kalimantan timur
+keyword_6 samarinda,samarinda,kategori_scrapping kalimantan timur
+
+
+
+provinsi kalimantan utara (kaltara):
+keyword_1 bulungan,bulungan,kategori_scrapping kalimantan utara
+keyword_2 bulungan,bulungan,kategori_scrapping kalimantan utara
+keyword_3 bulungan,bulungan,kategori_scrapping kalimantan utara
+keyword_4 bulungan,bulungan,kategori_scrapping kalimantan utara
+keyword_5 bulungan,bulungan,kategori_scrapping kalimantan utara
+keyword_6 bulungan,bulungan,kategori_scrapping kalimantan utara
+keyword_1 malinau,malinau,kategori_scrapping kalimantan utara
+keyword_2 malinau,malinau,kategori_scrapping kalimantan utara
+keyword_3 malinau,malinau,kategori_scrapping kalimantan utara
+keyword_4 malinau,malinau,kategori_scrapping kalimantan utara
+keyword_5 malinau,malinau,kategori_scrapping kalimantan utara
+keyword_6 malinau,malinau,kategori_scrapping kalimantan utara
+keyword_1 nunukan,nunukan,kategori_scrapping kalimantan utara
+keyword_2 nunukan,nunukan,kategori_scrapping kalimantan utara
+keyword_3 nunukan,nunukan,kategori_scrapping kalimantan utara
+keyword_4 nunukan,nunukan,kategori_scrapping kalimantan utara
+keyword_5 nunukan,nunukan,kategori_scrapping kalimantan utara
+keyword_6 nunukan,nunukan,kategori_scrapping kalimantan utara
+keyword_1 tana tidung,tana tidung,kategori_scrapping kalimantan utara
+keyword_2 tana tidung,tana tidung,kategori_scrapping kalimantan utara
+keyword_3 tana tidung,tana tidung,kategori_scrapping kalimantan utara
+keyword_4 tana tidung,tana tidung,kategori_scrapping kalimantan utara
+keyword_5 tana tidung,tana tidung,kategori_scrapping kalimantan utara
+keyword_6 tana tidung,tana tidung,kategori_scrapping kalimantan utara
+keyword_1 tarakan,tarakan,kategori_scrapping kalimantan utara
+keyword_2 tarakan,tarakan,kategori_scrapping kalimantan utara
+keyword_3 tarakan,tarakan,kategori_scrapping kalimantan utara
+keyword_4 tarakan,tarakan,kategori_scrapping kalimantan utara
+keyword_5 tarakan,tarakan,kategori_scrapping kalimantan utara
+keyword_6 tarakan,tarakan,kategori_scrapping kalimantan utara
+
+
+
+provinsi gorontalo:
+keyword_1 boalemo,boalemo,kategori_scrapping gorontalo
+keyword_2 boalemo,boalemo,kategori_scrapping gorontalo
+keyword_3 boalemo,boalemo,kategori_scrapping gorontalo
+keyword_4 boalemo,boalemo,kategori_scrapping gorontalo
+keyword_5 boalemo,boalemo,kategori_scrapping gorontalo
+keyword_6 boalemo,boalemo,kategori_scrapping gorontalo
+keyword_1 bone bolango,bone bolango,kategori_scrapping gorontalo
+keyword_2 bone bolango,bone bolango,kategori_scrapping gorontalo
+keyword_3 bone bolango,bone bolango,kategori_scrapping gorontalo
+keyword_4 bone bolango,bone bolango,kategori_scrapping gorontalo
+keyword_5 bone bolango,bone bolango,kategori_scrapping gorontalo
+keyword_6 bone bolango,bone bolango,kategori_scrapping gorontalo
+keyword_1 gorontalo,gorontalo,kategori_scrapping gorontalo
+keyword_2 gorontalo,gorontalo,kategori_scrapping gorontalo
+keyword_3 gorontalo,gorontalo,kategori_scrapping gorontalo
+keyword_4 gorontalo,gorontalo,kategori_scrapping gorontalo
+keyword_5 gorontalo,gorontalo,kategori_scrapping gorontalo
+keyword_6 gorontalo,gorontalo,kategori_scrapping gorontalo
+keyword_1 gorontalo utara,gorontalo utara,kategori_scrapping gorontalo
+keyword_2 gorontalo utara,gorontalo utara,kategori_scrapping gorontalo
+keyword_3 gorontalo utara,gorontalo utara,kategori_scrapping gorontalo
+keyword_4 gorontalo utara,gorontalo utara,kategori_scrapping gorontalo
+keyword_5 gorontalo utara,gorontalo utara,kategori_scrapping gorontalo
+keyword_6 gorontalo utara,gorontalo utara,kategori_scrapping gorontalo
+keyword_1 pohuwato,pohuwato,kategori_scrapping gorontalo
+keyword_2 pohuwato,pohuwato,kategori_scrapping gorontalo
+keyword_3 pohuwato,pohuwato,kategori_scrapping gorontalo
+keyword_4 pohuwato,pohuwato,kategori_scrapping gorontalo
+keyword_5 pohuwato,pohuwato,kategori_scrapping gorontalo
+keyword_6 pohuwato,pohuwato,kategori_scrapping gorontalo
+
+
+
+provinsi sulawesi selatan (sulsel):
+keyword_1 bantaeng,bantaeng,kategori_scrapping sulawesi selatan
+keyword_2 bantaeng,bantaeng,kategori_scrapping sulawesi selatan
+keyword_3 bantaeng,bantaeng,kategori_scrapping sulawesi selatan
+keyword_4 bantaeng,bantaeng,kategori_scrapping sulawesi selatan
+keyword_5 bantaeng,bantaeng,kategori_scrapping sulawesi selatan
+keyword_6 bantaeng,bantaeng,kategori_scrapping sulawesi selatan
+keyword_1 barru,barru,kategori_scrapping sulawesi selatan
+keyword_2 barru,barru,kategori_scrapping sulawesi selatan
+keyword_3 barru,barru,kategori_scrapping sulawesi selatan
+keyword_4 barru,barru,kategori_scrapping sulawesi selatan
+keyword_5 barru,barru,kategori_scrapping sulawesi selatan
+keyword_6 barru,barru,kategori_scrapping sulawesi selatan
+keyword_1 bone,bone,kategori_scrapping sulawesi selatan
+keyword_2 bone,bone,kategori_scrapping sulawesi selatan
+keyword_3 bone,bone,kategori_scrapping sulawesi selatan
+keyword_4 bone,bone,kategori_scrapping sulawesi selatan
+keyword_5 bone,bone,kategori_scrapping sulawesi selatan
+keyword_6 bone,bone,kategori_scrapping sulawesi selatan
+keyword_1 bulukumba,bulukumba,kategori_scrapping sulawesi selatan
+keyword_2 bulukumba,bulukumba,kategori_scrapping sulawesi selatan
+keyword_3 bulukumba,bulukumba,kategori_scrapping sulawesi selatan
+keyword_4 bulukumba,bulukumba,kategori_scrapping sulawesi selatan
+keyword_5 bulukumba,bulukumba,kategori_scrapping sulawesi selatan
+keyword_6 bulukumba,bulukumba,kategori_scrapping sulawesi selatan
+keyword_1 enrekang,enrekang,kategori_scrapping sulawesi selatan
+keyword_2 enrekang,enrekang,kategori_scrapping sulawesi selatan
+keyword_3 enrekang,enrekang,kategori_scrapping sulawesi selatan
+keyword_4 enrekang,enrekang,kategori_scrapping sulawesi selatan
+keyword_5 enrekang,enrekang,kategori_scrapping sulawesi selatan
+keyword_6 enrekang,enrekang,kategori_scrapping sulawesi selatan
+keyword_1 gowa,gowa,kategori_scrapping sulawesi selatan
+keyword_2 gowa,gowa,kategori_scrapping sulawesi selatan
+keyword_3 gowa,gowa,kategori_scrapping sulawesi selatan
+keyword_4 gowa,gowa,kategori_scrapping sulawesi selatan
+keyword_5 gowa,gowa,kategori_scrapping sulawesi selatan
+keyword_6 gowa,gowa,kategori_scrapping sulawesi selatan
+keyword_1 jeneponto,jeneponto,kategori_scrapping sulawesi selatan
+keyword_2 jeneponto,jeneponto,kategori_scrapping sulawesi selatan
+keyword_3 jeneponto,jeneponto,kategori_scrapping sulawesi selatan
+keyword_4 jeneponto,jeneponto,kategori_scrapping sulawesi selatan
+keyword_5 jeneponto,jeneponto,kategori_scrapping sulawesi selatan
+keyword_6 jeneponto,jeneponto,kategori_scrapping sulawesi selatan
+keyword_1 kepulauan selayar,kepulauan selayar,kategori_scrapping sulawesi selatan
+keyword_2 kepulauan selayar,kepulauan selayar,kategori_scrapping sulawesi selatan
+keyword_3 kepulauan selayar,kepulauan selayar,kategori_scrapping sulawesi selatan
+keyword_4 kepulauan selayar,kepulauan selayar,kategori_scrapping sulawesi selatan
+keyword_5 kepulauan selayar,kepulauan selayar,kategori_scrapping sulawesi selatan
+keyword_6 kepulauan selayar,kepulauan selayar,kategori_scrapping sulawesi selatan
+keyword_1 luwu,luwu,kategori_scrapping sulawesi selatan
+keyword_2 luwu,luwu,kategori_scrapping sulawesi selatan
+keyword_3 luwu,luwu,kategori_scrapping sulawesi selatan
+keyword_4 luwu,luwu,kategori_scrapping sulawesi selatan
+keyword_5 luwu,luwu,kategori_scrapping sulawesi selatan
+keyword_6 luwu,luwu,kategori_scrapping sulawesi selatan
+keyword_1 luwu timur,luwu timur,kategori_scrapping sulawesi selatan
+keyword_2 luwu timur,luwu timur,kategori_scrapping sulawesi selatan
+keyword_3 luwu timur,luwu timur,kategori_scrapping sulawesi selatan
+keyword_4 luwu timur,luwu timur,kategori_scrapping sulawesi selatan
+keyword_5 luwu timur,luwu timur,kategori_scrapping sulawesi selatan
+keyword_6 luwu timur,luwu timur,kategori_scrapping sulawesi selatan
+keyword_1 luwu utara,luwu utara,kategori_scrapping sulawesi selatan
+keyword_2 luwu utara,luwu utara,kategori_scrapping sulawesi selatan
+keyword_3 luwu utara,luwu utara,kategori_scrapping sulawesi selatan
+keyword_4 luwu utara,luwu utara,kategori_scrapping sulawesi selatan
+keyword_5 luwu utara,luwu utara,kategori_scrapping sulawesi selatan
+keyword_6 luwu utara,luwu utara,kategori_scrapping sulawesi selatan
+keyword_1 maros,maros,kategori_scrapping sulawesi selatan
+keyword_2 maros,maros,kategori_scrapping sulawesi selatan
+keyword_3 maros,maros,kategori_scrapping sulawesi selatan
+keyword_4 maros,maros,kategori_scrapping sulawesi selatan
+keyword_5 maros,maros,kategori_scrapping sulawesi selatan
+keyword_6 maros,maros,kategori_scrapping sulawesi selatan
+keyword_1 pangkajene dan kepulauan,pangkajene dan kepulauan,kategori_scrapping sulawesi selatan
+keyword_2 pangkajene dan kepulauan,pangkajene dan kepulauan,kategori_scrapping sulawesi selatan
+keyword_3 pangkajene dan kepulauan,pangkajene dan kepulauan,kategori_scrapping sulawesi selatan
+keyword_4 pangkajene dan kepulauan,pangkajene dan kepulauan,kategori_scrapping sulawesi selatan
+keyword_5 pangkajene dan kepulauan,pangkajene dan kepulauan,kategori_scrapping sulawesi selatan
+keyword_6 pangkajene dan kepulauan,pangkajene dan kepulauan,kategori_scrapping sulawesi selatan
+keyword_1 pinrang,pinrang,kategori_scrapping sulawesi selatan
+keyword_2 pinrang,pinrang,kategori_scrapping sulawesi selatan
+keyword_3 pinrang,pinrang,kategori_scrapping sulawesi selatan
+keyword_4 pinrang,pinrang,kategori_scrapping sulawesi selatan
+keyword_5 pinrang,pinrang,kategori_scrapping sulawesi selatan
+keyword_6 pinrang,pinrang,kategori_scrapping sulawesi selatan
+keyword_1 sidenreng rappang,sidenreng rappang,kategori_scrapping sulawesi selatan
+keyword_2 sidenreng rappang,sidenreng rappang,kategori_scrapping sulawesi selatan
+keyword_3 sidenreng rappang,sidenreng rappang,kategori_scrapping sulawesi selatan
+keyword_4 sidenreng rappang,sidenreng rappang,kategori_scrapping sulawesi selatan
+keyword_5 sidenreng rappang,sidenreng rappang,kategori_scrapping sulawesi selatan
+keyword_6 sidenreng rappang,sidenreng rappang,kategori_scrapping sulawesi selatan
+keyword_1 sinjai,sinjai,kategori_scrapping sulawesi selatan
+keyword_2 sinjai,sinjai,kategori_scrapping sulawesi selatan
+keyword_3 sinjai,sinjai,kategori_scrapping sulawesi selatan
+keyword_4 sinjai,sinjai,kategori_scrapping sulawesi selatan
+keyword_5 sinjai,sinjai,kategori_scrapping sulawesi selatan
+keyword_6 sinjai,sinjai,kategori_scrapping sulawesi selatan
+keyword_1 soppeng,soppeng,kategori_scrapping sulawesi selatan
+keyword_2 soppeng,soppeng,kategori_scrapping sulawesi selatan
+keyword_3 soppeng,soppeng,kategori_scrapping sulawesi selatan
+keyword_4 soppeng,soppeng,kategori_scrapping sulawesi selatan
+keyword_5 soppeng,soppeng,kategori_scrapping sulawesi selatan
+keyword_6 soppeng,soppeng,kategori_scrapping sulawesi selatan
+keyword_1 takalar,takalar,kategori_scrapping sulawesi selatan
+keyword_2 takalar,takalar,kategori_scrapping sulawesi selatan
+keyword_3 takalar,takalar,kategori_scrapping sulawesi selatan
+keyword_4 takalar,takalar,kategori_scrapping sulawesi selatan
+keyword_5 takalar,takalar,kategori_scrapping sulawesi selatan
+keyword_6 takalar,takalar,kategori_scrapping sulawesi selatan
+keyword_1 tana toraja,tana toraja,kategori_scrapping sulawesi selatan
+keyword_2 tana toraja,tana toraja,kategori_scrapping sulawesi selatan
+keyword_3 tana toraja,tana toraja,kategori_scrapping sulawesi selatan
+keyword_4 tana toraja,tana toraja,kategori_scrapping sulawesi selatan
+keyword_5 tana toraja,tana toraja,kategori_scrapping sulawesi selatan
+keyword_6 tana toraja,tana toraja,kategori_scrapping sulawesi selatan
+keyword_1 toraja utara,toraja utara,kategori_scrapping sulawesi selatan
+keyword_2 toraja utara,toraja utara,kategori_scrapping sulawesi selatan
+keyword_3 toraja utara,toraja utara,kategori_scrapping sulawesi selatan
+keyword_4 toraja utara,toraja utara,kategori_scrapping sulawesi selatan
+keyword_5 toraja utara,toraja utara,kategori_scrapping sulawesi selatan
+keyword_6 toraja utara,toraja utara,kategori_scrapping sulawesi selatan
+keyword_1 wajo,wajo,kategori_scrapping sulawesi selatan
+keyword_2 wajo,wajo,kategori_scrapping sulawesi selatan
+keyword_3 wajo,wajo,kategori_scrapping sulawesi selatan
+keyword_4 wajo,wajo,kategori_scrapping sulawesi selatan
+keyword_5 wajo,wajo,kategori_scrapping sulawesi selatan
+keyword_6 wajo,wajo,kategori_scrapping sulawesi selatan
+keyword_1 makassar,makassar,kategori_scrapping sulawesi selatan
+keyword_2 makassar,makassar,kategori_scrapping sulawesi selatan
+keyword_3 makassar,makassar,kategori_scrapping sulawesi selatan
+keyword_4 makassar,makassar,kategori_scrapping sulawesi selatan
+keyword_5 makassar,makassar,kategori_scrapping sulawesi selatan
+keyword_6 makassar,makassar,kategori_scrapping sulawesi selatan
+keyword_1 palopo,palopo,kategori_scrapping sulawesi selatan
+keyword_2 palopo,palopo,kategori_scrapping sulawesi selatan
+keyword_3 palopo,palopo,kategori_scrapping sulawesi selatan
+keyword_4 palopo,palopo,kategori_scrapping sulawesi selatan
+keyword_5 palopo,palopo,kategori_scrapping sulawesi selatan
+keyword_6 palopo,palopo,kategori_scrapping sulawesi selatan
+keyword_1 parepare,parepare,kategori_scrapping sulawesi selatan
+keyword_2 parepare,parepare,kategori_scrapping sulawesi selatan
+keyword_3 parepare,parepare,kategori_scrapping sulawesi selatan
+keyword_4 parepare,parepare,kategori_scrapping sulawesi selatan
+keyword_5 parepare,parepare,kategori_scrapping sulawesi selatan
+keyword_6 parepare,parepare,kategori_scrapping sulawesi selatan
+
+
+
+provinsi sulawesi tenggara (sultra):
+keyword_1 bombana,bombana,kategori_scrapping sulawesi tenggara
+keyword_2 bombana,bombana,kategori_scrapping sulawesi tenggara
+keyword_3 bombana,bombana,kategori_scrapping sulawesi tenggara
+keyword_4 bombana,bombana,kategori_scrapping sulawesi tenggara
+keyword_5 bombana,bombana,kategori_scrapping sulawesi tenggara
+keyword_6 bombana,bombana,kategori_scrapping sulawesi tenggara
+keyword_1 buton,buton,kategori_scrapping sulawesi tenggara
+keyword_2 buton,buton,kategori_scrapping sulawesi tenggara
+keyword_3 buton,buton,kategori_scrapping sulawesi tenggara
+keyword_4 buton,buton,kategori_scrapping sulawesi tenggara
+keyword_5 buton,buton,kategori_scrapping sulawesi tenggara
+keyword_6 buton,buton,kategori_scrapping sulawesi tenggara
+keyword_1 buton selatan,buton selatan,kategori_scrapping sulawesi tenggara
+keyword_2 buton selatan,buton selatan,kategori_scrapping sulawesi tenggara
+keyword_3 buton selatan,buton selatan,kategori_scrapping sulawesi tenggara
+keyword_4 buton selatan,buton selatan,kategori_scrapping sulawesi tenggara
+keyword_5 buton selatan,buton selatan,kategori_scrapping sulawesi tenggara
+keyword_6 buton selatan,buton selatan,kategori_scrapping sulawesi tenggara
+keyword_1 buton tengah,buton tengah,kategori_scrapping sulawesi tenggara
+keyword_2 buton tengah,buton tengah,kategori_scrapping sulawesi tenggara
+keyword_3 buton tengah,buton tengah,kategori_scrapping sulawesi tenggara
+keyword_4 buton tengah,buton tengah,kategori_scrapping sulawesi tenggara
+keyword_5 buton tengah,buton tengah,kategori_scrapping sulawesi tenggara
+keyword_6 buton tengah,buton tengah,kategori_scrapping sulawesi tenggara
+keyword_1 buton utara,buton utara,kategori_scrapping sulawesi tenggara
+keyword_2 buton utara,buton utara,kategori_scrapping sulawesi tenggara
+keyword_3 buton utara,buton utara,kategori_scrapping sulawesi tenggara
+keyword_4 buton utara,buton utara,kategori_scrapping sulawesi tenggara
+keyword_5 buton utara,buton utara,kategori_scrapping sulawesi tenggara
+keyword_6 buton utara,buton utara,kategori_scrapping sulawesi tenggara
+keyword_1 kolaka,kolaka,kategori_scrapping sulawesi tenggara
+keyword_2 kolaka,kolaka,kategori_scrapping sulawesi tenggara
+keyword_3 kolaka,kolaka,kategori_scrapping sulawesi tenggara
+keyword_4 kolaka,kolaka,kategori_scrapping sulawesi tenggara
+keyword_5 kolaka,kolaka,kategori_scrapping sulawesi tenggara
+keyword_6 kolaka,kolaka,kategori_scrapping sulawesi tenggara
+keyword_1 kolaka timur,kolaka timur,kategori_scrapping sulawesi tenggara
+keyword_2 kolaka timur,kolaka timur,kategori_scrapping sulawesi tenggara
+keyword_3 kolaka timur,kolaka timur,kategori_scrapping sulawesi tenggara
+keyword_4 kolaka timur,kolaka timur,kategori_scrapping sulawesi tenggara
+keyword_5 kolaka timur,kolaka timur,kategori_scrapping sulawesi tenggara
+keyword_6 kolaka timur,kolaka timur,kategori_scrapping sulawesi tenggara
+keyword_1 kolaka utara,kolaka utara,kategori_scrapping sulawesi tenggara
+keyword_2 kolaka utara,kolaka utara,kategori_scrapping sulawesi tenggara
+keyword_3 kolaka utara,kolaka utara,kategori_scrapping sulawesi tenggara
+keyword_4 kolaka utara,kolaka utara,kategori_scrapping sulawesi tenggara
+keyword_5 kolaka utara,kolaka utara,kategori_scrapping sulawesi tenggara
+keyword_6 kolaka utara,kolaka utara,kategori_scrapping sulawesi tenggara
+keyword_1 konawe,konawe,kategori_scrapping sulawesi tenggara
+keyword_2 konawe,konawe,kategori_scrapping sulawesi tenggara
+keyword_3 konawe,konawe,kategori_scrapping sulawesi tenggara
+keyword_4 konawe,konawe,kategori_scrapping sulawesi tenggara
+keyword_5 konawe,konawe,kategori_scrapping sulawesi tenggara
+keyword_6 konawe,konawe,kategori_scrapping sulawesi tenggara
+keyword_1 konawe kepulauan,konawe kepulauan,kategori_scrapping sulawesi tenggara
+keyword_2 konawe kepulauan,konawe kepulauan,kategori_scrapping sulawesi tenggara
+keyword_3 konawe kepulauan,konawe kepulauan,kategori_scrapping sulawesi tenggara
+keyword_4 konawe kepulauan,konawe kepulauan,kategori_scrapping sulawesi tenggara
+keyword_5 konawe kepulauan,konawe kepulauan,kategori_scrapping sulawesi tenggara
+keyword_6 konawe kepulauan,konawe kepulauan,kategori_scrapping sulawesi tenggara
+keyword_1 konawe selatan,konawe selatan,kategori_scrapping sulawesi tenggara
+keyword_2 konawe selatan,konawe selatan,kategori_scrapping sulawesi tenggara
+keyword_3 konawe selatan,konawe selatan,kategori_scrapping sulawesi tenggara
+keyword_4 konawe selatan,konawe selatan,kategori_scrapping sulawesi tenggara
+keyword_5 konawe selatan,konawe selatan,kategori_scrapping sulawesi tenggara
+keyword_6 konawe selatan,konawe selatan,kategori_scrapping sulawesi tenggara
+keyword_1 konawe utara,konawe utara,kategori_scrapping sulawesi tenggara
+keyword_2 konawe utara,konawe utara,kategori_scrapping sulawesi tenggara
+keyword_3 konawe utara,konawe utara,kategori_scrapping sulawesi tenggara
+keyword_4 konawe utara,konawe utara,kategori_scrapping sulawesi tenggara
+keyword_5 konawe utara,konawe utara,kategori_scrapping sulawesi tenggara
+keyword_6 konawe utara,konawe utara,kategori_scrapping sulawesi tenggara
+keyword_1 muna,muna,kategori_scrapping sulawesi tenggara
+keyword_2 muna,muna,kategori_scrapping sulawesi tenggara
+keyword_3 muna,muna,kategori_scrapping sulawesi tenggara
+keyword_4 muna,muna,kategori_scrapping sulawesi tenggara
+keyword_5 muna,muna,kategori_scrapping sulawesi tenggara
+keyword_6 muna,muna,kategori_scrapping sulawesi tenggara
+keyword_1 muna barat,muna,kategori_scrapping sulawesi tenggara
+keyword_2 muna barat,muna,kategori_scrapping sulawesi tenggara
+keyword_3 muna barat,muna,kategori_scrapping sulawesi tenggara
+keyword_4 muna barat,muna,kategori_scrapping sulawesi tenggara
+keyword_5 muna barat,muna,kategori_scrapping sulawesi tenggara
+keyword_6 muna barat,muna,kategori_scrapping sulawesi tenggara
+keyword_1 wakatobi,wakatobi,kategori_scrapping sulawesi tenggara
+keyword_2 wakatobi,wakatobi,kategori_scrapping sulawesi tenggara
+keyword_3 wakatobi,wakatobi,kategori_scrapping sulawesi tenggara
+keyword_4 wakatobi,wakatobi,kategori_scrapping sulawesi tenggara
+keyword_5 wakatobi,wakatobi,kategori_scrapping sulawesi tenggara
+keyword_6 wakatobi,wakatobi,kategori_scrapping sulawesi tenggara
+keyword_1 bau-bau,bau-bau,kategori_scrapping sulawesi tenggara
+keyword_2 bau-bau,bau-bau,kategori_scrapping sulawesi tenggara
+keyword_3 bau-bau,bau-bau,kategori_scrapping sulawesi tenggara
+keyword_4 bau-bau,bau-bau,kategori_scrapping sulawesi tenggara
+keyword_5 bau-bau,bau-bau,kategori_scrapping sulawesi tenggara
+keyword_6 bau-bau,bau-bau,kategori_scrapping sulawesi tenggara
+keyword_1 kendari,kendari,kategori_scrapping sulawesi tenggara
+keyword_2 kendari,kendari,kategori_scrapping sulawesi tenggara
+keyword_3 kendari,kendari,kategori_scrapping sulawesi tenggara
+keyword_4 kendari,kendari,kategori_scrapping sulawesi tenggara
+keyword_5 kendari,kendari,kategori_scrapping sulawesi tenggara
+keyword_6 kendari,kendari,kategori_scrapping sulawesi tenggara
+
+
+
+provinsi sulawesi tengah (sulteng):
+keyword_1 banggai,banggai,kategori_scrapping sulawesi tengah
+keyword_2 banggai,banggai,kategori_scrapping sulawesi tengah
+keyword_3 banggai,banggai,kategori_scrapping sulawesi tengah
+keyword_4 banggai,banggai,kategori_scrapping sulawesi tengah
+keyword_5 banggai,banggai,kategori_scrapping sulawesi tengah
+keyword_6 banggai,banggai,kategori_scrapping sulawesi tengah
+keyword_1 banggai kepulauan,banggai kepulauan,kategori_scrapping sulawesi tengah
+keyword_2 banggai kepulauan,banggai kepulauan,kategori_scrapping sulawesi tengah
+keyword_3 banggai kepulauan,banggai kepulauan,kategori_scrapping sulawesi tengah
+keyword_4 banggai kepulauan,banggai kepulauan,kategori_scrapping sulawesi tengah
+keyword_5 banggai kepulauan,banggai kepulauan,kategori_scrapping sulawesi tengah
+keyword_6 banggai kepulauan,banggai kepulauan,kategori_scrapping sulawesi tengah
+keyword_1 banggai laut,banggai laut,kategori_scrapping sulawesi tengah
+keyword_2 banggai laut,banggai laut,kategori_scrapping sulawesi tengah
+keyword_3 banggai laut,banggai laut,kategori_scrapping sulawesi tengah
+keyword_4 banggai laut,banggai laut,kategori_scrapping sulawesi tengah
+keyword_5 banggai laut,banggai laut,kategori_scrapping sulawesi tengah
+keyword_6 banggai laut,banggai laut,kategori_scrapping sulawesi tengah
+keyword_1 buol,buol,kategori_scrapping sulawesi tengah
+keyword_2 buol,buol,kategori_scrapping sulawesi tengah
+keyword_3 buol,buol,kategori_scrapping sulawesi tengah
+keyword_4 buol,buol,kategori_scrapping sulawesi tengah
+keyword_5 buol,buol,kategori_scrapping sulawesi tengah
+keyword_6 buol,buol,kategori_scrapping sulawesi tengah
+keyword_1 donggala,donggala,kategori_scrapping sulawesi tengah
+keyword_2 donggala,donggala,kategori_scrapping sulawesi tengah
+keyword_3 donggala,donggala,kategori_scrapping sulawesi tengah
+keyword_4 donggala,donggala,kategori_scrapping sulawesi tengah
+keyword_5 donggala,donggala,kategori_scrapping sulawesi tengah
+keyword_6 donggala,donggala,kategori_scrapping sulawesi tengah
+keyword_1 morowali,morowali,kategori_scrapping sulawesi tengah
+keyword_2 morowali,morowali,kategori_scrapping sulawesi tengah
+keyword_3 morowali,morowali,kategori_scrapping sulawesi tengah
+keyword_4 morowali,morowali,kategori_scrapping sulawesi tengah
+keyword_5 morowali,morowali,kategori_scrapping sulawesi tengah
+keyword_6 morowali,morowali,kategori_scrapping sulawesi tengah
+keyword_1 morowali utara,morowali utara,kategori_scrapping sulawesi tengah
+keyword_2 morowali utara,morowali utara,kategori_scrapping sulawesi tengah
+keyword_3 morowali utara,morowali utara,kategori_scrapping sulawesi tengah
+keyword_4 morowali utara,morowali utara,kategori_scrapping sulawesi tengah
+keyword_5 morowali utara,morowali utara,kategori_scrapping sulawesi tengah
+keyword_6 morowali utara,morowali utara,kategori_scrapping sulawesi tengah
+keyword_1 parigi moutong,parigi moutong,kategori_scrapping sulawesi tengah
+keyword_2 parigi moutong,parigi moutong,kategori_scrapping sulawesi tengah
+keyword_3 parigi moutong,parigi moutong,kategori_scrapping sulawesi tengah
+keyword_4 parigi moutong,parigi moutong,kategori_scrapping sulawesi tengah
+keyword_5 parigi moutong,parigi moutong,kategori_scrapping sulawesi tengah
+keyword_6 parigi moutong,parigi moutong,kategori_scrapping sulawesi tengah
+keyword_1 poso,poso,kategori_scrapping sulawesi tengah
+keyword_2 poso,poso,kategori_scrapping sulawesi tengah
+keyword_3 poso,poso,kategori_scrapping sulawesi tengah
+keyword_4 poso,poso,kategori_scrapping sulawesi tengah
+keyword_5 poso,poso,kategori_scrapping sulawesi tengah
+keyword_6 poso,poso,kategori_scrapping sulawesi tengah
+keyword_1 sigi,sigi,kategori_scrapping sulawesi tengah
+keyword_2 sigi,sigi,kategori_scrapping sulawesi tengah
+keyword_3 sigi,sigi,kategori_scrapping sulawesi tengah
+keyword_4 sigi,sigi,kategori_scrapping sulawesi tengah
+keyword_5 sigi,sigi,kategori_scrapping sulawesi tengah
+keyword_6 sigi,sigi,kategori_scrapping sulawesi tengah
+keyword_1 tojo una-una,tojo una-una,kategori_scrapping sulawesi tengah
+keyword_2 tojo una-una,tojo una-una,kategori_scrapping sulawesi tengah
+keyword_3 tojo una-una,tojo una-una,kategori_scrapping sulawesi tengah
+keyword_4 tojo una-una,tojo una-una,kategori_scrapping sulawesi tengah
+keyword_5 tojo una-una,tojo una-una,kategori_scrapping sulawesi tengah
+keyword_6 tojo una-una,tojo una-una,kategori_scrapping sulawesi tengah
+keyword_1 toli-toli,toli-toli,kategori_scrapping sulawesi tengah
+keyword_2 toli-toli,toli-toli,kategori_scrapping sulawesi tengah
+keyword_3 toli-toli,toli-toli,kategori_scrapping sulawesi tengah
+keyword_4 toli-toli,toli-toli,kategori_scrapping sulawesi tengah
+keyword_5 toli-toli,toli-toli,kategori_scrapping sulawesi tengah
+keyword_6 toli-toli,toli-toli,kategori_scrapping sulawesi tengah
+keyword_1 palu,palu,kategori_scrapping sulawesi tengah
+keyword_2 palu,palu,kategori_scrapping sulawesi tengah
+keyword_3 palu,palu,kategori_scrapping sulawesi tengah
+keyword_4 palu,palu,kategori_scrapping sulawesi tengah
+keyword_5 palu,palu,kategori_scrapping sulawesi tengah
+keyword_6 palu,palu,kategori_scrapping sulawesi tengah
+
+
+
+provinsi sulawesi utara (sulut):
+keyword_1 bolaang mongondow,bolaang mongondow,kategori_scrapping sulawesi utara
+keyword_2 bolaang mongondow,bolaang mongondow,kategori_scrapping sulawesi utara
+keyword_3 bolaang mongondow,bolaang mongondow,kategori_scrapping sulawesi utara
+keyword_4 bolaang mongondow,bolaang mongondow,kategori_scrapping sulawesi utara
+keyword_5 bolaang mongondow,bolaang mongondow,kategori_scrapping sulawesi utara
+keyword_6 bolaang mongondow,bolaang mongondow,kategori_scrapping sulawesi utara
+keyword_1 bolaang mongondow selatan,bolaang mongondow selatan,kategori_scrapping sulawesi utara
+keyword_2 bolaang mongondow selatan,bolaang mongondow selatan,kategori_scrapping sulawesi utara
+keyword_3 bolaang mongondow selatan,bolaang mongondow selatan,kategori_scrapping sulawesi utara
+keyword_4 bolaang mongondow selatan,bolaang mongondow selatan,kategori_scrapping sulawesi utara
+keyword_5 bolaang mongondow selatan,bolaang mongondow selatan,kategori_scrapping sulawesi utara
+keyword_6 bolaang mongondow selatan,bolaang mongondow selatan,kategori_scrapping sulawesi utara
+keyword_1 bolaang mongondow timur,bolaang mongondow timur,kategori_scrapping sulawesi utara
+keyword_2 bolaang mongondow timur,bolaang mongondow timur,kategori_scrapping sulawesi utara
+keyword_3 bolaang mongondow timur,bolaang mongondow timur,kategori_scrapping sulawesi utara
+keyword_4 bolaang mongondow timur,bolaang mongondow timur,kategori_scrapping sulawesi utara
+keyword_5 bolaang mongondow timur,bolaang mongondow timur,kategori_scrapping sulawesi utara
+keyword_6 bolaang mongondow timur,bolaang mongondow timur,kategori_scrapping sulawesi utara
+keyword_1 bolaang mongondow utara,bolaang mongondow utara,kategori_scrapping sulawesi utara
+keyword_2 bolaang mongondow utara,bolaang mongondow utara,kategori_scrapping sulawesi utara
+keyword_3 bolaang mongondow utara,bolaang mongondow utara,kategori_scrapping sulawesi utara
+keyword_4 bolaang mongondow utara,bolaang mongondow utara,kategori_scrapping sulawesi utara
+keyword_5 bolaang mongondow utara,bolaang mongondow utara,kategori_scrapping sulawesi utara
+keyword_6 bolaang mongondow utara,bolaang mongondow utara,kategori_scrapping sulawesi utara
+keyword_1 kepulauan sangihe,kepulauan sangihe,kategori_scrapping sulawesi utara
+keyword_2 kepulauan sangihe,kepulauan sangihe,kategori_scrapping sulawesi utara
+keyword_3 kepulauan sangihe,kepulauan sangihe,kategori_scrapping sulawesi utara
+keyword_4 kepulauan sangihe,kepulauan sangihe,kategori_scrapping sulawesi utara
+keyword_5 kepulauan sangihe,kepulauan sangihe,kategori_scrapping sulawesi utara
+keyword_6 kepulauan sangihe,kepulauan sangihe,kategori_scrapping sulawesi utara
+keyword_1 kepulauan siau tagulandang biaro,kepulauan siau tagulandang biaro,kategori_scrapping sulawesi utara
+keyword_2 kepulauan siau tagulandang biaro,kepulauan siau tagulandang biaro,kategori_scrapping sulawesi utara
+keyword_3 kepulauan siau tagulandang biaro,kepulauan siau tagulandang biaro,kategori_scrapping sulawesi utara
+keyword_4 kepulauan siau tagulandang biaro,kepulauan siau tagulandang biaro,kategori_scrapping sulawesi utara
+keyword_5 kepulauan siau tagulandang biaro,kepulauan siau tagulandang biaro,kategori_scrapping sulawesi utara
+keyword_6 kepulauan siau tagulandang biaro,kepulauan siau tagulandang biaro,kategori_scrapping sulawesi utara
+keyword_1 kepulauan talaud,kepulauan talaud,kategori_scrapping sulawesi utara
+keyword_2 kepulauan talaud,kepulauan talaud,kategori_scrapping sulawesi utara
+keyword_3 kepulauan talaud,kepulauan talaud,kategori_scrapping sulawesi utara
+keyword_4 kepulauan talaud,kepulauan talaud,kategori_scrapping sulawesi utara
+keyword_5 kepulauan talaud,kepulauan talaud,kategori_scrapping sulawesi utara
+keyword_6 kepulauan talaud,kepulauan talaud,kategori_scrapping sulawesi utara
+keyword_1 minahasa,minahasa,kategori_scrapping sulawesi utara
+keyword_2 minahasa,minahasa,kategori_scrapping sulawesi utara
+keyword_3 minahasa,minahasa,kategori_scrapping sulawesi utara
+keyword_4 minahasa,minahasa,kategori_scrapping sulawesi utara
+keyword_5 minahasa,minahasa,kategori_scrapping sulawesi utara
+keyword_6 minahasa,minahasa,kategori_scrapping sulawesi utara
+keyword_1 minahasa selatan,minahasa selatan,kategori_scrapping sulawesi utara
+keyword_2 minahasa selatan,minahasa selatan,kategori_scrapping sulawesi utara
+keyword_3 minahasa selatan,minahasa selatan,kategori_scrapping sulawesi utara
+keyword_4 minahasa selatan,minahasa selatan,kategori_scrapping sulawesi utara
+keyword_5 minahasa selatan,minahasa selatan,kategori_scrapping sulawesi utara
+keyword_6 minahasa selatan,minahasa selatan,kategori_scrapping sulawesi utara
+keyword_1 minahasa tenggara,minahasa tenggara,kategori_scrapping sulawesi utara
+keyword_2 minahasa tenggara,minahasa tenggara,kategori_scrapping sulawesi utara
+keyword_3 minahasa tenggara,minahasa tenggara,kategori_scrapping sulawesi utara
+keyword_4 minahasa tenggara,minahasa tenggara,kategori_scrapping sulawesi utara
+keyword_5 minahasa tenggara,minahasa tenggara,kategori_scrapping sulawesi utara
+keyword_6 minahasa tenggara,minahasa tenggara,kategori_scrapping sulawesi utara
+keyword_1 minahasa utara,minahasa utara,kategori_scrapping sulawesi utara
+keyword_2 minahasa utara,minahasa utara,kategori_scrapping sulawesi utara
+keyword_3 minahasa utara,minahasa utara,kategori_scrapping sulawesi utara
+keyword_4 minahasa utara,minahasa utara,kategori_scrapping sulawesi utara
+keyword_5 minahasa utara,minahasa utara,kategori_scrapping sulawesi utara
+keyword_6 minahasa utara,minahasa utara,kategori_scrapping sulawesi utara
+keyword_1 bitung,bitung,kategori_scrapping sulawesi utara
+keyword_2 bitung,bitung,kategori_scrapping sulawesi utara
+keyword_3 bitung,bitung,kategori_scrapping sulawesi utara
+keyword_4 bitung,bitung,kategori_scrapping sulawesi utara
+keyword_5 bitung,bitung,kategori_scrapping sulawesi utara
+keyword_6 bitung,bitung,kategori_scrapping sulawesi utara
+keyword_1 kotamobagu,kotamobagu,kategori_scrapping sulawesi utara
+keyword_2 kotamobagu,kotamobagu,kategori_scrapping sulawesi utara
+keyword_3 kotamobagu,kotamobagu,kategori_scrapping sulawesi utara
+keyword_4 kotamobagu,kotamobagu,kategori_scrapping sulawesi utara
+keyword_5 kotamobagu,kotamobagu,kategori_scrapping sulawesi utara
+keyword_6 kotamobagu,kotamobagu,kategori_scrapping sulawesi utara
+keyword_1 manado,manado,kategori_scrapping sulawesi utara
+keyword_2 manado,manado,kategori_scrapping sulawesi utara
+keyword_3 manado,manado,kategori_scrapping sulawesi utara
+keyword_4 manado,manado,kategori_scrapping sulawesi utara
+keyword_5 manado,manado,kategori_scrapping sulawesi utara
+keyword_6 manado,manado,kategori_scrapping sulawesi utara
+keyword_1 tomohon,tomohon,kategori_scrapping sulawesi utara
+keyword_2 tomohon,tomohon,kategori_scrapping sulawesi utara
+keyword_3 tomohon,tomohon,kategori_scrapping sulawesi utara
+keyword_4 tomohon,tomohon,kategori_scrapping sulawesi utara
+keyword_5 tomohon,tomohon,kategori_scrapping sulawesi utara
+keyword_6 tomohon,tomohon,kategori_scrapping sulawesi utara
+
+
+
+provinsi sulawesi barat (sulbar):
+keyword_1 majene,majene,kategori_scrapping sulawesi barat
+keyword_2 majene,majene,kategori_scrapping sulawesi barat
+keyword_3 majene,majene,kategori_scrapping sulawesi barat
+keyword_4 majene,majene,kategori_scrapping sulawesi barat
+keyword_5 majene,majene,kategori_scrapping sulawesi barat
+keyword_6 majene,majene,kategori_scrapping sulawesi barat
+keyword_1 mamasa,mamasa,kategori_scrapping sulawesi barat
+keyword_2 mamasa,mamasa,kategori_scrapping sulawesi barat
+keyword_3 mamasa,mamasa,kategori_scrapping sulawesi barat
+keyword_4 mamasa,mamasa,kategori_scrapping sulawesi barat
+keyword_5 mamasa,mamasa,kategori_scrapping sulawesi barat
+keyword_6 mamasa,mamasa,kategori_scrapping sulawesi barat
+keyword_1 mamuju,mamuju,kategori_scrapping sulawesi barat
+keyword_2 mamuju,mamuju,kategori_scrapping sulawesi barat
+keyword_3 mamuju,mamuju,kategori_scrapping sulawesi barat
+keyword_4 mamuju,mamuju,kategori_scrapping sulawesi barat
+keyword_5 mamuju,mamuju,kategori_scrapping sulawesi barat
+keyword_6 mamuju,mamuju,kategori_scrapping sulawesi barat
+keyword_1 mamuju tengah,mamuju tengah,kategori_scrapping sulawesi barat
+keyword_2 mamuju tengah,mamuju tengah,kategori_scrapping sulawesi barat
+keyword_3 mamuju tengah,mamuju tengah,kategori_scrapping sulawesi barat
+keyword_4 mamuju tengah,mamuju tengah,kategori_scrapping sulawesi barat
+keyword_5 mamuju tengah,mamuju tengah,kategori_scrapping sulawesi barat
+keyword_6 mamuju tengah,mamuju tengah,kategori_scrapping sulawesi barat
+keyword_1 mamuju utara,mamuju utara,kategori_scrapping sulawesi barat
+keyword_2 mamuju utara,mamuju utara,kategori_scrapping sulawesi barat
+keyword_3 mamuju utara,mamuju utara,kategori_scrapping sulawesi barat
+keyword_4 mamuju utara,mamuju utara,kategori_scrapping sulawesi barat
+keyword_5 mamuju utara,mamuju utara,kategori_scrapping sulawesi barat
+keyword_6 mamuju utara,mamuju utara,kategori_scrapping sulawesi barat
+keyword_1 polewali mandar,polewali mandar,kategori_scrapping sulawesi barat
+keyword_2 polewali mandar,polewali mandar,kategori_scrapping sulawesi barat
+keyword_3 polewali mandar,polewali mandar,kategori_scrapping sulawesi barat
+keyword_4 polewali mandar,polewali mandar,kategori_scrapping sulawesi barat
+keyword_5 polewali mandar,polewali mandar,kategori_scrapping sulawesi barat
+keyword_6 polewali mandar,polewali mandar,kategori_scrapping sulawesi barat
+
+
+
+provinsi maluku:
+keyword_1 buru,buru,kategori_scrapping maluku
+keyword_2 buru,buru,kategori_scrapping maluku
+keyword_3 buru,buru,kategori_scrapping maluku
+keyword_4 buru,buru,kategori_scrapping maluku
+keyword_5 buru,buru,kategori_scrapping maluku
+keyword_6 buru,buru,kategori_scrapping maluku
+keyword_1 buru selatan,buru selatan,kategori_scrapping maluku
+keyword_2 buru selatan,buru selatan,kategori_scrapping maluku
+keyword_3 buru selatan,buru selatan,kategori_scrapping maluku
+keyword_4 buru selatan,buru selatan,kategori_scrapping maluku
+keyword_5 buru selatan,buru selatan,kategori_scrapping maluku
+keyword_6 buru selatan,buru selatan,kategori_scrapping maluku
+keyword_1 kepulauan aru,kepulauan aru,kategori_scrapping maluku
+keyword_2 kepulauan aru,kepulauan aru,kategori_scrapping maluku
+keyword_3 kepulauan aru,kepulauan aru,kategori_scrapping maluku
+keyword_4 kepulauan aru,kepulauan aru,kategori_scrapping maluku
+keyword_5 kepulauan aru,kepulauan aru,kategori_scrapping maluku
+keyword_6 kepulauan aru,kepulauan aru,kategori_scrapping maluku
+keyword_1 maluku barat daya,maluku barat daya,kategori_scrapping maluku
+keyword_2 maluku barat daya,maluku barat daya,kategori_scrapping maluku
+keyword_3 maluku barat daya,maluku barat daya,kategori_scrapping maluku
+keyword_4 maluku barat daya,maluku barat daya,kategori_scrapping maluku
+keyword_5 maluku barat daya,maluku barat daya,kategori_scrapping maluku
+keyword_6 maluku barat daya,maluku barat daya,kategori_scrapping maluku
+keyword_1 maluku tengah,maluku tengah,kategori_scrapping maluku
+keyword_2 maluku tengah,maluku tengah,kategori_scrapping maluku
+keyword_3 maluku tengah,maluku tengah,kategori_scrapping maluku
+keyword_4 maluku tengah,maluku tengah,kategori_scrapping maluku
+keyword_5 maluku tengah,maluku tengah,kategori_scrapping maluku
+keyword_6 maluku tengah,maluku tengah,kategori_scrapping maluku
+keyword_1 maluku tenggara,maluku tenggara,kategori_scrapping maluku
+keyword_2 maluku tenggara,maluku tenggara,kategori_scrapping maluku
+keyword_3 maluku tenggara,maluku tenggara,kategori_scrapping maluku
+keyword_4 maluku tenggara,maluku tenggara,kategori_scrapping maluku
+keyword_5 maluku tenggara,maluku tenggara,kategori_scrapping maluku
+keyword_6 maluku tenggara,maluku tenggara,kategori_scrapping maluku
+keyword_1 maluku tenggara barat,maluku tenggara barat,kategori_scrapping maluku
+keyword_2 maluku tenggara barat,maluku tenggara barat,kategori_scrapping maluku
+keyword_3 maluku tenggara barat,maluku tenggara barat,kategori_scrapping maluku
+keyword_4 maluku tenggara barat,maluku tenggara barat,kategori_scrapping maluku
+keyword_5 maluku tenggara barat,maluku tenggara barat,kategori_scrapping maluku
+keyword_6 maluku tenggara barat,maluku tenggara barat,kategori_scrapping maluku
+keyword_1 seram bagian barat,seram bagian barat,kategori_scrapping maluku
+keyword_2 seram bagian barat,seram bagian barat,kategori_scrapping maluku
+keyword_3 seram bagian barat,seram bagian barat,kategori_scrapping maluku
+keyword_4 seram bagian barat,seram bagian barat,kategori_scrapping maluku
+keyword_5 seram bagian barat,seram bagian barat,kategori_scrapping maluku
+keyword_6 seram bagian barat,seram bagian barat,kategori_scrapping maluku
+keyword_1 seram bagian timur,seram bagian timur,kategori_scrapping maluku
+keyword_2 seram bagian timur,seram bagian timur,kategori_scrapping maluku
+keyword_3 seram bagian timur,seram bagian timur,kategori_scrapping maluku
+keyword_4 seram bagian timur,seram bagian timur,kategori_scrapping maluku
+keyword_5 seram bagian timur,seram bagian timur,kategori_scrapping maluku
+keyword_6 seram bagian timur,seram bagian timur,kategori_scrapping maluku
+keyword_1 ambon,ambon,kategori_scrapping maluku
+keyword_2 ambon,ambon,kategori_scrapping maluku
+keyword_3 ambon,ambon,kategori_scrapping maluku
+keyword_4 ambon,ambon,kategori_scrapping maluku
+keyword_5 ambon,ambon,kategori_scrapping maluku
+keyword_6 ambon,ambon,kategori_scrapping maluku
+keyword_1 tual,tual,kategori_scrapping maluku
+keyword_2 tual,tual,kategori_scrapping maluku
+keyword_3 tual,tual,kategori_scrapping maluku
+keyword_4 tual,tual,kategori_scrapping maluku
+keyword_5 tual,tual,kategori_scrapping maluku
+keyword_6 tual,tual,kategori_scrapping maluku
+
+
+
+provinsi maluku utara:
+keyword_1 halmahera barat,halmahera barat,kategori_scrapping maluku utara
+keyword_2 halmahera barat,halmahera barat,kategori_scrapping maluku utara
+keyword_3 halmahera barat,halmahera barat,kategori_scrapping maluku utara
+keyword_4 halmahera barat,halmahera barat,kategori_scrapping maluku utara
+keyword_5 halmahera barat,halmahera barat,kategori_scrapping maluku utara
+keyword_6 halmahera barat,halmahera barat,kategori_scrapping maluku utara
+keyword_1 halmahera tengah,halmahera tengah,kategori_scrapping maluku utara
+keyword_2 halmahera tengah,halmahera tengah,kategori_scrapping maluku utara
+keyword_3 halmahera tengah,halmahera tengah,kategori_scrapping maluku utara
+keyword_4 halmahera tengah,halmahera tengah,kategori_scrapping maluku utara
+keyword_5 halmahera tengah,halmahera tengah,kategori_scrapping maluku utara
+keyword_6 halmahera tengah,halmahera tengah,kategori_scrapping maluku utara
+keyword_1 halmahera utara,halmahera utara,kategori_scrapping maluku utara
+keyword_2 halmahera utara,halmahera utara,kategori_scrapping maluku utara
+keyword_3 halmahera utara,halmahera utara,kategori_scrapping maluku utara
+keyword_4 halmahera utara,halmahera utara,kategori_scrapping maluku utara
+keyword_5 halmahera utara,halmahera utara,kategori_scrapping maluku utara
+keyword_6 halmahera utara,halmahera utara,kategori_scrapping maluku utara
+keyword_1 halmahera selatan,halmahera selatan,kategori_scrapping maluku utara
+keyword_2 halmahera selatan,halmahera selatan,kategori_scrapping maluku utara
+keyword_3 halmahera selatan,halmahera selatan,kategori_scrapping maluku utara
+keyword_4 halmahera selatan,halmahera selatan,kategori_scrapping maluku utara
+keyword_5 halmahera selatan,halmahera selatan,kategori_scrapping maluku utara
+keyword_6 halmahera selatan,halmahera selatan,kategori_scrapping maluku utara
+keyword_1 kepulauan sula,kepulauan sula,kategori_scrapping maluku utara
+keyword_2 kepulauan sula,kepulauan sula,kategori_scrapping maluku utara
+keyword_3 kepulauan sula,kepulauan sula,kategori_scrapping maluku utara
+keyword_4 kepulauan sula,kepulauan sula,kategori_scrapping maluku utara
+keyword_5 kepulauan sula,kepulauan sula,kategori_scrapping maluku utara
+keyword_6 kepulauan sula,kepulauan sula,kategori_scrapping maluku utara
+keyword_1 halmahera timur,halmahera timur,kategori_scrapping maluku utara
+keyword_2 halmahera timur,halmahera timur,kategori_scrapping maluku utara
+keyword_3 halmahera timur,halmahera timur,kategori_scrapping maluku utara
+keyword_4 halmahera timur,halmahera timur,kategori_scrapping maluku utara
+keyword_5 halmahera timur,halmahera timur,kategori_scrapping maluku utara
+keyword_6 halmahera timur,halmahera timur,kategori_scrapping maluku utara
+keyword_1 pulau morotai,pulau morotai,kategori_scrapping maluku utara
+keyword_2 pulau morotai,pulau morotai,kategori_scrapping maluku utara
+keyword_3 pulau morotai,pulau morotai,kategori_scrapping maluku utara
+keyword_4 pulau morotai,pulau morotai,kategori_scrapping maluku utara
+keyword_5 pulau morotai,pulau morotai,kategori_scrapping maluku utara
+keyword_6 pulau morotai,pulau morotai,kategori_scrapping maluku utara
+keyword_1 pulau taliabu,pulau taliabu,kategori_scrapping maluku utara
+keyword_2 pulau taliabu,pulau taliabu,kategori_scrapping maluku utara
+keyword_3 pulau taliabu,pulau taliabu,kategori_scrapping maluku utara
+keyword_4 pulau taliabu,pulau taliabu,kategori_scrapping maluku utara
+keyword_5 pulau taliabu,pulau taliabu,kategori_scrapping maluku utara
+keyword_6 pulau taliabu,pulau taliabu,kategori_scrapping maluku utara
+keyword_1 ternate,ternate,kategori_scrapping maluku utara
+keyword_2 ternate,ternate,kategori_scrapping maluku utara
+keyword_3 ternate,ternate,kategori_scrapping maluku utara
+keyword_4 ternate,ternate,kategori_scrapping maluku utara
+keyword_5 ternate,ternate,kategori_scrapping maluku utara
+keyword_6 ternate,ternate,kategori_scrapping maluku utara
+keyword_1 tidore kepulauan,tidore kepulauan,kategori_scrapping maluku utara
+keyword_2 tidore kepulauan,tidore kepulauan,kategori_scrapping maluku utara
+keyword_3 tidore kepulauan,tidore kepulauan,kategori_scrapping maluku utara
+keyword_4 tidore kepulauan,tidore kepulauan,kategori_scrapping maluku utara
+keyword_5 tidore kepulauan,tidore kepulauan,kategori_scrapping maluku utara
+keyword_6 tidore kepulauan,tidore kepulauan,kategori_scrapping maluku utara
+
+
+
+provinsi papua:
+keyword_1 biak numfor,biak numfor,kategori_scrapping papua
+keyword_2 biak numfor,biak numfor,kategori_scrapping papua
+keyword_3 biak numfor,biak numfor,kategori_scrapping papua
+keyword_4 biak numfor,biak numfor,kategori_scrapping papua
+keyword_5 biak numfor,biak numfor,kategori_scrapping papua
+keyword_6 biak numfor,biak numfor,kategori_scrapping papua
+keyword_1 jayapura,jayapura,kategori_scrapping papua
+keyword_2 jayapura,jayapura,kategori_scrapping papua
+keyword_3 jayapura,jayapura,kategori_scrapping papua
+keyword_4 jayapura,jayapura,kategori_scrapping papua
+keyword_5 jayapura,jayapura,kategori_scrapping papua
+keyword_6 jayapura,jayapura,kategori_scrapping papua
+keyword_1 keerom,keerom,kategori_scrapping papua
+keyword_2 keerom,keerom,kategori_scrapping papua
+keyword_3 keerom,keerom,kategori_scrapping papua
+keyword_4 keerom,keerom,kategori_scrapping papua
+keyword_5 keerom,keerom,kategori_scrapping papua
+keyword_6 keerom,keerom,kategori_scrapping papua
+keyword_1 kepulauan yapen,kepulauan yapen,kategori_scrapping papua
+keyword_2 kepulauan yapen,kepulauan yapen,kategori_scrapping papua
+keyword_3 kepulauan yapen,kepulauan yapen,kategori_scrapping papua
+keyword_4 kepulauan yapen,kepulauan yapen,kategori_scrapping papua
+keyword_5 kepulauan yapen,kepulauan yapen,kategori_scrapping papua
+keyword_6 kepulauan yapen,kepulauan yapen,kategori_scrapping papua
+keyword_1 mamberamo raya,mamberamo raya,kategori_scrapping papua
+keyword_2 mamberamo raya,mamberamo raya,kategori_scrapping papua
+keyword_3 mamberamo raya,mamberamo raya,kategori_scrapping papua
+keyword_4 mamberamo raya,mamberamo raya,kategori_scrapping papua
+keyword_5 mamberamo raya,mamberamo raya,kategori_scrapping papua
+keyword_6 mamberamo raya,mamberamo raya,kategori_scrapping papua
+keyword_1 sarmi,sarmi,kategori_scrapping papua
+keyword_2 sarmi,sarmi,kategori_scrapping papua
+keyword_3 sarmi,sarmi,kategori_scrapping papua
+keyword_4 sarmi,sarmi,kategori_scrapping papua
+keyword_5 sarmi,sarmi,kategori_scrapping papua
+keyword_6 sarmi,sarmi,kategori_scrapping papua
+keyword_1 supiori,supiori,kategori_scrapping papua
+keyword_2 supiori,supiori,kategori_scrapping papua
+keyword_3 supiori,supiori,kategori_scrapping papua
+keyword_4 supiori,supiori,kategori_scrapping papua
+keyword_5 supiori,supiori,kategori_scrapping papua
+keyword_6 supiori,supiori,kategori_scrapping papua
+keyword_1 waropen,waropen,kategori_scrapping papua
+keyword_2 waropen,waropen,kategori_scrapping papua
+keyword_3 waropen,waropen,kategori_scrapping papua
+keyword_4 waropen,waropen,kategori_scrapping papua
+keyword_5 waropen,waropen,kategori_scrapping papua
+keyword_6 waropen,waropen,kategori_scrapping papua
+
+
+
+provinsi papua barat:
+keyword_1 fakfak,fakfak,kategori_scrapping papua barat
+keyword_2 fakfak,fakfak,kategori_scrapping papua barat
+keyword_3 fakfak,fakfak,kategori_scrapping papua barat
+keyword_4 fakfak,fakfak,kategori_scrapping papua barat
+keyword_5 fakfak,fakfak,kategori_scrapping papua barat
+keyword_6 fakfak,fakfak,kategori_scrapping papua barat
+keyword_1 kaimana,kaimana,kategori_scrapping papua barat
+keyword_2 kaimana,kaimana,kategori_scrapping papua barat
+keyword_3 kaimana,kaimana,kategori_scrapping papua barat
+keyword_4 kaimana,kaimana,kategori_scrapping papua barat
+keyword_5 kaimana,kaimana,kategori_scrapping papua barat
+keyword_6 kaimana,kaimana,kategori_scrapping papua barat
+keyword_1 manokwari,manokwari,kategori_scrapping papua barat
+keyword_2 manokwari,manokwari,kategori_scrapping papua barat
+keyword_3 manokwari,manokwari,kategori_scrapping papua barat
+keyword_4 manokwari,manokwari,kategori_scrapping papua barat
+keyword_5 manokwari,manokwari,kategori_scrapping papua barat
+keyword_6 manokwari,manokwari,kategori_scrapping papua barat
+keyword_1 manokwari selatan,manokwari selatan,kategori_scrapping papua barat
+keyword_2 manokwari selatan,manokwari selatan,kategori_scrapping papua barat
+keyword_3 manokwari selatan,manokwari selatan,kategori_scrapping papua barat
+keyword_4 manokwari selatan,manokwari selatan,kategori_scrapping papua barat
+keyword_5 manokwari selatan,manokwari selatan,kategori_scrapping papua barat
+keyword_6 manokwari selatan,manokwari selatan,kategori_scrapping papua barat
+keyword_1 pegunungan arfak,pegunungan arfak,kategori_scrapping papua barat
+keyword_2 pegunungan arfak,pegunungan arfak,kategori_scrapping papua barat
+keyword_3 pegunungan arfak,pegunungan arfak,kategori_scrapping papua barat
+keyword_4 pegunungan arfak,pegunungan arfak,kategori_scrapping papua barat
+keyword_5 pegunungan arfak,pegunungan arfak,kategori_scrapping papua barat
+keyword_6 pegunungan arfak,pegunungan arfak,kategori_scrapping papua barat
+keyword_1 teluk bintuni,teluk bintuni,kategori_scrapping papua barat
+keyword_2 teluk bintuni,teluk bintuni,kategori_scrapping papua barat
+keyword_3 teluk bintuni,teluk bintuni,kategori_scrapping papua barat
+keyword_4 teluk bintuni,teluk bintuni,kategori_scrapping papua barat
+keyword_5 teluk bintuni,teluk bintuni,kategori_scrapping papua barat
+keyword_6 teluk bintuni,teluk bintuni,kategori_scrapping papua barat
+keyword_1 teluk wondama,teluk wondama,kategori_scrapping papua barat
+keyword_2 teluk wondama,teluk wondama,kategori_scrapping papua barat
+keyword_3 teluk wondama,teluk wondama,kategori_scrapping papua barat
+keyword_4 teluk wondama,teluk wondama,kategori_scrapping papua barat
+keyword_5 teluk wondama,teluk wondama,kategori_scrapping papua barat
+keyword_6 teluk wondama,teluk wondama,kategori_scrapping papua barat
+
+
+
+provinsi papua selatan:
+keyword_1 asmat,asmat,kategori_scrapping papua selatan
+keyword_2 asmat,asmat,kategori_scrapping papua selatan
+keyword_3 asmat,asmat,kategori_scrapping papua selatan
+keyword_4 asmat,asmat,kategori_scrapping papua selatan
+keyword_5 asmat,asmat,kategori_scrapping papua selatan
+keyword_6 asmat,asmat,kategori_scrapping papua selatan
+keyword_1 boven digoel,boven digoel,kategori_scrapping papua selatan
+keyword_2 boven digoel,boven digoel,kategori_scrapping papua selatan
+keyword_3 boven digoel,boven digoel,kategori_scrapping papua selatan
+keyword_4 boven digoel,boven digoel,kategori_scrapping papua selatan
+keyword_5 boven digoel,boven digoel,kategori_scrapping papua selatan
+keyword_6 boven digoel,boven digoel,kategori_scrapping papua selatan
+keyword_1 mappi,mappi,kategori_scrapping papua selatan
+keyword_2 mappi,mappi,kategori_scrapping papua selatan
+keyword_3 mappi,mappi,kategori_scrapping papua selatan
+keyword_4 mappi,mappi,kategori_scrapping papua selatan
+keyword_5 mappi,mappi,kategori_scrapping papua selatan
+keyword_6 mappi,mappi,kategori_scrapping papua selatan
+keyword_1 merauke,merauke,kategori_scrapping papua selatan
+keyword_2 merauke,merauke,kategori_scrapping papua selatan
+keyword_3 merauke,merauke,kategori_scrapping papua selatan
+keyword_4 merauke,merauke,kategori_scrapping papua selatan
+keyword_5 merauke,merauke,kategori_scrapping papua selatan
+keyword_6 merauke,merauke,kategori_scrapping papua selatan
+
+
+
+provinsi papua tengah:
+keyword_1 deiyai,deiyai,kategori_scrapping papua tengah
+keyword_2 deiyai,deiyai,kategori_scrapping papua tengah
+keyword_3 deiyai,deiyai,kategori_scrapping papua tengah
+keyword_4 deiyai,deiyai,kategori_scrapping papua tengah
+keyword_5 deiyai,deiyai,kategori_scrapping papua tengah
+keyword_6 deiyai,deiyai,kategori_scrapping papua tengah
+keyword_1 dogiyai,dogiyai,kategori_scrapping papua tengah
+keyword_2 dogiyai,dogiyai,kategori_scrapping papua tengah
+keyword_3 dogiyai,dogiyai,kategori_scrapping papua tengah
+keyword_4 dogiyai,dogiyai,kategori_scrapping papua tengah
+keyword_5 dogiyai,dogiyai,kategori_scrapping papua tengah
+keyword_6 dogiyai,dogiyai,kategori_scrapping papua tengah
+keyword_1 intan jaya,intan jaya,kategori_scrapping papua tengah
+keyword_2 intan jaya,intan jaya,kategori_scrapping papua tengah
+keyword_3 intan jaya,intan jaya,kategori_scrapping papua tengah
+keyword_4 intan jaya,intan jaya,kategori_scrapping papua tengah
+keyword_5 intan jaya,intan jaya,kategori_scrapping papua tengah
+keyword_6 intan jaya,intan jaya,kategori_scrapping papua tengah
+keyword_1 mimika,mimika,kategori_scrapping papua tengah
+keyword_2 mimika,mimika,kategori_scrapping papua tengah
+keyword_3 mimika,mimika,kategori_scrapping papua tengah
+keyword_4 mimika,mimika,kategori_scrapping papua tengah
+keyword_5 mimika,mimika,kategori_scrapping papua tengah
+keyword_6 mimika,mimika,kategori_scrapping papua tengah
+keyword_1 nabire,nabire,kategori_scrapping papua tengah
+keyword_2 nabire,nabire,kategori_scrapping papua tengah
+keyword_3 nabire,nabire,kategori_scrapping papua tengah
+keyword_4 nabire,nabire,kategori_scrapping papua tengah
+keyword_5 nabire,nabire,kategori_scrapping papua tengah
+keyword_6 nabire,nabire,kategori_scrapping papua tengah
+keyword_1 paniai,paniai,kategori_scrapping papua tengah
+keyword_2 paniai,paniai,kategori_scrapping papua tengah
+keyword_3 paniai,paniai,kategori_scrapping papua tengah
+keyword_4 paniai,paniai,kategori_scrapping papua tengah
+keyword_5 paniai,paniai,kategori_scrapping papua tengah
+keyword_6 paniai,paniai,kategori_scrapping papua tengah
+keyword_1 puncak,puncak,kategori_scrapping papua tengah
+keyword_2 puncak,puncak,kategori_scrapping papua tengah
+keyword_3 puncak,puncak,kategori_scrapping papua tengah
+keyword_4 puncak,puncak,kategori_scrapping papua tengah
+keyword_5 puncak,puncak,kategori_scrapping papua tengah
+keyword_6 puncak,puncak,kategori_scrapping papua tengah
+keyword_1 puncak jaya,puncak jaya,kategori_scrapping papua tengah
+keyword_2 puncak jaya,puncak jaya,kategori_scrapping papua tengah
+keyword_3 puncak jaya,puncak jaya,kategori_scrapping papua tengah
+keyword_4 puncak jaya,puncak jaya,kategori_scrapping papua tengah
+keyword_5 puncak jaya,puncak jaya,kategori_scrapping papua tengah
+keyword_6 puncak jaya,puncak jaya,kategori_scrapping papua tengah
+
+
+
+provinsi papua pegunungan:
+keyword_1 jayawijaya,jayawijaya,kategori_scrapping pegunungan papua
+keyword_2 jayawijaya,jayawijaya,kategori_scrapping pegunungan papua
+keyword_3 jayawijaya,jayawijaya,kategori_scrapping pegunungan papua
+keyword_4 jayawijaya,jayawijaya,kategori_scrapping pegunungan papua
+keyword_5 jayawijaya,jayawijaya,kategori_scrapping pegunungan papua
+keyword_6 jayawijaya,jayawijaya,kategori_scrapping pegunungan papua
+keyword_1 lanny jaya,lanny jaya,kategori_scrapping pegunungan papua
+keyword_2 lanny jaya,lanny jaya,kategori_scrapping pegunungan papua
+keyword_3 lanny jaya,lanny jaya,kategori_scrapping pegunungan papua
+keyword_4 lanny jaya,lanny jaya,kategori_scrapping pegunungan papua
+keyword_5 lanny jaya,lanny jaya,kategori_scrapping pegunungan papua
+keyword_6 lanny jaya,lanny jaya,kategori_scrapping pegunungan papua
+keyword_1 mamberamo tengah,mamberamo tengah,kategori_scrapping pegunungan papua
+keyword_2 mamberamo tengah,mamberamo tengah,kategori_scrapping pegunungan papua
+keyword_3 mamberamo tengah,mamberamo tengah,kategori_scrapping pegunungan papua
+keyword_4 mamberamo tengah,mamberamo tengah,kategori_scrapping pegunungan papua
+keyword_5 mamberamo tengah,mamberamo tengah,kategori_scrapping pegunungan papua
+keyword_6 mamberamo tengah,mamberamo tengah,kategori_scrapping pegunungan papua
+keyword_1 nduga,nduga,kategori_scrapping pegunungan papua
+keyword_2 nduga,nduga,kategori_scrapping pegunungan papua
+keyword_3 nduga,nduga,kategori_scrapping pegunungan papua
+keyword_4 nduga,nduga,kategori_scrapping pegunungan papua
+keyword_5 nduga,nduga,kategori_scrapping pegunungan papua
+keyword_6 nduga,nduga,kategori_scrapping pegunungan papua
+keyword_1 pegunungan bintang,pegunungan bintang,kategori_scrapping pegunungan papua
+keyword_2 pegunungan bintang,pegunungan bintang,kategori_scrapping pegunungan papua
+keyword_3 pegunungan bintang,pegunungan bintang,kategori_scrapping pegunungan papua
+keyword_4 pegunungan bintang,pegunungan bintang,kategori_scrapping pegunungan papua
+keyword_5 pegunungan bintang,pegunungan bintang,kategori_scrapping pegunungan papua
+keyword_6 pegunungan bintang,pegunungan bintang,kategori_scrapping pegunungan papua
+keyword_1 tolikara,tolikara,kategori_scrapping pegunungan papua
+keyword_2 tolikara,tolikara,kategori_scrapping pegunungan papua
+keyword_3 tolikara,tolikara,kategori_scrapping pegunungan papua
+keyword_4 tolikara,tolikara,kategori_scrapping pegunungan papua
+keyword_5 tolikara,tolikara,kategori_scrapping pegunungan papua
+keyword_6 tolikara,tolikara,kategori_scrapping pegunungan papua
+keyword_1 yalimo,yalimo,kategori_scrapping pegunungan papua
+keyword_2 yalimo,yalimo,kategori_scrapping pegunungan papua
+keyword_3 yalimo,yalimo,kategori_scrapping pegunungan papua
+keyword_4 yalimo,yalimo,kategori_scrapping pegunungan papua
+keyword_5 yalimo,yalimo,kategori_scrapping pegunungan papua
+keyword_6 yalimo,yalimo,kategori_scrapping pegunungan papua
+keyword_1 yahukimo,yahukimo,kategori_scrapping pegunungan papua
+keyword_2 yahukimo,yahukimo,kategori_scrapping pegunungan papua
+keyword_3 yahukimo,yahukimo,kategori_scrapping pegunungan papua
+keyword_4 yahukimo,yahukimo,kategori_scrapping pegunungan papua
+keyword_5 yahukimo,yahukimo,kategori_scrapping pegunungan papua
+keyword_6 yahukimo,yahukimo,kategori_scrapping pegunungan papua
+
+
+
+provinsi papua barat daya:
+keyword_1 maybrat,maybrat,kategori_scrapping papua barat daya
+keyword_2 maybrat,maybrat,kategori_scrapping papua barat daya
+keyword_3 maybrat,maybrat,kategori_scrapping papua barat daya
+keyword_4 maybrat,maybrat,kategori_scrapping papua barat daya
+keyword_5 maybrat,maybrat,kategori_scrapping papua barat daya
+keyword_6 maybrat,maybrat,kategori_scrapping papua barat daya
+keyword_1 raja ampat,raja ampat,kategori_scrapping papua barat daya
+keyword_2 raja ampat,raja ampat,kategori_scrapping papua barat daya
+keyword_3 raja ampat,raja ampat,kategori_scrapping papua barat daya
+keyword_4 raja ampat,raja ampat,kategori_scrapping papua barat daya
+keyword_5 raja ampat,raja ampat,kategori_scrapping papua barat daya
+keyword_6 raja ampat,raja ampat,kategori_scrapping papua barat daya
+keyword_1 sorong,sorong,kategori_scrapping papua barat daya
+keyword_2 sorong,sorong,kategori_scrapping papua barat daya
+keyword_3 sorong,sorong,kategori_scrapping papua barat daya
+keyword_4 sorong,sorong,kategori_scrapping papua barat daya
+keyword_5 sorong,sorong,kategori_scrapping papua barat daya
+keyword_6 sorong,sorong,kategori_scrapping papua barat daya
+keyword_1 sorong selatan,sorong selatan,kategori_scrapping papua barat daya
+keyword_2 sorong selatan,sorong selatan,kategori_scrapping papua barat daya
+keyword_3 sorong selatan,sorong selatan,kategori_scrapping papua barat daya
+keyword_4 sorong selatan,sorong selatan,kategori_scrapping papua barat daya
+keyword_5 sorong selatan,sorong selatan,kategori_scrapping papua barat daya
+keyword_6 sorong selatan,sorong selatan,kategori_scrapping papua barat daya
+keyword_1 tambrauw,tambrauw,kategori_scrapping papua barat daya
+keyword_2 tambrauw,tambrauw,kategori_scrapping papua barat daya
+keyword_3 tambrauw,tambrauw,kategori_scrapping papua barat daya
+keyword_4 tambrauw,tambrauw,kategori_scrapping papua barat daya
+keyword_5 tambrauw,tambrauw,kategori_scrapping papua barat daya
+keyword_6 tambrauw,tambrauw,kategori_scrapping papua barat daya

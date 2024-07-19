@@ -21,13 +21,25 @@ async function main() {
             const [part1, part2, part3] = keyword.split(',');
             if (part3 !== previousCategory) { index = 0; }
             previousCategory = part3;
+
+            const isRunningPath = 'G:/My Drive/uivision/datasources/isRunning.csv';
+            const dewaPath = `G:/My Drive/uivision/datasources/(dewa) scrapping nomor ${part3} ${currentDatewithtime}.csv`;
+            const qontaqPath = `G:/My Drive/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`;
+
+            await fileExists(qontaqPath)
+                .then(exists => {
+                    if(exists == false){ index = 0;}
+                }).catch(err => {
+                    console.error('Error checking file existence:', err);
+                });
+
             const finalKeyword = `${keyword},${index}`;
-            console.log(`Running for keyword: ${part1}`);
+            console.log(`Running for keyword: ${finalKeyword}`);
 
             const taskStartTime = Date.now();
 
             try {
-                await modifyCSV('G:/My Drive/uivision/datasources/isRunning.csv', 'isRunning', 'false', 'true');
+                await modifyCSV(isRunningPath, 'isRunning', 'false', 'true');
             } catch (error) {
                 console.error(`Error modifying CSV: ${error.message}`);
                 continue;
@@ -47,7 +59,7 @@ async function main() {
                 }
 
                 try {
-                    isRunning = await checkIsRunning('G:/My Drive/uivision/datasources/isRunning.csv', 'isRunning', 'true');
+                    isRunning = await checkIsRunning(isRunningPath, 'isRunning', 'true');
                 } catch (error) {
                     console.error(`Error checking if running: ${error.message}`);
                     continue;
@@ -57,15 +69,15 @@ async function main() {
             await sleep(2500);
 
             try {
-                await rewriteCSVWithoutQuotes(`G:/My Drive/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
-                await rewriteCSVWithoutQuotes(`G:/My Drive/uivision/datasources/(dewa) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
+                await rewriteCSVWithoutQuotes(qontaqPath);
+                await rewriteCSVWithoutQuotes(dewaPath);
             } catch (error) {
                 console.error(`Error rewriting numbers from CSV: ${error.message}`);
                 // continue;
             }
 
             try {
-                const newNumber = await readNumbersFromCSV(`G:/My Drive/uivision/datasources/(qontaq) scrapping nomor ${part3} ${currentDatewithtime}.csv`);
+                const newNumber = await readNumbersFromCSV(qontaqPath);
                 allNumber = newNumber;
             } catch (error) {
                 console.error(`Error reading numbers from CSV: ${error.message}`);
@@ -78,6 +90,14 @@ async function main() {
     } catch (error) {
         console.error(`Error: ${error.message}`);
     }
+}
+
+function fileExists(filePath) {
+    return new Promise((resolve) => {
+      fs.access(filePath, fs.constants.F_OK, (err) => {
+        resolve(!err);
+      });
+    });
 }
 
 function readNumbersFromCSV(filePath) {
@@ -217,7 +237,7 @@ async function modifyCSV(filePath, columnName, oldValue, newValue) {
                         console.error(`Error writing to CSV file: ${err.message}`);
                         reject(err);
                     } else {
-                        console.log('CSV file updated successfully.');
+                        // console.log('CSV file updated successfully.');
                         resolve();
                     }
                 });
