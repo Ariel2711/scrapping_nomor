@@ -46,7 +46,12 @@ async function main() {
             }
 
             const url = `file:///C:/scrapping_nomor/uivision.html?macro=scrapping_nomor&cmd_var1=${finalKeyword}&cmd_var2=${currentDatewithtime}&cmd_var3=${allNumber}&closeRPA=1&closeBrowser=1&direct=1&storage=xfile`;
-            await runCommand(`start chrome "${url}"`);
+            
+            try {
+                await runCommand(`start chrome "${url}"`);
+            } catch (error) {
+                continue;
+            }
 
             let isRunning = true;
             while (isRunning) {
@@ -88,7 +93,7 @@ async function main() {
         }
 
     } catch (error) {
-        console.error(`Error: ${error.message}`);
+        console.error(`Error main function`);
     }
 }
 
@@ -283,4 +288,4 @@ async function closeChromeAndUIVision() {
     }
 }
 
-main().catch(error => console.error('Error:', error));
+main().catch(error => console.error('Error'));
