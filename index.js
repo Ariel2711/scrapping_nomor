@@ -16,6 +16,10 @@ async function main() {
         var previousCategory = "";
 
         for (let i = 0; i < keywords.length; i++) {
+            try {
+                await closeChromeAndUIVision();
+            } catch (error) {}
+
             const keyword = keywords[i];
             var index = i;
             const [part1, part2, part3] = keyword.split(',');
@@ -50,6 +54,10 @@ async function main() {
             try {
                 await runCommand(`start chrome "${url}"`);
             } catch (error) {
+                try {
+                    await closeChromeAndUIVision();
+                } catch (error) {}
+
                 continue;
             }
 
@@ -59,7 +67,10 @@ async function main() {
                 if (Date.now() - taskStartTime > timeoutDuration) {
                     isRunning = false;
                     console.log(`Timeout reached for keyword: ${part1}`);
-                    await closeChromeAndUIVision();
+                    try {
+                        await closeChromeAndUIVision();
+                    } catch (error) {}
+
                     break;
                 }
 
@@ -288,4 +299,4 @@ async function closeChromeAndUIVision() {
     }
 }
 
-main().catch(error => console.error('Error'));
+main().catch(error => console.error('Error main catch'));
